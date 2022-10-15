@@ -173,8 +173,7 @@ studying older adults [45], people with visual impairments [60], sex trafficking
 and journalists [79]. Our present work fits into that
 space, deepening our understanding of the experiences
 of queer individuals in trying to respond to their security/safety/privacy concerns. We hypothesize that some
-of our conclusions are relevant to other marginalized
-groups as well.
+of our conclusions are relevant to other marginalized groups as well.
 ## 2.4 Security Advice
 Advice evaluation. Providing security education to
 users has often been a takeaway from user studies on
@@ -201,8 +200,7 @@ groups may have profoundly different needs and challenges for security and priva
 queer individuals, queer life experiences and concerns
 can be very different [97]. Security advice exists specifically for women [24], gay online dating [4], queer individuals using Instagram [8], and Black Lives Matter
 protesters [103] to name a few examples. The Reconfigure Network organized security community workshops
-and found that contrary to popular cybersecurity narratives that users are uninterested in security, their participants demonstrated care and thoughtfulness in both their
-own and communal privacy practices, and their practices
+and found that contrary to popular cybersecurity narratives that users are uninterested in security, their participants demonstrated care and thoughtfulness in both their own and communal privacy practices, and their practices
 are shaped by privilege and oppression [14]. We follow
 Reconfigure’s epistemological approach (feminist standpoint theory) of looking to users as experts in their own
 lives, rather than relying on threat models and advice developed by traditional security experts.
@@ -575,19 +573,18 @@ up relying on a guide created by what they considered a
 reputable source, like Wired or Technology Review.
 P8 expressed a similar sentiment when explaining why
 they did not search the Internet for what to do after their
-Instagram account got duplicated: “I think I’m also fearful that I’d be sold something. I have that experience,
-and I didn’t buy anything and nothing bad happened.”
+Instagram account got duplicated: 
+> “I think I’m also fearful that I’d be sold something. I have that experience, and I didn’t buy anything and nothing bad happened.”
+
 Some participants turned to platforms themselves for
 information on how to manage their privacy or safety.
 But they did not always trust that the platform would prioritize user interests over their own. P11 stated about
 Reddit,
-...there’s some mistrust that I have with some
-of these platforms where I’m like...do they actually want anonymity? Or do they actually
-want people to be...moving in this direction
-where like you have a profile and like, they can
-personalize things for you right? There’s more
-gain for the business, I think, to do that, than
-there necessarily could be for me.
+
+> ...there’s some mistrust that I have with some of these platforms where I’m like...do they actually want anonymity? Or do they actually
+> want people to be...moving in this direction where like you have a profile and like, they can
+> personalize things for you right? There’s more gain for the business, I think, to do that, than
+> there necessarily could be for me.
 ### 4.2.6 Advice becoming out-of-date
 Some participants had difficulty using the Internet to find
 up-to-date security information. P1 tried to find how to
