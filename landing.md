@@ -912,7 +912,7 @@ different threat models. We also argue for using intersectionality to understand
 higher risk of harms or constrain what mitigating behaviors people can adopt. We also echo calls for policy and
 other structural approaches to make marginalized populations safer, rather than only focusing on personal responsibility to find good advice. Finally, our work provides a foundation for understanding how overlapping
 identity threat models affect advice-seeking.
-8 Acknowledgements
+# 8 Acknowledgements
 We thank our study participants for sharing their perspectives and time with us. We thank Sheamus Heikkila, Tadayoshi Kohno, Naveena Karusala, Lucy Simko, Emily
 Tseng, and Miranda Wei for their valuable feedback.
 We thank Seattle AARP and the Reddit moderators of
