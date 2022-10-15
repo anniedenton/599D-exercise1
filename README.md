@@ -699,6 +699,7 @@ photos.
 > been like here’s a step by step guide of how
 > to clean up your social media without deleting your entire account and restarting it. Most
 > places I searched would say just start over.
+
 This reflects prior work indicating that transitioning
 users either try to remove old photos or change visibility of those photos on Facebook [53].
 P1 also experienced this difficulty of trying to get
@@ -771,6 +772,7 @@ in a gay neighborhood. He stated,
 > do I live, am I homeless....[This incident] really ticked me off because, I’m gay, it’s the
 > [gay neighborhood], that’s supposed to be my
 > community.”
+
 P5 (non-binary, autistic) also did not like the advice,
 citing previous incidents of police acting violently towards queer and/or autistic individuals. P11 stated it
 could be useful to someone to give them a sense of security, but he would never call the police on a date. P4 (gay,
