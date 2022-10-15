@@ -226,7 +226,8 @@ changes ever failed to solve the problem?
 4. What online advice have participants seen but decided was not for them?
 5. If people are unconcerned about online safety / security / privacy, what are they resigned to?
 The full interview protocol can be found in Appendix 9.1.
-Advice Prompts. We also gathered queer safety advice
+### Advice Prompts
+We also gathered queer safety advice
 available online as prompts for participants to think about
 behaviors related to concerns they had (Appendix 9.2).
 These prompts were collated from ten pages of online
@@ -239,7 +240,8 @@ asked about the same advice, because it wasn’t always
 relevant to them. Some prompt examples include “use
 2-factor authentication” and “on a first date, don’t meet
 at home.”
-Procedure. Interviews were conducted remotely either
+### Procedure
+Interviews were conducted remotely either
 by phone or by video conferencing program, depending
 on participant choice. They ranged from 45 to 90 minutes. Participants were compensated with a $30 gift card.
 Calls were recorded with participant consent. Only audio
@@ -249,7 +251,8 @@ avoid third-party access to interview data, and were
 anonymized in the transcription process. Quotes used
 in this paper are paraphrased for clarity and further
 anonymity.
-Ethics. Due to the potentially harmful memories our interview questions could bring up, we took care to follow best practices from trauma-aware research. We emphasized to participants that they could skip any question and end the interview at any time and still receive
+### Ethics
+Due to the potentially harmful memories our interview questions could bring up, we took care to follow best practices from trauma-aware research. We emphasized to participants that they could skip any question and end the interview at any time and still receive
 compensation. The interviewer listened without judgement and offered participants time to take a moment if
 needed following a sensitive disclosure. The interviewer
 also had the Trevor Project hotline number available in
@@ -273,20 +276,21 @@ Participants sometimes answered more than one option (e.g., race):
 
 
 | Participant | Gender | Orientation |
+| ----------- | ----------- | ------- |
 | 1 |non-binary | bi |
 | 2 |woman of trans experience | bi |
 | 3 |female | pansexual |  
-| 4 |transgender man | gay
-| 5 |non-binary demisexual
-| 6 |trans girl mostly sapphic
-| 7 |gender non-conforming queer
-| 8 |non-binary queer
-| 9 |cis woman queer/bisexual
-| 10 |male homosexual, queer
-| 11 |cis male gay
-| 12 | female lesbian
-| 13 | transgender queer
-| 14 |female lesbian
+| 4 |transgender man | gay |
+| 5 |non-binary demisexual |
+| 6 |trans girl mostly sapphic |
+| 7 |gender non-conforming queer |
+| 8 |non-binary queer |
+| 9 |cis woman queer/bisexual |
+| 10 |male | homosexual, queer |
+| 11 |cis male | gay |
+| 12 | female | lesbian |
+| 13 | transgender | queer |
+| 14 |female | lesbian |
 
 We recruited 14 queer participants diverse across age,
 race, disability, and economic and educational status (Table 1). We determined saturation at 14 participants after no new higher-level themes emerged from the data
