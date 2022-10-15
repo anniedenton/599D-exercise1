@@ -97,8 +97,7 @@ perception and adoption of advice, and participants sometimes prioritize non-que
 
 Based on our results, we develop takeaways for better security, safety, and privacy advice, with conclusions likely applicable to other vulnerable or marginalized populations as well. For example, we observe that
 specificity is more important than consistency for advice, since even people with a common identity (e.g.,
-queer) may differ in their threat models (e.g., social media business-user who needs a public profile) and circumstances. As such, we also touch on how intersectionality
-can be useful, even necessary, in security research when
+queer) may differ in their threat models (e.g., social media business-user who needs a public profile) and circumstances. As such, we also touch on how intersectionality can be useful, even necessary, in security research when
 threat modeling. Finally, we stress that advice is limited
 in preventing harms by placing responsibility of safety
 on an individual rather than on an institution.
@@ -264,10 +263,13 @@ approved by the University of Washington IRB.
 Table 1: Participant demographics. We report these in aggregate for our set of 14 participants for participant anonymity.
 Participants sometimes answered more than one option (e.g., race):
 
-| Syntax      | Description |
+| Race     | Number of participants |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| White      | 9     |
+| Black  | 4        |
+| Asian  | 2       |
+| Latino  | 1       |
+| Native American  | 1       |
 
 We recruited 14 queer participants diverse across age,
 race, disability, and economic and educational status (Table 1). We determined saturation at 14 participants after no new higher-level themes emerged from the data
