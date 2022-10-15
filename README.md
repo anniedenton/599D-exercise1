@@ -281,11 +281,11 @@ Participants sometimes answered more than one option (e.g., race):
 | 2 |woman of trans experience | bi |
 | 3 |female | pansexual |  
 | 4 |transgender man | gay |
-| 5 |non-binary demisexual |
-| 6 |trans girl mostly sapphic |
-| 7 |gender non-conforming queer |
-| 8 |non-binary queer |
-| 9 |cis woman queer/bisexual |
+| 5 |non-binary | demisexual |
+| 6 |trans girl | mostly sapphic |
+| 7 |gender non-conforming | queer |
+| 8 |non-binary | queer |
+| 9 |cis woman | queer/bisexual |
 | 10 |male | homosexual, queer |
 | 11 |cis male | gay |
 | 12 | female | lesbian |
