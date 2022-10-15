@@ -1,6 +1,4 @@
 # “Like Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
-[id1]: ## "your hover text"
-This is a [hover text][id1] example.
 
 Given stigma and threats surrounding being gay or transgender, LGBTQ+ folks often seek support and information on navigating identity and personal (digital and
 physical) safety. While prior research on digital security advice focused on a general population and general
