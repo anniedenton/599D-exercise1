@@ -108,7 +108,8 @@ play a role in risk by discussing research with other vulnerable or marginalized
 ## 2.1 Queer-Specific Risks
 The specific harms and threats that queer folks face (offand online) due to stigma around sexual orientation or
 gender have been well-documented.
-Technology-independent risks. Risks to queer folks exist independent of technology (e.g., at school, home, and
+### Technology-independent risks. 
+Risks to queer folks exist independent of technology (e.g., at school, home, and
 work). Queer youth are more likely than their heterosexual and cisgender (or cis) counterparts to be bullied, consider suicide [5], and be homeless [9]. LGBT youth are
 often homeless because they are thrown out by their parents upon learning they are gay [9]. While U.S. law technically protects LGBTQ+ people in the workplace [71],
 in practice their jobs may still be at risk (e.g., a teacher
@@ -117,7 +118,8 @@ Transgender (or trans) folks, particularly Black or
 Latino trans women, are disproportionately likely to face
 violence [13]. Trans/gay panic, a legal defense for someone to justify violence against someone after finding out
 they are transgender or queer, is still legal in 35 states [7].
-Risks on social media. The risks of being out—public
+### Risks on social media. 
+The risks of being out—public
 about one’s identity as queer—indicate how important it
 is for queer folks to be able to control access to their
 information. Prior work has noted queer individuals do
@@ -126,7 +128,8 @@ audiences on social media [23, 38, 28, 47, 92], a problem more generally known a
 can be especially stressful for transgender individuals
 navigating transitioning and coming out on social media [52, 84, 53]. To manage different audiences, individuals use affordances including multiple social media
 sites or accounts, private accounts, and granular post visibility [38, 28, 47].
-Risks in online dating and sexting. Over half of lesbian, gay or bisexual American adults have used a dating app [16]. Online dating can provide queer individuals connection [99] and a space to explore one’s identity [38]. It is also a site of privacy tensions, as users
+### Risks in online dating and sexting. 
+Over half of lesbian, gay or bisexual American adults have used a dating app [16]. Online dating can provide queer individuals connection [99] and a space to explore one’s identity [38]. It is also a site of privacy tensions, as users
 often provide location data, use it to connect with people outside of their known social network, and include
 more sensitive information in profiles [34]. Recently
 there have been scams extorting queer dating app users
@@ -136,7 +139,8 @@ and researchers have highlighted its positive role in relationship satisfaction 
 with risks, such as non-consensual sharing of intimate
 images, that have worse consequences for women and
 non-binary individuals [48, 68].
-Other risks. The prior sections are a non-exhaustive
+### Other risks. 
+The prior sections are a non-exhaustive
 list of possible harms targeted towards queer individuals. Queer and trans activists [69], refugees [17], sex
 workers [76], and other vocations or identities face other
 specific threats. Given that our paper is focused on advice for queer folks, not threat models, we leave the full
