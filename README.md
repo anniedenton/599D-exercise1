@@ -23,7 +23,7 @@
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
-.tooltip:hover .tooltiptext {
+.tooltip:click .tooltiptext {
   visibility: visible;
 }
 </style>
