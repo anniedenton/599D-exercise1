@@ -276,7 +276,7 @@ Participants sometimes answered more than one option (e.g., race):
 
 
 | Participant | Gender | Orientation |
-| ----------- | ----------- | ------- |
+| :-----------: | :-----------: | :-------: |
 | 1 |non-binary | bi |
 | 2 |woman of trans experience | bi |
 | 3 |female | pansexual |  
