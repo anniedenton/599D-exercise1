@@ -81,14 +81,6 @@
   box-sizing: border-box;
 }
 
-body {
-  padding: 40px;
-}
-
-a {
-  color: #06c;
-}
-
 .accordion {
   max-width: 65em;
 }
@@ -132,7 +124,7 @@ a {
 <section class="accordion">
   <input type="checkbox" name="collapse" id="handle1" checked="checked">
   <h2 class="handle">
-    <label for="handle1">26A. Trappist Single</label>
+    <label for="handle1"> Trappist Single</label>
   </h2>
   <div class="content">
     <p><strong>Overall Impression:</strong> A pale, bitter, highly attenuated and well carbonated Trappist ale, showing a fruity-spicy Trappist yeast character, a spicy-floral hop profile, and a soft, supportive grainy-sweet malt palate.</p>
