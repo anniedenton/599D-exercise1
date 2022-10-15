@@ -42,16 +42,15 @@ safety, and/or privacy?
 for queer individuals?
 3. How do multiple facets of identity impact queer individuals searching, acting on, or rejecting online
 security, safety, and/or privacy advice?
+
 To answer our research questions, we conducted qualitative semi-structured interviews with a diverse group of
-14 queer individuals. We intentionally recruited for differences across age, race, gender, sexuality, and socioeconomic status so that we could take an intersectional
-approach to data analysis, as “people’s lives... are better
+14 queer individuals. We intentionally recruited for differences across age, race, gender, sexuality, and socioeconomic status so that we could take an intersectionalapproach to data analysis, as “people’s lives... are better
 understood as being shaped not by a single axis of social
 division, be it race or gender or class, but by many axes
 that work together and influence each other” [22].
 Our major findings include:
 1. Participants often turn to queer support groups for
 advice and emotional support, in addition to other
-
 sources like family or work. These support groups
 serve both to provide individual advice as well as
 to collectively combat community-level threats. In
@@ -63,6 +62,7 @@ as a trade-off for adopting security advice, participants also lamented loss of 
 practices on social media.
 3. Interlocking facets of identity affect people’s
 perception and adoption of advice, and participants sometimes prioritize non-queer identity related threats.
+
 Based on our results, we develop takeaways for better security, safety, and privacy advice, with conclusions likely applicable to other vulnerable or marginalized populations as well. For example, we observe that
 specificity is more important than consistency for advice, since even people with a common identity (e.g.,
 queer) may differ in their threat models (e.g., social media business-user who needs a public profile) and circumstances. As such, we also touch on how intersectionality
@@ -229,6 +229,13 @@ compensation and sending the research output (e.g., the
 paper) to participants after publication. Our study was
 approved by the University of Washington IRB.
 ## 3.2 Participants
+Table 1: Participant demographics. We report these in aggregate for our set of 14 participants for participant anonymity.
+Participants sometimes answered more than one option (e.g., race):
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 We recruited 14 queer participants diverse across age,
 race, disability, and economic and educational status (Table 1). We determined saturation at 14 participants after no new higher-level themes emerged from the data
 and at which point we no longer needed to refine themes
