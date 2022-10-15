@@ -140,28 +140,40 @@
     <li> Do you have other approaches to this specific concern? </li>
     <li> Any followup questions to establish threat model </li>
      </ul>
-If having trouble thinking of advice: Do you have any behaviors you’ve adopted because of online safety concerns? 
-    • Where did you learn to do this?
-Other prompts: dating, sexting 
-    • Security, privacy 
-    • Related to queer identity, other identities
-Have you ever provided advice related to online safety? 
-    • Who did you provide this to, and how did they receive this advice? 
-    • Where did you learn this advice from? 
-    • Other prompts: dating, sexting 
-    • Security, privacy 
-    • Related to queer identity, other identities
-Have you ever had difficulties trying to find online safety information? 
-    • Have you had difficulties finding information that you felt connected with you and your life?
-Are there behaviors you considered but didn’t adopt? 
-    • Where did you learn about these behaviors? 
-    • What made you decide not to adopt it?
-Have you ever used Google or another search engine to find online safety information?
-Have you ever used social media sites themselves to find or ask for online safety information?
-What online safety/security/privacy concerns do you have that you haven’t found advice or haven’t been addressed?
-If there’s free time: what do you think about x advice? From advice coding
+<li> If having trouble thinking of advice: Do you have any behaviors you’ve adopted because of online safety concerns? </li>
+     <ul>
+    • Where did you learn to do this? </li>
+     </ul>
+<li> Other prompts: dating, sexting </li>
+     <ul>
+    • Security, privacy </li>
+    • Related to queer identity, other identities </li>
+ </ul>
+   
+<li> Have you ever provided advice related to online safety? </li>
+   <ul>
+    <li> Who did you provide this to, and how did they receive this advice? </li>
+    <li> Where did you learn this advice from? </li>
+    <li> Other prompts: dating, sexting </li>
+    <li> Security, privacy </li>
+    <li> Related to queer identity, other identities </li>
+    </ul>
+<li> Have you ever had difficulties trying to find online safety information? </li>
+    <ul>
+    <li> Have you had difficulties finding information that you felt connected with you and your life? </li>
+    </ul>
+<li> Are there behaviors you considered but didn’t adopt? </li>
+   <ul>
+    <li> Where did you learn about these behaviors? </li>
+    <li> What made you decide not to adopt it? </li>
+    </ul>
+<li> Have you ever used Google or another search engine to find online safety information? </li>
+<li> Have you ever used social media sites themselves to find or ask for online safety information? </li>
+<li> What online safety/security/privacy concerns do you have that you haven’t found advice or haven’t been addressed? </li>
+<li> If there’s free time: what do you think about x advice? From advice coding </li>
    </ol>
     <strong> General </strong>
+ 
 Are there any particularly good or bad online safety advice sources you’ve come across? • What made it good/bad?
 How do you define online safety? What does online safety mean to you? • Online privacy? • Online security?
 What concerns do you prioritize the most?
