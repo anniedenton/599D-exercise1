@@ -1249,8 +1249,8 @@ groups approach cybersecurity and privacy together. In Proceedings of the 2020 C
 “Bad” Ad? User Perceptions of Problematic Online Advertising. In Proceedings of the 2021 CHI Conference on Human
 Factors in Computing Systems (2021), pp. 1–24.
 # 9 Appendix
-9.1 Interview Protocol
-9.1.1 Advice
+## 9.1 Interview Protocol
+### 9.1.1 Advice
 1. Have you ever looked for or gotten advice related to
 online safety, security, or privacy concerns?
 • From where or from who did you learn to do
@@ -1309,14 +1309,14 @@ safety mean to you?
 • Online security?
 3. What concerns do you prioritize the most?
 4. Is there anything else you would like to share?
-9.1.3 Demographics
+### 9.1.3 Demographics
 You can say pass if you want to skip any of these questions.
 1. Disability disclosure
 2. Kind of area you live in: rural/urban/suburban?
 • How long have you lived there? Other places
 you’ve lived for a long time?
-9.2 Advice Probes and Sources
-9.2.1 Example Advice Probes
+## 9.2 Advice Probes and Sources
+### 9.2.1 Example Advice Probes
 • Use Private Account
 • Selective Sharing
 • Block Users
@@ -1333,7 +1333,7 @@ you’ve lived for a long time?
 • Only Download Apps from Trusted Sources
 • Use Two-Factor Authentication (2FA)
 • Use a VPN
-9.2.2 Sources
+### 9.2.2 Sources
 • https://www.thetrevorproject.org/wpcontent/uploads/2019/06/IG-x-TrevorProject LGBTQ-Safety-Guide.pdf
 • https://www.vpnmentor.com/blog/lgbtq-guideonline-safety/
 • https://www.comparitech.com/blog/vpnprivacy/lgbtq-cyberbullying/
