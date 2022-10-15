@@ -62,7 +62,7 @@ Facing such risks online, an individual might seek
 out advice from a variety of sources. Where does this
 advice come from, and is it effective? While these
 questions have been previously studied for general security and privacy advice for general populations [85,
-87, 89, 88, 43, 90], LGBTQ+ individuals face identitybased risks that straight and cisgender individuals do
+87, 89, 88, 43, 90], LGBTQ+ individuals face identity based risks that straight and cisgender individuals do
 not [69, 38, 73]. Given prior work suggesting that prioritization increases advice adoption and efficacy, we
 look to prioritizing and tailoring advice to specific threat
 models. In this work, we evaluate participants’ experiences with advice targeted at queer-specific threat models rather than general online risks.
@@ -265,8 +265,7 @@ Table 1: Participant demographics. We report these in aggregate for our set of 1
 Participants sometimes answered more than one option (e.g., race):
 
 | Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
+| ----------- | ----------- || Header      | Title       |
 | Paragraph   | Text        |
 
 We recruited 14 queer participants diverse across age,
@@ -735,8 +734,7 @@ harms from within a community itself or from outside.
 # 5 Discussion and Future Work
 We review the implications of our findings for the development of security advice, for security research more
 broadly, and areas of investigation for future research.
-## 5.1 Takeaways for Better, Inclusive Safety
-and Security Advice
+## 5.1 Takeaways for Better, Inclusive Safety and Security Advice
 Here we provide takeaways for how advice can be improved for queer and non-queer folks, both for communicating advice through conversation, or through written
 documents that contain advice.
 ### 5.1.1 Accept there is no one-size-fits all advice
@@ -772,8 +770,7 @@ apps [6]). Advice could be tailored towards platform
 novices or platform experts, especially given prior work
 suggesting differences in protective behavior amongst
 those with different levels of digital skill [58, 32].
-### 5.1.2 Share emotional and communal support with
-advice
+### 5.1.2 Share emotional and communal support with advice
 Communication research has pointed out that advice preceded by emotional support was considered higher quality [44]. Security clinic professionals provide emotional support as part-and-parcel of their service [101],
 which is necessary for clients facing intimate partner violence [102]. In community security workshops, relieving anxiety and making sure participants feel in control
 of their lives is an important part of the security teaching/learning process [14]. While our work cannot discern
