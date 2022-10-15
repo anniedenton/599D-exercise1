@@ -345,7 +345,8 @@ their advice evaluation.
 Our participants named a variety of sources from which
 they either learned something accidentally or they intentionally looked for advice. Purposefully looking for advice was sometimes motivated by a security incident the participant or someone they knew had.
 ### 4.1.1 Asking community
-Friends and family. Echoing previous work [85, 88],
+#### Friends and family.
+Echoing previous work [85, 88],
 our participants turned to friends and family for safety
 advice. Some people like P14 mentioned turning to
 someone in their life who knows tech-related things, in
@@ -368,7 +369,8 @@ specific technical expertise—for advice:
 > You know, a lot of her concerns [around dating] as a female...I’ve also learned and realize that this could also be valuable to me as...a
 > queer male.
 
-Queer community. Other participants specifically asked
+#### Queer community
+Other participants specifically asked
 those with whom they shared their queer identity for advice, either because they felt—like P11 with his female
 friend—that they had a shared identity-based harm or because they had a queer-specific concern. They turned either to their informal queer friend groups or formal queer
 support groups. For example, at a get-together with
