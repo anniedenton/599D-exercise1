@@ -596,6 +596,7 @@ Reddit,
 > want people to be...moving in this direction where like you have a profile and like, they can
 > personalize things for you right? There’s more gain for the business, I think, to do that, than
 > there necessarily could be for me.
+
 ### 4.2.6 Advice becoming out-of-date
 Some participants had difficulty using the Internet to find
 up-to-date security information. P1 tried to find how to
