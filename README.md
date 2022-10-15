@@ -74,7 +74,7 @@ on an individual rather than on an institution.
 # 2 Related Work
 Our work is motivated by how stigma creates queerspecific threats and vulnerabilities, both offline and online. We also consider how other overlapping identities
 play a role in risk by discussing research with other vulnerable or marginalized populations. Finally, we summarize prior research on general security advice and targeted advice.
-2.1 Queer-Specific Risks
+## 2.1 Queer-Specific Risks
 The specific harms and threats that queer folks face (offand online) due to stigma around sexual orientation or
 gender have been well-documented.
 Technology-independent risks. Risks to queer folks exist independent of technology (e.g., at school, home, and
@@ -112,7 +112,7 @@ specific threats. Given that our paper is focused on advice for queer folks, not
 spectrum of financial, physical, relational, and emotional
 harms [93] for different threat models largely to other
 work. But we also touch on the importance of these overlapping identities in Section 2.2.
-2.2 Intersectional Identities
+## 2.2 Intersectional Identities
 To understand the complexity of why queer folks adopt
 or reject advice, and their threat models, we use the
 framework of intersectionality. This posits that oppression and power is better understood as shaped by multiple axes of identity [22], e.g. but not limited to, race,
@@ -134,7 +134,7 @@ come from institutions, as well as from other marginalized individuals [92, 104]
 in how individuals at certain intersections may not have
 the same avenues of recourse after a security breach or
 unsafe experience, and therefore do not adopt certain advice.
-2.3 Security for Vulnerable Populations
+## 2.3 Security for Vulnerable Populations
 There has been interest in the security community around
 understanding the specific needs of different vulnerable
 or marginalized populations. For example, this includes
@@ -144,7 +144,7 @@ space, deepening our understanding of the experiences
 of queer individuals in trying to respond to their security/safety/privacy concerns. We hypothesize that some
 of our conclusions are relevant to other marginalized
 groups as well.
-2.4 Security Advice
+## 2.4 Security Advice
 Advice evaluation. Providing security education to
 users has often been a takeaway from user studies on
 people’s security concerns and practices, especially for
@@ -182,7 +182,7 @@ We asked participants what online safety advice they
 have given and received, as well as their thought processes behind adopting or rejecting advice. We also collated online documents of queer safety advice as prompts
 and asked participants how they felt about certain advice
 relevant to their online activities.
-3.1 Interview Protocol
+## 3.1 Interview Protocol
 We developed an interview script to ask questions about:
 What concerns have participants had about online
 security / safety / privacy related to queerness? Related to other aspects of their identity? Why do they
@@ -228,7 +228,7 @@ marginalized populations [105], including providing fair
 compensation and sending the research output (e.g., the
 paper) to participants after publication. Our study was
 approved by the University of Washington IRB.
-3.2 Participants
+## 3.2 Participants
 We recruited 14 queer participants diverse across age,
 race, disability, and economic and educational status (Table 1). We determined saturation at 14 participants after no new higher-level themes emerged from the data
 and at which point we no longer needed to refine themes
@@ -239,7 +239,7 @@ as through postings in queer listservs and other online
 communities. We also collected demographic information on community type since prior research has shown
 that queer folks in rural environments face unique concerns [50]. Ten participants live in urban areas, three in
 suburban areas, and one in a rural area.
-3.3 Data Analysis
+## 3.3 Data Analysis
 We conducted thematic analysis on the transcripts, using
 primarily inductive coding [26]. First, two independent
 coders familiarized themselves with all transcripts [25].
@@ -256,7 +256,7 @@ our research goal is the richness and nuance of different
 experiences, not counts of how often a theme occurred,
 and because we double-coded and reached consensus on
 nearly all transcripts [78].
-3.4 Author Positionality
+## 3.4 Author Positionality
 Our work is undergirded by feminist standpoint theory,
 which calls for an understanding that social knowledge
 and experiences are situated in a specific context [56, 95].
@@ -280,11 +280,11 @@ We now dive into our core research questions, detailing where participants found
 privacy information for these threats, their barriers to
 finding useful advice, and how identity played a role in
 their advice evaluation.
-4.1 Advice Sources
+## 4.1 Advice Sources
 Our participants named a variety of sources from which
 they either learned something accidentally or they intentionally looked for advice. Purposefully looking for advice was sometimes motivated by a security incident the
 participant or someone they knew had.
-4.1.1 Asking community
+### 4.1.1 Asking community
 Friends and family. Echoing previous work [85, 88],
 our participants turned to friends and family for safety
 advice. Some people like P14 mentioned turning to
@@ -362,7 +362,7 @@ I don’t push. I don’t push as a practitioner
 clients, whether it’s this kind of [safety concern] conversation or the actual meat of my
 services. I have to acknowledge where they
 are.
-4.1.2 Learned through vocation or school
+### 4.1.2 Learned through vocation or school
 For P7, online security was often discussed not just in
 her home, but also at school or work:
 We literally have to watch like these presentations every year on ’this is why you need to
@@ -386,7 +386,7 @@ a potential employer to see it in 10 years, you shouldn’t
 be writing it now.” And P6 learned about cat-fishing
 (someone being deceptive in their online dating profile)
 through a film at her autistic education program.
-4.1.3 Searching the web or platform settings
+### 4.1.3 Searching the web or platform settings
 For questions about specific settings, actions, or programs, where the participant already knew the term for
 what they were looking for, some participants turned to
 an Internet search engine.
@@ -404,12 +404,12 @@ but P14 did not find the site information as helpful as
 instructions from her friend, who had to block the same
 person harassing their lesbian Facebook Group.
 P8, P11, and P13 mentioned not knowing what language to use to search for certain safety-related information, which will be discussed more below in Section 4.2.1.
-4.2 Barriers to Finding and Following Advice
+## 4.2 Barriers to Finding and Following Advice
 We detail difficulties participants encountered to finding security, safety, and privacy information, as listed
 in Table 3. While inconvenience was sometimes cited
 as the reason that advice did not work (as in prior
 work [62, 88]), our participants faced additional tradeoffs as well.
-4.2.1 No language for it
+### 4.2.1 No language for it
 P8 and P11 both stated they did not know how to phrase
 their safety questions to search online, with P8 saying
 that after having someone duplicate their Instagram account to scam others, “I wouldn’t know how to even begin formulating the questions. I’m not even sure what my
@@ -425,7 +425,7 @@ and skills [57].
 Some of our participants did bring safety knowledge
 from one platform to another, but this tended to be analogous experiences of learning to block users on, for example, MySpace and transferring that knowledge to Facebook (P2), or knowledge of Telnet and SMTP’s lack of
 encryption to leading to skepticism of contemporary Internet traffic (P10).
-4.2.2 Solution could not be found online
+### 4.2.2 Solution could not be found online
 There were a few questions participants had that they
 could not find answers to. P14 was not sure how a troll’s
 account was still able to harass her on Facebook after she
@@ -437,7 +437,7 @@ talk with children online). P3 tried to learn how to block
 plastic-surgery related tags which triggered her anxiety
 on TikTok, but found the app does not have that functionality. And finally, P4 could not find a way to force
 people to untag his pre-transition photos.
-4.2.3 Advice would interfere with material livelihood
+### 4.2.3 Advice would interfere with material livelihood
 As we discuss more below, people’s identities are multifaceted. As a result, identity-specific advice to be more
 cautious online sometimes interferes with their other
 goals and/or other parts of their identities: for example,
@@ -501,7 +501,7 @@ folks ideally would not decrease their opportunities to
 have positive relationships with others, particularly since
 queer stigma already decreases access to relationships.
 And as other research notes, there are benefits to visibility for queer folks [28].
-4.2.5 Distrust in advice source
+### 4.2.5 Distrust in advice source
 Some participants mentioned they would not turn to a
 source or did not trust the advice they saw there. Reasons included that they didn’t want to be sold something
 (echoing [88]), or they didn’t trust the source given how
@@ -526,7 +526,7 @@ where like you have a profile and like, they can
 personalize things for you right? There’s more
 gain for the business, I think, to do that, than
 there necessarily could be for me.
-4.2.6 Advice becoming out-of-date
+### 4.2.6 Advice becoming out-of-date
 Some participants had difficulty using the Internet to find
 up-to-date security information. P1 tried to find how to
 change a Facebook privacy setting, but could not find
@@ -539,7 +539,7 @@ said was inaccurate or...yes thank you so much,
 you’ve helped me.
 As P3 and Reeder et al. noted, technology constantly
 changes, so solutions and threats can also change [90].
-4.2.7 Sense of futility in adopting behaviors
+### 4.2.7 Sense of futility in adopting behaviors
 Finally, a general barrier we observed to adopting advice
 was a sense of futility, that any actions a person might
 take would not address the issue they were concerned
@@ -585,7 +585,7 @@ their immediate social environment, e.g., cyberbullying,
 which Hoffman et al. notes is where fatalism is least
 strong. We discuss the necessity of moving responsibility of safety from vulnerable individuals to powerful
 institutions in Section 5.2.2.
-4.3 Identity
+## 4.3 Identity
 While most participants mentioned safety concerns related to their sexual orientation or gender, they also
 had overlapping and non-overlapping concerns related
 to other aspects of their identity, such as their race or
@@ -695,11 +695,11 @@ harms from within a community itself or from outside.
 # 5 Discussion and Future Work
 We review the implications of our findings for the development of security advice, for security research more
 broadly, and areas of investigation for future research.
-5.1 Takeaways for Better, Inclusive Safety
+## 5.1 Takeaways for Better, Inclusive Safety
 and Security Advice
 Here we provide takeaways for how advice can be improved for queer and non-queer folks, both for communicating advice through conversation, or through written
 documents that contain advice.
-5.1.1 Accept there is no one-size-fits all advice
+### 5.1.1 Accept there is no one-size-fits all advice
 While mitigations can transfer to other contexts, there is
 not always a universal solution to a threat because people have different values and circumstances in life [39],
 as well as different threat models. While some behaviors were common and discussed positively (like blocking people who were causing harm), participants differed
@@ -732,7 +732,7 @@ apps [6]). Advice could be tailored towards platform
 novices or platform experts, especially given prior work
 suggesting differences in protective behavior amongst
 those with different levels of digital skill [58, 32].
-5.1.2 Share emotional and communal support with
+### 5.1.2 Share emotional and communal support with
 advice
 Communication research has pointed out that advice preceded by emotional support was considered higher quality [44]. Security clinic professionals provide emotional support as part-and-parcel of their service [101],
 which is necessary for clients facing intimate partner violence [102]. In community security workshops, relieving anxiety and making sure participants feel in control
@@ -772,7 +772,7 @@ settings, creating affordances for collaborative discussion and feedback on advi
 buy-in, sense of emotional support, and ability to archive
 out-of-date advice. Regardless of the format, it is important that the advice-giver listens to the individual’s needs
 as they are experts in their own lives [14, 95].
-5.1.3 Communicate credibility
+### 5.1.3 Communicate credibility
 As prior advice research [89], credibility research [80],
 and our results show, participants distrusted sites that
 seemed to market a product. Credible advice should not
@@ -788,8 +788,8 @@ Foundation [10], to continue writing advice and instructions on controlling secu
 same time, platforms should still provide instructions for
 security settings as well, given that participants chose to
 look there.
-5.2 Takeaways for Security Research
-5.2.1 Incorporating intersectionality in security research
+## 5.2 Takeaways for Security Research
+### 5.2.1 Incorporating intersectionality in security research
 Our findings with our diverse participants underscore
 an intersectional understanding of power and threats,
 which we argue should be considered systematically
@@ -830,7 +830,7 @@ low-income South African mobile users rely on blocking rather than Facebook sett
 to similar threat models, as well as when affordances are
 common enough across platforms (e.g., blocking) that it
 can be recommended generally.
-5.2.2 Limitations of security advice as personal responsibility
+### 5.2.2 Limitations of security advice as personal responsibility
 While improving security advice for queer individuals is
 important, advice as a solution for harms is limited because it places an overwhelming responsibility on an individual [74, 95]. Individual behaviors will not always
 work because a) the problems folks face may involve
@@ -854,7 +854,7 @@ research to improve safety advice, while also pointing
 out the necessity of structural changes to make queer
 lives safer (e.g., banning gay/trans panic defense [7],
 communal blocking on platforms [1]).
-5.3 Future Work
+## 5.3 Future Work
 Our work focuses on queer folks in the U.S., but there are
 other contexts security advice can be analyzed through
 other than by community or population. Pierce et al. outlined spectrums of security toolkit traits: some toolkits
