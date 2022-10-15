@@ -366,7 +366,7 @@ On the other hand, P11 (cis man, gay) for example,
 asked a friend with a shared threat model—rather than
 specific technical expertise—for advice:
 
-> You know, a lot of her concerns [around dating] as a female...I’ve also learned and realize that this could also be valuable to me as...a
+> You know, a lot of her concerns [around dating] as a female ... I’ve also learned and realize that this could also be valuable to me as...a
 > queer male.
 
 #### Queer community
@@ -398,7 +398,7 @@ autistic people, some who are very security and privacy
 conscious. She learned about how to change what gender
 Twitter assumed she was after seeing a viral tweet about
 it on her Twitter feed.
-Benefit of asking community: emotional support.
+#### Benefit of asking community: emotional support.
 Getting advice sometimes came with emotional support,
 which was more common when people sought advice
 from their trusted community. And it may be especially
@@ -417,11 +417,12 @@ P14 a place to turn to for future concerns.
 When P8 provided advice to an older woman who was
 worried about sharing a Zoom link publicly, they also
 worked to calm her fears. P8 said,
-I got this whole Boomer crew that are like,
-maybe you can teach us [how to Zoom screen
-share] sometime...And so those are the people
-who I am both their cheerleader and acknowledge that their fears might have some foundation. To be cautious, but also to embolden
-them.
+> I got this whole Boomer crew that are like,
+> maybe you can teach us [how to Zoom screen
+> share] sometime...And so those are the people
+> who I am both their cheerleader and acknowledge that their fears might have some foundation. To be cautious, but also to embolden
+> them.
+
 Safety concerns and behaviors were tied to emotions, so
 receiving and providing emotional support was helpful
 for these participants. P8 stressed the comforting aspect:
@@ -452,9 +453,12 @@ one else’s fault if any of your stuff gets erased.” This
 notion of personal responsibility and concern over art
 theft, which happened to their friends and almost happened to them, cemented this security behavior. P14, a
 former teacher, taught her students about how sharing on
-social media isn’t always private: “If you wouldn’t want
-a potential employer to see it in 10 years, you shouldn’t
-be writing it now.” And P6 learned about cat-fishing
+social media isn’t always private: “
+> If you wouldn’t want
+> a potential employer to see it in 10 years, you shouldn’t
+> be writing it now.” 
+
+And P6 learned about cat-fishing
 (someone being deceptive in their online dating profile)
 through a film at her autistic education program.
 ### 4.1.3 Searching the web or platform settings
@@ -483,8 +487,11 @@ work [62, 88]), our participants faced additional tradeoffs as well.
 ### 4.2.1 No language for it
 P8 and P11 both stated they did not know how to phrase
 their safety questions to search online, with P8 saying
-that after having someone duplicate their Instagram account to scam others, “I wouldn’t know how to even begin formulating the questions. I’m not even sure what my
-question would be.” During the interview, they said they
+that after having someone duplicate their Instagram account to scam others, 
+> “I wouldn’t know how to even begin formulating the questions. I’m not even sure what my
+> question would be.” 
+
+During the interview, they said they
 might search “How do I protect myself?” And P13 said
 he was not aware that safety advice specifically for queer
 folks is something that could be found on the Internet.
@@ -528,8 +535,11 @@ business. P10 mentioned giving advice to a friend who
 is an event promoter, who was trying to deal with unsolicited messages on his promoter social media page.
 While P10 suggested to make a separate personal page,
 his friend did not take this advice, which P10 mused
-was because, “I guess when you do promotions in the
-gay world, everyone is your friend.” One could see the
+was because, 
+> “I guess when you do promotions in the
+> gay world, everyone is your friend.” 
+
+One could see the
 reverse as well, that every friend is a potential event
 attendee. These examples illustrate how social media
 use is sometimes tied to income, and ultimately, financial well-being, which limits people’s options for dealing
@@ -545,8 +555,9 @@ using more cautious safety behaviors versus missing potential connection with ot
 P14, although she had experienced trolls harassing her
 on Facebook, did not like the idea of making her account
 private because having a public account allowed her to
-meet new people: “It was good to be open to new people
-in a safe way.”
+meet new people: 
+> “It was good to be open to new people in a safe way.”
+
 Other participants also considered romantic and sexual
 connections in their decisions. P3 stated that while she
 found “don’t show your face in sexts” to be reasonable
@@ -557,8 +568,11 @@ assault or murder by blaming the victim’s gender identity
 or sexual orientation for the assailant’s actions [7].
 At the same time, P2, who is in her 50s, transitioned
 and made a lot of life changes in the past couple years,
-and so will “swing for the fences....I’m just gonna try to
-live before I die....and make up for lost time.” For her,
+and so will “swing for the fences":
+> ...I’m just gonna try to
+> live before I die....and make up for lost time.”
+
+For her,
 that means dating as much as possible. While she does
 take precautions for her physical safety by deciding to
 disclose in her online profile that she is trans and tell a
@@ -604,10 +618,11 @@ change a Facebook privacy setting, but could not find
 updated advice that worked for their new version of Android OS. When searching for how to make his Facebook
 more secure, P4 found it helpful that the guide he found
 had additional user comments
-saying like this is outdated. They don’t do
-this anymore. Or, that’s not how that technology works, like almost fact checking the people and saying, you know, this little thing you
-said was inaccurate or...yes thank you so much,
-you’ve helped me.
+> saying like this is outdated. They don’t do
+> this anymore. Or, that’s not how that technology works, like almost fact checking the people and saying, you know, this little thing you
+> said was inaccurate or...yes thank you so much,
+> you’ve helped me.
+
 As P3 and Reeder et al. noted, technology constantly
 changes, so solutions and threats can also change [90].
 ### 4.2.7 Sense of futility in adopting behaviors
@@ -629,13 +644,15 @@ P6, who never uses the word TERF (trans-exclusionary
 radical feminist) on Twitter so that transphobes don’t find
 her tweet and harass her, notes that one of her tweets did
 go viral once which led to some exposure to harassers.
-[Some people,] anytime they see trans people existing online they decide to harass them
-when they show up on their feed....anytime you
-get to a big enough reach with a tweet, it’s kind
-of inevitable that some shitty people will see it
-and want to be shitty at you.
+> [Some people,] anytime they see trans people existing online they decide to harass them
+> when they show up on their feed....anytime you
+> get to a big enough reach with a tweet, it’s kind
+> of inevitable that some shitty people will see it
+> and want to be shitty at you.
+
 P2 gave up trying to report harassers on Facebook, because:
-It seems like people can catch a ban for something, just for calling someone a bigot for example. But if you actually try to report a transphobic comment, they’re not going to care.
+> It seems like people can catch a ban for something, just for calling someone a bigot for example. But if you actually try to report a transphobic comment, they’re > not going to care.
+
 She instead only blocks people on Facebook (whereas
 on Twitter she will both block people and report people
 for transphobia). Similarly, P14 distrusted Facebook for
@@ -672,12 +689,12 @@ shifting threat models and security needs.
 For P4, who didn’t want to publicly transition on Facebook during early 2010s, the process led him to search
 how to force people to untag him from old pre-transition
 photos.
-There was either no information or there was
-no way to do it. So, some of that stuff still exists because those people either no longer use
-Facebook, or just didn’t do it....I wish there had
-been like here’s a step by step guide of how
-to clean up your social media without deleting your entire account and restarting it. Most
-places I searched would say just start over.
+> There was either no information or there was
+> no way to do it. So, some of that stuff still exists because those people either no longer use
+> Facebook, or just didn’t do it. ...I wish there had
+> been like here’s a step by step guide of how
+> to clean up your social media without deleting your entire account and restarting it. Most
+> places I searched would say just start over.
 This reflects prior work indicating that transitioning
 users either try to remove old photos or change visibility of those photos on Facebook [53].
 P1 also experienced this difficulty of trying to get
@@ -691,26 +708,29 @@ certain actions to protect her son from transphobic harm,
 reflecting other queer parents considering their children’s
 privacy [23]. She doesn’t bring up her son’s name online
 because:
-I just don’t want [a] transphobe [to] somehow
-infiltrate my [Facebook] friends list and then
-track him down and cause him harm. I don’t
-put the name of the school or anything like
-that....I would [also] try to make sure I didn’t
-have any identifying information in the background of the [school] photo for example so
-that they can figure out where it is....That’s
-probably my biggest fear right now, that my
-son will get bullied or worse, or otherwise, or
-hurt because of me.
+> I just don’t want [a] transphobe [to] somehow
+> infiltrate my [Facebook] friends list and then
+> track him down and cause him harm. I don’t
+> put the name of the school or anything like
+> that....I would [also] try to make sure I didn’t
+> have any identifying information in the background of the [school] photo for example so
+> that they can figure out where it is....That’s
+> probably my biggest fear right now, that my
+> son will get bullied or worse, or otherwise, or
+> hurt because of me.
+
 ### Age. 
 P8 (non-binary, 45-54) also discussed getting unsolicited sexual messages and accepting that risk as part
 of navigating the world while feminine-presenting. She
 added though, “the older I get the more invisible I am.”
 For P14 (65-74), aging was an accumulation of stressful discrimination, because of her mobility impairment,
 religion, and sexuality. She did not want to take the time
-to learn how to make her church’s page private after receiving homophobic harassment because, “When you get
-old enough and lesbian enough, then you try to deal with
-that kind of stressful stuff as fast as possible and move
-on.”
+to learn how to make her church’s page private after receiving homophobic harassment because, 
+> “When you get
+> old enough and lesbian enough, then you try to deal with
+> that kind of stressful stuff as fast as possible and move
+> on.”
+
 ### Gender. 
 Women are more likely to receive online sexual
 harassment and stalking than men [100]. We previously
@@ -735,6 +755,7 @@ affect how he perceives online dating advice:
 > “It does
 > feel really fear-based and fear-driven, you know, which I
 > think like in Asian culture can be a big thing.”
+
 ### Relationship with the state. 
 Race also impacted opinions on advice related to the police. When asked whether
 they found the advice of having a police app (an app
@@ -742,10 +763,10 @@ that will instantly dial the police with the user’s location)
 handy during a date, P10 (biracial, Black and white) said
 he would never use it because he’s been racially profiled
 in a gay neighborhood. He stated,
-“The police start questioning me about where
-do I live, am I homeless....[This incident] really ticked me off because, I’m gay, it’s the
-[gay neighborhood], that’s supposed to be my
-community.”
+> “The police start questioning me about where
+> do I live, am I homeless....[This incident] really ticked me off because, I’m gay, it’s the
+> [gay neighborhood], that’s supposed to be my
+> community.”
 P5 (non-binary, autistic) also did not like the advice,
 citing previous incidents of police acting violently towards queer and/or autistic individuals. P11 stated it
 could be useful to someone to give them a sense of security, but he would never call the police on a date. P4 (gay,
