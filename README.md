@@ -345,8 +345,7 @@ finding useful advice, and how identity played a role in
 their advice evaluation.
 ## 4.1 Advice Sources
 Our participants named a variety of sources from which
-they either learned something accidentally or they intentionally looked for advice. Purposefully looking for advice was sometimes motivated by a security incident the
-participant or someone they knew had.
+they either learned something accidentally or they intentionally looked for advice. Purposefully looking for advice was sometimes motivated by a security incident the participant or someone they knew had.
 ### 4.1.1 Asking community
 Friends and family. Echoing previous work [85, 88],
 our participants turned to friends and family for safety
