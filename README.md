@@ -421,18 +421,21 @@ them.
 Safety concerns and behaviors were tied to emotions, so
 receiving and providing emotional support was helpful
 for these participants. P8 stressed the comforting aspect:
-I don’t push. I don’t push as a practitioner
-[with] whatever I’m doing with my [yoga]
-clients, whether it’s this kind of [safety concern] conversation or the actual meat of my
-services. I have to acknowledge where they
-are.
+> I don’t push. I don’t push as a practitioner
+> [with] whatever I’m doing with my [yoga]
+> clients, whether it’s this kind of [safety concern] conversation or the actual meat of my
+> services. I have to acknowledge where they
+> are.
+
 ### 4.1.2 Learned through vocation or school
 For P7, online security was often discussed not just in
 her home, but also at school or work:
-We literally have to watch like these presentations every year on ’this is why you need to
-change your password and confidentiality’ and
-blah blah and just keeping unauthorized access
-at a low.
+
+> We literally have to watch like these presentations every year on ’this is why you need to
+> change your password and confidentiality’ and
+> blah blah and just keeping unauthorized access
+> at a low.
+
 Redmiles et al. also noted the workplace as a source
 of digital security advice “in the form of newsletters, IT
 emails, or required trainings” [88].
