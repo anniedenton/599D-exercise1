@@ -265,7 +265,8 @@ Table 1: Participant demographics. We report these in aggregate for our set of 1
 Participants sometimes answered more than one option (e.g., race):
 
 | Syntax      | Description |
-| ----------- | ----------- || Header      | Title       |
+| ----------- | ----------- |
+| Header      | Title       |
 | Paragraph   | Text        |
 
 We recruited 14 queer participants diverse across age,
