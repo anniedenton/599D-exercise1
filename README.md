@@ -27,11 +27,6 @@
 /*
  Styling
 */
-body {
-  font: 16px/1.5em "Overpass", "Open Sans", Helvetica, sans-serif;
-  color: #333;
-  font-weight: 300;
-}
 
 .accordion {
   margin-bottom: 1em;
@@ -94,16 +89,6 @@ a {
   color: #06c;
 }
 
-p {
-  margin: 0 0 1em;
-}
-
-h1 {
-  margin: 0 0 1.5em;
-  font-weight: 600;
-  font-size: 1.5em;
-}
-
 .accordion {
   max-width: 65em;
 }
@@ -144,7 +129,6 @@ h1 {
   <span class="tooltiptext">Tooltip text</span>
 </div>
 
-<h1>BJCP Style 26. Trappist Ale</h1>
 <section class="accordion">
   <input type="checkbox" name="collapse" id="handle1" checked="checked">
   <h2 class="handle">
