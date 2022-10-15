@@ -124,11 +124,49 @@
 <section class="accordion">
   <input type="checkbox" name="collapse" id="handle1" checked="checked">
   <h2 class="handle">
-    <label for="handle1"> Trappist Single</label>
+    <label for="handle1"> Click here to view the full interview protocol </label>
   </h2>
   <div class="content">
-    <p><strong>Overall Impression:</strong> A pale, bitter, highly attenuated and well carbonated Trappist ale, showing a fruity-spicy Trappist yeast character, a spicy-floral hop profile, and a soft, supportive grainy-sweet malt palate.</p>
-    <p><strong>History:</strong> While Trappist breweries have a tradition of brewing a lower-strength beer as a monk’s daily ration, the bitter, pale beer this style describes is a relatively modern invention reflecting current tastes. Westvleteren first brewed theirs in 1999, but replaced older lower-gravity products.</p>
+   <p><strong>Advice</strong>
+Have you ever looked for or gotten advice related to online safety, security, or privacy concerns? 
+    • From where or from who did you learn to do this? 
+    • What were you specifically concerned about? 
+    • What was the advice? 
+    • Did you follow this advice? 
+    • If yes: How did you evaluate this method? E.g., how did you decide whether it would work for you? Did it work? Do you still do it? Have you changed this strategy over time? 
+    • If no: Why not? Have you adopted a different approach to this concern rather than what the advice suggested? 
+    • Do you have other approaches to this specific concern? 
+    • Any followup questions to establish threat model
+If having trouble thinking of advice: Do you have any behaviors you’ve adopted because of online safety concerns? 
+    • Where did you learn to do this?
+Other prompts: dating, sexting 
+    • Security, privacy 
+    • Related to queer identity, other identities
+Have you ever provided advice related to online safety? 
+    • Who did you provide this to, and how did they receive this advice? 
+    • Where did you learn this advice from? 
+    • Other prompts: dating, sexting 
+    • Security, privacy 
+    • Related to queer identity, other identities
+Have you ever had difficulties trying to find online safety information? 
+    • Have you had difficulties finding information that you felt connected with you and your life?
+Are there behaviors you considered but didn’t adopt? 
+    • Where did you learn about these behaviors? 
+    • What made you decide not to adopt it?
+Have you ever used Google or another search engine to find online safety information?
+Have you ever used social media sites themselves to find or ask for online safety information?
+What online safety/security/privacy concerns do you have that you haven’t found advice or haven’t been addressed?
+If there’s free time: what do you think about x advice? From advice coding
+    <strong> General </strong>
+Are there any particularly good or bad online safety advice sources you’ve come across? • What made it good/bad?
+How do you define online safety? What does online safety mean to you? • Online privacy? • Online security?
+What concerns do you prioritize the most?
+Is there anything else you would like to share?
+    <strong> Demographics </strong>
+You can say pass if you want to skip any of these questions.
+
+Disability disclosure
+Kind of area you live in: rural/urban/suburban? • How long have you lived there? Other places you’ve lived for a long time?</p>
   </div>
 </section>
        
