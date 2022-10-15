@@ -1,29 +1,115 @@
 # “Like Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
 
 <style>
-.collapsible {
-  background-color: #eee;
-  color: #444;
+/*
+ CSS for the main interaction
+*/
+.accordion > input[type="checkbox"] {
+  position: absolute;
+  left: -100vw;
+}
+
+.accordion .content {
+  overflow-y: hidden;
+  height: 0;
+  transition: height 0.3s ease;
+}
+
+.accordion > input[type="checkbox"]:checked ~ .content {
+  height: auto;
+  overflow: visible;
+}
+
+.accordion label {
+  display: block;
+}
+
+/*
+ Styling
+*/
+body {
+  font: 16px/1.5em "Overpass", "Open Sans", Helvetica, sans-serif;
+  color: #333;
+  font-weight: 300;
+}
+
+.accordion {
+  margin-bottom: 1em;
+}
+
+.accordion > input[type="checkbox"]:checked ~ .content {
+  padding: 15px;
+  border: 1px solid #e8e8e8;
+  border-top: 0;
+}
+
+.accordion .handle {
+  margin: 0;
+  font-size: 1.125em;
+  line-height: 1.2em;
+}
+
+.accordion label {
+  color: #333;
   cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
+  font-weight: normal;
+  padding: 15px;
+  background: #e8e8e8;
 }
 
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
-  background-color: #ccc;
+.accordion label:hover,
+.accordion label:focus {
+  background: #d8d8d8;
 }
 
-/* Style the collapsible content. Note: hidden by default */
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
+.accordion .handle label:before {
+  font-family: 'fontawesome';
+  content: "\f054";
+  display: inline-block;
+  margin-right: 10px;
+  font-size: .58em;
+  line-height: 1.556em;
+  vertical-align: middle;
+}
+
+.accordion > input[type="checkbox"]:checked ~ .handle label:before {
+  content: "\f078";
+}
+
+
+/*
+ Demo purposes only
+*/
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 40px;
+}
+
+a {
+  color: #06c;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+h1 {
+  margin: 0 0 1.5em;
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+.accordion {
+  max-width: 65em;
+}
+
+.accordion p:last-child {
+  margin-bottom: 0;
 }
   
 /* Tooltip container */
@@ -58,27 +144,18 @@
   <span class="tooltiptext">Tooltip text</span>
 </div>
 
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
-
-<script>
-  var coll = document.getElementsByClassName("collapsible");
-  var i;
-
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var content = this.nextElementSibling;
-      if (content.style.display === "block") {
-        content.style.display = "none";
-      } else {
-        content.style.display = "block";
-      }
-    });
-  }
-</script>           
+<h1>BJCP Style 26. Trappist Ale</h1>
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1" checked="checked">
+  <h2 class="handle">
+    <label for="handle1">26A. Trappist Single</label>
+  </h2>
+  <div class="content">
+    <p><strong>Overall Impression:</strong> A pale, bitter, highly attenuated and well carbonated Trappist ale, showing a fruity-spicy Trappist yeast character, a spicy-floral hop profile, and a soft, supportive grainy-sweet malt palate.</p>
+    <p><strong>History:</strong> While Trappist breweries have a tradition of brewing a lower-strength beer as a monk’s daily ration, the bitter, pale beer this style describes is a relatively modern invention reflecting current tastes. Westvleteren first brewed theirs in 1999, but replaced older lower-gravity products.</p>
+  </div>
+</section>
+       
 
 Given stigma and threats surrounding being gay or transgender, LGBTQ+ folks often seek support and information on navigating identity and personal (digital and
 physical) safety. While prior research on digital security advice focused on a general population and general
