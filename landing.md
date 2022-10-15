@@ -70,7 +70,8 @@ can be useful, even necessary, in security research when
 threat modeling. Finally, we stress that advice is limited
 in preventing harms by placing responsibility of safety
 on an individual rather than on an institution.
-2 Related Work
+
+# 2 Related Work
 Our work is motivated by how stigma creates queerspecific threats and vulnerabilities, both offline and online. We also consider how other overlapping identities
 play a role in risk by discussing research with other vulnerable or marginalized populations. Finally, we summarize prior research on general security advice and targeted advice.
 2.1 Queer-Specific Risks
@@ -174,7 +175,7 @@ own and communal privacy practices, and their practices
 are shaped by privilege and oppression [14]. We follow
 Reconfigure’s epistemological approach (feminist standpoint theory) of looking to users as experts in their own
 lives, rather than relying on threat models and advice developed by traditional security experts.
-3 Methodology
+# 3 Methodology
 To answer our research questions, we conducted semistructured qualitative interviews with queer individuals
 who use social media, dating apps, or apps for sexting.
 We asked participants what online safety advice they
@@ -267,7 +268,7 @@ Asian or white. From an intersectional framework, we
 recognize that some of us are marginalized across some
 axes of identity and not others, and that our identities do
 not fully reflect those of our participants.
-4 Results
+# 4 Results
 To provide context for our results, we begin by briefly
 summarizing key points from participants’ threat models. Participants mentioned concerns around homophobic and/or transphobic workplaces, government actors,
 online strangers, corporations, friends, and family. Some
@@ -691,7 +692,7 @@ try to stay away from people who are yelling at
 other queer people.
 Advice should specify if the threat model is potential
 harms from within a community itself or from outside.
-5 Discussion and Future Work
+# 5 Discussion and Future Work
 We review the implications of our findings for the development of security advice, for security research more
 broadly, and areas of investigation for future research.
 5.1 Takeaways for Better, Inclusive Safety
@@ -877,7 +878,7 @@ Finally, we ask when is it better to study a specific
 threat model or platform versus a specific identity when
 it comes to designing for harm mitigation or educating
 for harm mitigation.
-6 Limitations
+# 6 Limitations
 This research scratches the surface of queer-intersecting
 identities that lead to other vulnerabilities (e.g. LGBTQ+
 refugees [17], sex workers [72], HIV positive folks [70],
@@ -895,7 +896,7 @@ research is needed to understand when and where specific advice (e.g., “use a 
 Our work also focuses on queer folks generally, including both cisgender and transgender individuals. As noted
 earlier, transgender individuals face specific vulnerabilities [69], and advice research with transgender folks
 specifically is also needed.
-7 Conclusion
+# 7 Conclusion
 We studied where LGBTQ+ folks in the U.S. turn to for
 safety, security, and privacy advice because this population faces unique threats from their families, communities, and the state due to homophobia and transphobia.
 Through qualitative interviews with 14 diverse queer individuals, we found participants turned to queer support
