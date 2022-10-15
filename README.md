@@ -271,6 +271,23 @@ Participants sometimes answered more than one option (e.g., race):
 | Latino  | 1       |
 | Native American  | 1       |
 
+
+| Participant | Gender | Orientation |
+| 1 |non-binary | bi |
+| 2 |woman of trans experience | bi |
+| 3 |female | pansexual |  
+| 4 |transgender man | gay
+| 5 |non-binary demisexual
+| 6 |trans girl mostly sapphic
+| 7 |gender non-conforming queer
+| 8 |non-binary queer
+| 9 |cis woman queer/bisexual
+| 10 |male homosexual, queer
+| 11 |cis male gay
+| 12 | female lesbian
+| 13 | transgender queer
+| 14 |female lesbian
+
 We recruited 14 queer participants diverse across age,
 race, disability, and economic and educational status (Table 1). We determined saturation at 14 participants after no new higher-level themes emerged from the data
 and at which point we no longer needed to refine themes
