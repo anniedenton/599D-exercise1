@@ -380,8 +380,10 @@ what P13 described as “kind of a round [table] barbecue.”
 When P4 (trans man, gay) found a coworker on Grindr
 and realized they were accidentally outed to each other,
 and became concerned his workplace would find out, he
-turned to his trans men support group to hear their experiences and advice on what to do next. As P4 puts it, “It
-wasn’t like we had a leader, but we all just sort of compared notes about what we were doing.” Having a group
+turned to his trans men support group to hear their experiences and advice on what to do next. As P4 puts it, 
+> “It wasn’t like we had a leader, but we all just sort of compared notes about what we were doing.” 
+
+Having a group
 of people to talk to let participants hear about different
 experiences so they could make an informed decision on
 what to do next.
@@ -659,7 +661,8 @@ age. We discuss how these different facets, including
 gender more in-depth, impact what advice participants
 seek based on their threats, and impact their perceptions
 of advice.
-Transitioning. Transitioning is the process where one
+### Transitioning. 
+Transitioning is the process where one
 changes one’s gender presentation to match one’s internal sense of identity. Transitioning while on social media
 can lead to both stress and support [52], and can result in
 shifting threat models and security needs.
@@ -679,7 +682,8 @@ others to untag their old photos. For P5 (non-binary),
 transitioning and getting top surgery led to them getting
 less unsolicited messages, as they no longer presented or
 were perceived as femme.
-Parental Responsibility. After P2 transitioned, she took
+### Parental Responsibility. 
+After P2 transitioned, she took
 certain actions to protect her son from transphobic harm,
 reflecting other queer parents considering their children’s
 privacy [23]. She doesn’t bring up her son’s name online
@@ -694,7 +698,8 @@ that they can figure out where it is....That’s
 probably my biggest fear right now, that my
 son will get bullied or worse, or otherwise, or
 hurt because of me.
-Age. P8 (non-binary, 45-54) also discussed getting unsolicited sexual messages and accepting that risk as part
+### Age. 
+P8 (non-binary, 45-54) also discussed getting unsolicited sexual messages and accepting that risk as part
 of navigating the world while feminine-presenting. She
 added though, “the older I get the more invisible I am.”
 For P14 (65-74), aging was an accumulation of stressful discrimination, because of her mobility impairment,
@@ -703,7 +708,8 @@ to learn how to make her church’s page private after receiving homophobic hara
 old enough and lesbian enough, then you try to deal with
 that kind of stressful stuff as fast as possible and move
 on.”
-Gender. Women are more likely to receive online sexual
+### Gender. 
+Women are more likely to receive online sexual
 harassment and stalking than men [100]. We previously
 detailed how some of our participants, when interpreted
 as femme, received unsolicited messages. And P3, a cis
@@ -718,14 +724,16 @@ P11 was concerned about dating for both his Asian
 friend and himself, due to the risk of being stereotyped
 as submissive and someone aggressive attempting to take
 advantage of them.
-I think being an Asian man that is queer,
-there’s also these fears of being objectified or
-sexualized and perceived as being submissive.
+> I think being an Asian man that is queer,
+> there’s also these fears of being objectified or
+> sexualized and perceived as being submissive.
 He also ruminated on his identity and how that might
-affect how he perceives online dating advice: “It does
-feel really fear-based and fear-driven, you know, which I
-think like in Asian culture can be a big thing.”
-Relationship with the state. Race also impacted opinions on advice related to the police. When asked whether
+affect how he perceives online dating advice: 
+> “It does
+> feel really fear-based and fear-driven, you know, which I
+> think like in Asian culture can be a big thing.”
+### Relationship with the state. 
+Race also impacted opinions on advice related to the police. When asked whether
 they found the advice of having a police app (an app
 that will instantly dial the police with the user’s location)
 handy during a date, P10 (biracial, Black and white) said
@@ -743,7 +751,8 @@ a hook-up since the friend and hook-up were both men.
 He said he trusts friends more, similar to P2. Different
 aspects of their identities affected participant’s relationship with the state and with the utility of the police app
 advice.
-Harms within queer communities. Many participants
+### Harms within queer communities. 
+Many participants
 had queer friends they trusted and could turn to, but this
 coexists with the reality that queer individuals can also
 harm other queer individuals. Scheuerman et al. found
