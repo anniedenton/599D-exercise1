@@ -263,6 +263,7 @@ approved by the University of Washington IRB.
 ## 3.2 Participants
 Table 1: Participant demographics. We report these in aggregate for our set of 14 participants for participant anonymity.
 Participants sometimes answered more than one option (e.g., race):
+
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
