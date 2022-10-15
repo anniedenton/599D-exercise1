@@ -128,15 +128,18 @@
   </h2>
   <div class="content">
    <p><strong>Advice</strong>
-Have you ever looked for or gotten advice related to online safety, security, or privacy concerns? 
-    • From where or from who did you learn to do this? 
-    • What were you specifically concerned about? 
-    • What was the advice? 
-    • Did you follow this advice? 
-    • If yes: How did you evaluate this method? E.g., how did you decide whether it would work for you? Did it work? Do you still do it? Have you changed this strategy over time? 
-    • If no: Why not? Have you adopted a different approach to this concern rather than what the advice suggested? 
-    • Do you have other approaches to this specific concern? 
-    • Any followup questions to establish threat model
+    <ol>
+<li>Have you ever looked for or gotten advice related to online safety, security, or privacy concerns? </li>
+     <ul>
+    <li> From where or from who did you learn to do this? </li>
+    <li> What were you specifically concerned about? </li>
+    <li> What was the advice? </li>
+    <li> Did you follow this advice? </li>
+    <li> If yes: How did you evaluate this method? E.g., how did you decide whether it would work for you? Did it work? Do you still do it? Have you changed this strategy over time? </li>
+    <li> If no: Why not? Have you adopted a different approach to this concern rather than what the advice suggested? </li>
+    <li> Do you have other approaches to this specific concern? </li>
+    <li> Any followup questions to establish threat model </li>
+     </ul>
 If having trouble thinking of advice: Do you have any behaviors you’ve adopted because of online safety concerns? 
     • Where did you learn to do this?
 Other prompts: dating, sexting 
@@ -157,6 +160,7 @@ Have you ever used Google or another search engine to find online safety informa
 Have you ever used social media sites themselves to find or ask for online safety information?
 What online safety/security/privacy concerns do you have that you haven’t found advice or haven’t been addressed?
 If there’s free time: what do you think about x advice? From advice coding
+   </ol>
     <strong> General </strong>
 Are there any particularly good or bad online safety advice sources you’ve come across? • What made it good/bad?
 How do you define online safety? What does online safety mean to you? • Online privacy? • Online security?
