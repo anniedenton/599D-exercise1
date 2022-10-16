@@ -124,7 +124,9 @@
 </div>
 
 Christine Geeng and Mike Harris, *University of Washington*;
+
 Elissa Redmiles, *Max Planck Institute for Software Systems*;
+
 Franziska Roesner, *University of Washington*
 
 # Abstract
