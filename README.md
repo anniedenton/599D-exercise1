@@ -1,6 +1,9 @@
 # “Like Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
 
 <style>
+ /* put lists next to each other */
+ ul { display: inline-block; }
+ 
 /*
  CSS for the main interaction
 */
@@ -1518,7 +1521,7 @@ Factors in Computing Systems (2021), pp. 1–24.
 <section class="accordion">
   <input type="checkbox" name="collapse2" id="handle2">
   <h2 class="handle">
-    <label for="handle2">Toggle Advice Probes and Sources</label>
+    <label for="handle2">Click to toggle Advice Probes and Sources</label>
   </h2>
   <div class="content">
     <p><strong>Example Advice Probes:</strong> 
