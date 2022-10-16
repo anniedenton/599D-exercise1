@@ -1543,33 +1543,32 @@ Factors in Computing Systems (2021), pp. 1–24.
    </p>
     <p><strong>Sources</strong>
      <ul>
-      <li>https://www.thetrevorproject.org/wpcontent/uploads/2019/06/IG-x-TrevorProject LGBTQ-Safety-Guide.pdf </li>
-      <li> https://www.vpnmentor.com/blog/lgbtq-guideonline-safety/</li>
-      <li> https://www.comparitech.com/blog/vpnprivacy/lgbtq-cyberbullying/</li>
-      <li> https://www.lgbttech.org/copy-of-online-safety</li>
-      <li> https://www.hopkinsmedicine.org/health/wellnessand-prevention/tips-for-parents-of-lgbtq-youth</li>
-      <li> https://www.thetrevorproject.org/2020/12/10/theimportance-of-safe-language-on-social-media/</li>
-      <li> https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf</li>
-      <li> https://forge-forward.org/resource/safe-dating-tips/</li>
-      <li> https://staysafeonline.org/wpcontent/uploads/2017/09/What-LGBTCommunities-Should-Know-About-OnlineSafety.pdf</li>
-      <li> https://www.centeronhalsted.org/transsafedatingtips0909.pdf</li>
-      <li> https://queer-voices.com/online-dating-safety-tipsfor-lgbtq/</li>
-      <li> https://www.baltimorepolice.org/safeplace/safetytips</li>
-      <li> https://policies.tinder.com/safety/intl/en</li>
-      <li> https://www.gayquation.com/safety.html</li>
-      <li> https://nomadicboys.com/safety-gay-dating-apps/</li>
-      <li> https://www.pride.com/lovesex/2019/3/24/3-easyways-stay-safe-while-using-dating-apps</li>
-      <li> https://faze.ca/how-to-stay-safe-on-gay-datingwebsites/</li>
-      <li> https://avp.org/resources/safety-tips/</li>
-      <li> http://www.galop.org.uk/wpcontent/uploads/2016/11/Crime-Safety-and-HookUp-Apps.pdf</li>
-      <li> https://www.loveisrespect.org/resources/dating-inthe-closet/</li>
-      <li> https://www.thinkuknow.co.uk/professionals/ourviews/how-to-support-lgbt-young-people-to-staysafe-online/</li>
-      <li> https://www.legalreader.com/online-dating-scamshow-to-stay-safe-with-online-dating/</li>
-      <li> https://www.cosmopolitan.com/uk/lovesex/relationships/a19603997/online-dating-safetytips/</li>
-      <li> https://meanshappy.com/how-to-stay-safe-whenusing-online-dating/</li>
-      <li> https://socialcatfish.com/blog/lgbt-dating-apps/</li>
-      <li> https://vpnoverview.com/privacy/apps/privacygrindr/</li>
-      <li> https://www.datingscout.com/tips/staying-safe-with-online-dating</li>
+      <li> <a href="https://www.vpnmentor.com/blog/lgbtq-guideonline-safety/">LGBTQ guide to online safety</a></li>
+      <li> <a href="https://www.comparitech.com/blog/vpnprivacy/lgbtq-cyberbullying/">LGBTQ cyberbullying</a> </li>
+      <li> <a href="https://www.lgbttech.org/copy-of-online-safety">LGBT Tech - online safety</a></li>
+      <li> <a href="https://www.hopkinsmedicine.org/health/wellnessand-prevention/tips-for-parents-of-lgbtq-youth">Tips for parents of LGBTQ youth</a></li>
+      <li> <a href="https://www.thetrevorproject.org/2020/12/10/theimportance-of-safe-language-on-social-media">The importance of safe language on social media</a>/</li>
+      <li> <a href="https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf">Grindr holistic security guide</a></li>
+      <li> <a href="https://forge-forward.org/resource/safe-dating-tips/">Safe dating tips</a></li>
+      <li> <a href="https://staysafeonline.org/wpcontent/uploads/2017/09/What-LGBTCommunities-Should-Know-About-OnlineSafety.pdf">What LGBT communities should know about online safety</a></li>
+      <li> <a href="https://www.centeronhalsted.org/transsafedatingtips0909.pdf">Safety and trans dating</a></li>
+      <li> <a href="https://queer-voices.com/online-dating-safety-tipsfor-lgbtq/">Online dating safety tips for LGBTQ people</a></li>
+      <li> <a href="https://www.baltimorepolice.org/safeplace/safetytips">Safety tips</a></li>
+      <li> <a href="https://policies.tinder.com/safety/intl/en">Tinder safety policies</a></li>
+      <li> <a href="https://www.gayquation.com/safety.html">Gayquation - safety </a></li>
+      <li> <a href="https://nomadicboys.com/safety-gay-dating-apps/">Safety on gay dating apps</a></li>
+      <li> <a href="https://www.pride.com/lovesex/2019/3/24/3-easyways-stay-safe-while-using-dating-apps">Ways to stay safe while using dating apps</a></li>
+      <li> <a href="https://faze.ca/how-to-stay-safe-on-gay-datingwebsites/">How to stay safe on gay dating websites</a></li>
+      <li> <a href="https://avp.org/resources/safety-tips/">AVP safety tips</a></li>
+      <li> <a href="http://www.galop.org.uk/wpcontent/uploads/2016/11/Crime-Safety-and-HookUp-Apps.pdf">Safety and hookup apps</a></li>
+      <li> <a href="https://www.loveisrespect.org/resources/dating-inthe-closet/">Dating in the closet</a></li>
+      <li> <a href="https://www.thinkuknow.co.uk/professionals/ourviews/how-to-support-lgbt-young-people-to-staysafe-online/">How to support LGBT young people</a></li>
+      <li> <a href="https://www.legalreader.com/online-dating-scamshow-to-stay-safe-with-online-dating/">Online dating scams</a></li>
+      <li> <a href="https://www.cosmopolitan.com/uk/lovesex/relationships/a19603997/online-dating-safetytips/">Online dating safety tips</a></li>
+      <li> <a href="https://meanshappy.com/how-to-stay-safe-whenusing-online-dating/">How to stay safe when using online dating</a></li>
+      <li> <a href="https://socialcatfish.com/blog/lgbt-dating-apps/">LGBT dating apps</a></li>
+      <li> <a href="https://vpnoverview.com/privacy/apps/privacygrindr/">Grindr privacy policies</a></li>
+      <li> <a href="https://www.datingscout.com/tips/staying-safe-with-online-dating">Staying safe with online dating</a></li>
      </ul>
     </p>
   </div>
