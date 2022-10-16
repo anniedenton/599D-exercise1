@@ -170,7 +170,7 @@ for queer individuals?
 security, safety, and/or privacy advice?
 
 To answer our research questions, we conducted qualitative semi-structured interviews with a diverse group of
-14 queer individuals. We intentionally recruited for differences across age, race, gender, sexuality, and socioeconomic status so that we could take an intersectionalapproach to data analysis, as “people’s lives... are better
+14 queer individuals. We intentionally recruited for differences across age, race, gender, sexuality, and socioeconomic status so that we could take an intersectional approach to data analysis, as “people’s lives... are better
 understood as being shaped not by a single axis of social
 division, be it race or gender or class, but by many axes
 that work together and influence each other” [22].
@@ -197,10 +197,10 @@ in preventing harms by placing responsibility of safety
 on an individual rather than on an institution.
 
 # 2 Related Work
-Our work is motivated by how stigma creates queerspecific threats and vulnerabilities, both offline and online. We also consider how other overlapping identities
+Our work is motivated by how stigma creates queer-specific threats and vulnerabilities, both offline and online. We also consider how other overlapping identities
 play a role in risk by discussing research with other vulnerable or marginalized populations. Finally, we summarize prior research on general security advice and targeted advice.
 ## 2.1 Queer-Specific Risks
-The specific harms and threats that queer folks face (offand online) due to stigma around sexual orientation or
+The specific harms and threats that queer folks face (off and online) due to stigma around sexual orientation or
 gender have been well-documented.
 ### Technology-independent risks. 
 Risks to queer folks exist independent of technology (e.g., at school, home, and
@@ -308,7 +308,7 @@ are shaped by privilege and oppression [14]. We follow
 Reconfigure’s epistemological approach (feminist standpoint theory) of looking to users as experts in their own
 lives, rather than relying on threat models and advice developed by traditional security experts.
 # 3 Methodology
-To answer our research questions, we conducted semistructured qualitative interviews with queer individuals
+To answer our research questions, we conducted semi-structured qualitative interviews with queer individuals
 who use social media, dating apps, or apps for sexting.
 We asked participants what online safety advice they
 have given and received, as well as their thought processes behind adopting or rejecting advice. We also collated online documents of queer safety advice as prompts
@@ -344,7 +344,7 @@ changes ever failed to solve the problem?
     <li> If yes: How did you evaluate this method? E.g., how did you decide whether it would work for you? Did it work? Do you still do it? Have you changed this strategy over time? </li>
     <li> If no: Why not? Have you adopted a different approach to this concern rather than what the advice suggested? </li>
     <li> Do you have other approaches to this specific concern? </li>
-    <li> Any followup questions to establish threat model </li>
+    <li> Any follow-up questions to establish threat model </li>
      </ul>
 <li> If having trouble thinking of advice: Do you have any behaviors you’ve adopted because of online safety concerns? </li>
      <ul>
@@ -551,7 +551,7 @@ coders familiarized themselves with all transcripts [25].
 Then they independently coded four interviews before
 discussing code choices and agreeing on an intermediate codebook. During the discussion process, they began
 deductively coding using threat modeling as a framework
-to include threats and mitigation behaviors as lowerlevel codes, to be integrated into higher-level themes.
+to include threats and mitigation behaviors as lower-level codes, to be integrated into higher-level themes.
 They doubled-coded eight more interviews, stopping every two interviews to discuss changes to the codes and
 higher level themes, until consensus was reached. All
 transcripts were recoded as necessary. One coder coded
@@ -1160,8 +1160,7 @@ off, e.g., a social media site with poor reputation versus
 a blog with some advertisements.
 
 Also, some participants distrusted privacy instructions
-on platform sites, since they consider platforms to pri-
-oritize business interests over user harm. Therefore it is
+on platform sites, since they consider platforms to prioritize business interests over user harm. Therefore it is
 important for third parties, like the Electronic Frontier
 Foundation [10], to continue writing advice and instructions on controlling security and privacy settings. At the
 same time, platforms should still provide instructions for
@@ -1278,7 +1277,7 @@ harms when multiple identities play a role in risk.
 
 Our work faces limitations common to qualitative
 work: we cannot evaluate the popularity of a source or
-test statistical significance of identity factors on decisionmaking. We leave this to future work.
+test statistical significance of identity factors on decision-making. We leave this to future work.
 
 We believe our general insights into traits of good advice is transferrable to other contexts [59], but future
 research is needed to understand when and where specific advice (e.g., “use a private account”) works best.
