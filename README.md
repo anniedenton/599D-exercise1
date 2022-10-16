@@ -1140,6 +1140,7 @@ someone marginalized across one identity [37].
 3. Oppression (and harm) can come from interpersonal
 connections, culture, disciplinary structures, or institutions [22], and an individual under threat in one
 relationship might have agency in a different relationship.
+
 As the security field continues to research specific
 populations, an intersectional approach will be useful to
 understand how the threats within one population may
