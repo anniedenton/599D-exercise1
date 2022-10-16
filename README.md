@@ -1296,8 +1296,7 @@ Conference on World Wide Web (2017), pp. 1231–1240. <br>
 [35] COSTANZA-CHOCK, S. Design justice: Community-led practices to build the worlds we need. The MIT Press, 2020. <br>
 [36] CRENSHAW, K. Demarginalizing the intersection of race and
 sex: A black feminist critique of antidiscrimination doctrine,
-feminist theory and antiracist politics. u. Chi. Legal f. (1989),
-139. <br>
+feminist theory and antiracist politics. u. Chi. Legal f. (1989), 139. <br>
 [37] CRENSHAW, K. Mapping the margins: Intersectionality, identity politics, and violence against women of color. Stan. L. Rev.
 43 (1990), 1241. <br>
 [38] DEVITO, M. A., WALKER, A. M., AND BIRNHOLTZ, J. ’Too
@@ -1492,8 +1491,7 @@ RISTENPART, T., AND STRINGHINI, G. SoK: Hate, Harassment, and the Changing Lands
 Symposium on Security and Privacy (SP) (2021). <br>
 [101] TSENG, E., FREED, D., ENGEL, K., RISTENPART, T., AND
 DELL, N. A digital safety dilemma: Analysis of computermediated computer security interventions for intimate partner
-violence during covid-19. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (2021), pp. 1–
-17. <br>
+violence during covid-19. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (2021), pp. 1–17. <br>
 [102] TSENG, E., SABET, M., BELLINI, R., SODHI, H. K., RISTENPART, T., AND DELL, N. Care infrastructures for digital
 security and privacy in intimate partner violence. In Extended
 Abstracts of the 2022 CHI Conference on Human Factors in
