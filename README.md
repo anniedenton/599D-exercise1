@@ -151,6 +151,7 @@ can be a safety net to combat alienation [64, 92, 49], but
 also be a place of significant potential harm [92, 46, 100].
 In this paper, and in line with prior work [86, 41], we are
 interested in potential harms broadly, rather than distinguishing between security, safety, and/or privacy.
+
 Facing such risks online, an individual might seek
 out advice from a variety of sources. Where does this
 advice come from, and is it effective? While these
@@ -203,10 +204,9 @@ The specific harms and threats that queer folks face (offand online) due to stig
 gender have been well-documented.
 ### Technology-independent risks. 
 Risks to queer folks exist independent of technology (e.g., at school, home, and
-work). Queer youth are more likely than their heterosexual and cisgender (or cis) counterparts to be bullied, consider suicide [5], and be homeless [9]. LGBT youth are
-often homeless because they are thrown out by their parents upon learning they are gay [9]. While U.S. law technically protects LGBTQ+ people in the workplace [71],
-in practice their jobs may still be at risk (e.g., a teacher
+work). Queer youth are more likely than their heterosexual and cisgender (or cis) counterparts to be bullied, consider suicide [5], and be homeless [9]. LGBT youth are often homeless because they are thrown out by their parents upon learning they are gay [9]. While U.S. law technically protects LGBTQ+ people in the workplace [71], in practice their jobs may still be at risk (e.g., a teacher
 was reportedly fired for being gay after a student discovered his OKCupid profile [2]).
+
 Transgender (or trans) folks, particularly Black or
 Latino trans women, are disproportionately likely to face
 violence [13]. Trans/gay panic, a legal defense for someone to justify violence against someone after finding out
@@ -227,6 +227,7 @@ often provide location data, use it to connect with people outside of their know
 more sensitive information in profiles [34]. Recently
 there have been scams extorting queer dating app users
 by threatening to out them [6].
+
 Sexting through dating apps or through other messaging apps has become a common practice in the U.S. [61],
 and researchers have highlighted its positive role in relationship satisfaction [27, 40, 96]. Sexting also comes
 with risks, such as non-consensual sharing of intimate
@@ -247,6 +248,7 @@ framework of intersectionality. This posits that oppression and power is better 
 gender, class, sexuality, and disability [36]. Here we define power as agency and access to resources [37], and
 power dynamics as “differences in ability to take action
 between parties” [104].
+
 The reason we are explicitly looking at power is
 because lack of power reduces one’s ability to resist,
 reduce, or prevent harm [104, 19]. And individuals
@@ -254,6 +256,7 @@ marginalized across multiple identity axes are a bigger
 target for harm. For example, being a woman raises one’s
 risk of being harassed online, and this risk is higher for
 queer women and women of color [33].
+
 Intersectionality also helps us analyze “across domains of power” [22]: across interpersonal, cultural, disciplinary, and structural relationships. For example, a
 queer employee may be fired by their company for being
 gay (structural and cultural). And a queer person may be
@@ -272,7 +275,8 @@ space, deepening our understanding of the experiences
 of queer individuals in trying to respond to their security/safety/privacy concerns. We hypothesize that some
 of our conclusions are relevant to other marginalized groups as well.
 ## 2.4 Security Advice
-Advice evaluation. Providing security education to
+### Advice evaluation. 
+Providing security education to
 users has often been a takeaway from user studies on
 people’s security concerns and practices, especially for
 marginalized groups [94, 31]. Researchers have said that
@@ -283,7 +287,8 @@ existing with no prioritization [89, 20], or that “the right
 advice might change over time with the attack landscape,
 new technology, and experience” [90]. And security experts and non-experts have differing opinions on what
 “good” advice is [66].
-Sources of advice. Redmiles et al. found that people
+### Sources of advice. 
+Redmiles et al. found that people
 often turned to their IT or computer science family and
 friends for security advice, but people with higher socioeconomic status and technical skill tend to take more
 advice from the workplace rather than from friends and
@@ -291,7 +296,8 @@ family [87]. Rader et al. pointed out that informal stories
 between friends and family about security incidents are
 useful to learning about security behaviors and changing
 mental models [85].
-Advice for specific populations. The safety priorities and contexts of queer individuals may be different
+### Advice for specific populations. 
+The safety priorities and contexts of queer individuals may be different
 from the general population, and therefore warrant different advice, as “people from different under-served
 groups may have profoundly different needs and challenges for security and privacy” [106]. Even amongst
 queer individuals, queer life experiences and concerns
@@ -310,7 +316,7 @@ and asked participants how they felt about certain advice
 relevant to their online activities.
 ## 3.1 Interview Protocol
 We developed an interview script to ask questions about:
-What concerns have participants had about online
+1. What concerns have participants had about online
 security / safety / privacy related to queerness? Related to other aspects of their identity? Why do they
 have these concerns?
 2. Have participants ever changed their behaviors to
@@ -550,6 +556,7 @@ They doubled-coded eight more interviews, stopping every two interviews to discu
 higher level themes, until consensus was reached. All
 transcripts were recoded as necessary. One coder coded
 the final two interviews.
+
 Inter-rater reliability (IRR) was not calculated because
 our research goal is the richness and nuance of different
 experiences, not counts of how often a theme occurred,
@@ -575,6 +582,7 @@ participants were also concerned about harassment from
 within queer communities. Threats and concerns included, but are not limited to, deadnaming (use of a trans
 or non-binary person’s former name without their consent), transphobic and homophobic harassment, doxxing,
 losing one’s job for being queer, and physical violence.
+
 We now dive into our core research questions, detailing where participants found online safety, security, or
 privacy information for these threats, their barriers to
 finding useful advice, and how identity played a role in
@@ -617,6 +625,7 @@ to put their “full authentic self” online. Other attendees
 at the get-together also shared their differing opinions
 on whether to be more private or public online, creating
 what P13 described as “kind of a round [table] barbecue.”
+
 When P4 (trans man, gay) found a coworker on Grindr
 and realized they were accidentally outed to each other,
 and became concerned his workplace would find out, he
@@ -627,9 +636,11 @@ Having a group
 of people to talk to let participants hear about different
 experiences so they could make an informed decision on
 what to do next.
+
 For P14 and P12, their Facebook lesbian or LGBTQ+
 support groups experienced harassment themselves, and
 they would turn to in-group members for help.
+
 P6 incidentally came across privacy advice from her
 queer community, rather than purposely seeking out advice. P6 frequents Twitter and follows other trans and
 autistic people, some who are very security and privacy
@@ -643,15 +654,17 @@ from their trusted community. And it may be especially
 important right after a harmful event. For example, P12
 turned to her queer cousin after getting cyberbullied for
 posting LGBTQ+ related topics on social media. She described reaching out to her queer cousin as,
-really beneficial. Yeah, I took [the advice] into
-consideration because I felt I had someone that
-really cared about me and that really accepted
-me for who I was.
+> really beneficial. Yeah, I took [the advice] into
+> consideration because I felt I had someone that
+> really cared about me and that really accepted
+> me for who I was.
+
 P14 also took physical privacy advice from his queer
 community on Tumblr, which previously helped him
 process and validate his coming out experience with his
 family. Emotional support helped build trust and gave
 P14 a place to turn to for future concerns.
+
 When P8 provided advice to an older woman who was
 worried about sharing a Zoom link publicly, they also
 worked to calm her fears. P8 said,
@@ -682,6 +695,7 @@ her home, but also at school or work:
 Redmiles et al. also noted the workplace as a source
 of digital security advice “in the form of newsletters, IT
 emails, or required trainings” [88].
+
 P7 learned to change their passwords at least once a
 year, something they continue to do today, from their
 high school media technology class. They received a
@@ -703,11 +717,13 @@ through a film at her autistic education program.
 For questions about specific settings, actions, or programs, where the participant already knew the term for
 what they were looking for, some participants turned to
 an Internet search engine.
+
 For example, P5 did extensive research on what VPN
 to use based on their requirement that it not sell their data
 to third parties. And for advice on dating security and
 privacy for young women, P3 turned to a YouTube channel run by someone who was previously in an abusive
 relationship.
+
 P1 was looking for how to change a specific Facebook
 setting, but only found outdated information that did not
 apply to their Android phone. P12 looked up how to
@@ -716,6 +732,7 @@ to search Facebook’s website for how to block someone,
 but P14 did not find the site information as helpful as
 instructions from her friend, who had to block the same
 person harassing their lesbian Facebook Group.
+
 P8, P11, and P13 mentioned not knowing what language to use to search for certain safety-related information, which will be discussed more below in Section 4.2.1.
 ## 4.2 Barriers to Finding and Following Advice
 We detail difficulties participants encountered to finding security, safety, and privacy information, as listed
@@ -733,11 +750,13 @@ During the interview, they said they
 might search “How do I protect myself?” And P13 said
 he was not aware that safety advice specifically for queer
 folks is something that could be found on the Internet.
+
 We note that P8 is in their 40s and started using the
 Internet in the 90s, P11 is in his 20s, and P13 is in his 60s.
 Youth and being introduced to the Internet at a young age
 do not necessarily translate to broad Internet expertise
 and skills [57].
+
 Some of our participants did bring safety knowledge
 from one platform to another, but this tended to be analogous experiences of learning to block users on, for example, MySpace and transferring that knowledge to Facebook (P2), or knowledge of Telnet and SMTP’s lack of
 encryption to leading to skepticism of contemporary Internet traffic (P10).
@@ -759,14 +778,16 @@ cautious online sometimes interferes with their other
 goals and/or other parts of their identities: for example,
 participants who also relied on social media for work and
 income.
+
 For example, P4, a writer, made his Facebook account
 private after a friend had their social media account duplicated. Eventually, he made his account public again:
-[A friend would say] ’It’s such a great post, I
-want to share it,’ and I’m a writer, and so I’d
-be like yeah I wrote this this long thing that I
-would love for you to share but you can’t....It’s
-not that I’m trying to get exposure on my personal profiles, but I’d like to get my name out
-there and that was counter-intuitive.
+> [A friend would say] ’It’s such a great post, I
+> want to share it,’ and I’m a writer, and so I’d
+> be like yeah I wrote this this long thing that I
+> would love for you to share but you can’t....It’s
+> not that I’m trying to get exposure on my personal profiles, but I’d like to get my name out
+> there and that was counter-intuitive.
+
 P8, who had their Instagram business account duplicated by a scammer, also did not like the advice to make
 their account private because doing so would harm their
 business. P10 mentioned giving advice to a friend who
@@ -782,7 +803,7 @@ reverse as well, that every friend is a potential event
 attendee. These examples illustrate how social media
 use is sometimes tied to income, and ultimately, financial well-being, which limits people’s options for dealing
 with privacy concerns.
-Advice would interfere with joy and relationships
+### 4.2.4 Advice would interfere with joy and relationships
 Aside from convenience, participants also noted tradeoffs of losing human connection and joy as reasons to
 not adopt certain security or privacy measures, showing
 the role emotion plays around security concerns [85], as
@@ -790,6 +811,7 @@ well as in decision-making in general [30]. Participants
 who were concerned about harassment on social media
 or threats from online dating considered the trade-off of
 using more cautious safety behaviors versus missing potential connection with others.
+
 P14, although she had experienced trolls harassing her
 on Facebook, did not like the idea of making her account
 private because having a public account allowed her to
@@ -804,6 +826,7 @@ a trans woman, is concerned about being vulnerable to
 a trans or gay panic defense, where someone can excuse
 assault or murder by blaming the victim’s gender identity
 or sexual orientation for the assailant’s actions [7].
+
 At the same time, P2, who is in her 50s, transitioned
 and made a lot of life changes in the past couple years,
 and so will “swing for the fences":
@@ -817,6 +840,7 @@ disclose in her online profile that she is trans and tell a
 friend if she will meet someone, she is “apprehensive of
 this in terms of communications through social media.
 I’m expecting a lot of transphobia.”
+
 These examples indicate how while folks value their
 personal safety, they also value joy and connections in
 their life. Advice and online safety options for queer
@@ -829,11 +853,13 @@ Some participants mentioned they would not turn to a
 source or did not trust the advice they saw there. Reasons included that they didn’t want to be sold something
 (echoing [88]), or they didn’t trust the source given how
 the source’s interests differed from their users.
+
 For example, P5, when looking for a VPN that did not
 sell data to third-parties, searched the web for guides that
 were not trying to market VPNs to them. They ended
 up relying on a guide created by what they considered a
 reputable source, like Wired or Technology Review.
+
 P8 expressed a similar sentiment when explaining why
 they did not search the Internet for what to do after their
 Instagram account got duplicated: 
@@ -868,6 +894,7 @@ Finally, a general barrier we observed to adopting advice
 was a sense of futility, that any actions a person might
 take would not address the issue they were concerned
 about.
+
 For example, after their friend got doxxed, P1 (both
 of them activists) searched for privacy-enhancing behaviors, while their friend thought, “Well, it’s all out there
 now. There’s not much I can do”. P9 was also concerned
@@ -875,6 +902,7 @@ about having worse backlash if she tries to take action,
 like asking a site to take down her personally identifiable information, citing the “Streisand effect”: “the phenomenon whereby the attempt to suppress something
 only brings more attention or notoriety to it.” [11]. This
 discouraged her from looking for recourse.
+
 Referencing their identities, P2 and P6 both expressed
 an acceptance that their engaging in social media or online dating is always going to come with some threat of
 transphobic people, even with their mitigating behaviors.
@@ -899,6 +927,7 @@ with her distrust when she had blocked a homophobic
 harasser, but the harasser came back. She blamed Facebook for blocking not working (whether harasser made a
 second account or got around the block or ban remains
 unclear).
+
 Our participants are not alone in their sense of futility. Indeed, Hoffman et al. propose that this world
 view is actually very rational: “privacy cynicism” is
 a coping mechanism for Internet users dealing with
@@ -924,6 +953,7 @@ Transitioning is the process where one
 changes one’s gender presentation to match one’s internal sense of identity. Transitioning while on social media
 can lead to both stress and support [52], and can result in
 shifting threat models and security needs.
+
 For P4, who didn’t want to publicly transition on Facebook during early 2010s, the process led him to search
 how to force people to untag him from old pre-transition
 photos.
@@ -936,6 +966,7 @@ photos.
 
 This reflects prior work indicating that transitioning
 users either try to remove old photos or change visibility of those photos on Facebook [53].
+
 P1 also experienced this difficulty of trying to get
 others to untag their old photos. For P5 (non-binary),
 transitioning and getting top surgery led to them getting
@@ -962,6 +993,7 @@ because:
 P8 (non-binary, 45-54) also discussed getting unsolicited sexual messages and accepting that risk as part
 of navigating the world while feminine-presenting. She
 added though, “the older I get the more invisible I am.”
+
 For P14 (65-74), aging was an accumulation of stressful discrimination, because of her mobility impairment,
 religion, and sexuality. She did not want to take the time
 to learn how to make her church’s page private after receiving homophobic harassment because, 
@@ -978,10 +1010,12 @@ as femme, received unsolicited messages. And P3, a cis
 woman, stated she found it harder to find dating safety
 advice for queer women than for gay men. Future research should study the quantity and quality of advice
 that is available to queer sub-communities.
-Race. Race also affected how people felt about their
+### Race. 
+Race also affected how people felt about their
 risks moving through the world, as described above. P9
 stated, “I’m a white person, so I’ve never been afraid of
 being a white person on the Internet.”
+
 P11 was concerned about dating for both his Asian
 friend and himself, due to the risk of being stereotyped
 as submissive and someone aggressive attempting to take
@@ -1046,14 +1080,16 @@ on other points such as whether to make social media accounts private. Some of o
 information leakage, and others did not because they
 needed or wanted social exposure. A behavior option
 that impairs joy or financial stability is not a fair choice.
-Specificity is better than consistency. While Reeder
+#### Specificity is better than consistency. 
+While Reeder
 et al. noted that it is an issue when advice is inconsistent across multiple sources [90], we suggest that consistency is not, perhaps the most important goal. Instead, specificity—as we describe approaches below—
 may better enable people to have autonomy in evaluating
 what advice is most appropriate for their individual situation. Wade et al. also noted this issue of not including
 validation or reasoning in BLM protestor advice [103].
 Furthermore, Reeder et al. noted technology and other
 factors change over time, so efforts to create fully consistent advice may find themselves quickly outdated [90].
-Provide explanations. To achieve specificity, documents should explain the reasoning behind advice, mirroring how in-person questions allow follow-up questions, for example. Providing reasoning can, however,
+#### Provide explanations. 
+To achieve specificity, documents should explain the reasoning behind advice, mirroring how in-person questions allow follow-up questions, for example. Providing reasoning can, however,
 conflict with another prior recommendation for the creation of security advice: concision. Our results suggest
 that concise advice may also not be ideal. P4 and P5
 both mentioned researching articles to find the advice
@@ -1063,6 +1099,7 @@ article. And P9, when prompted with the advice “Use
 a private account,” asked for an explanation of why one
 should do that before she could say it was good advice or
 not. As Berdan writes about security advice for journalists, “good advice is rarely a punchy soundbite” [20].
+
 While adding “hows” and “whys” will lengthen documents, advice could be shortened by focusing on a specific threat to mitigate. For example, rather than writing a general online safety advice list for queer folks,
 a document could focus on a specific platform (e.g.
 Grindr [4], Instagram [8]), activity (e.g. transitioning, activism), or threat (e.g., being outed to family and friends,
@@ -1079,6 +1116,7 @@ whether or not participants were more likely to accept
 advice when it came with emotional support, several of
 our participants did seek it out, and P12 spoke positively
 when the friend she turned to after a cyber-bullying incident provided it.
+
 Further, P4 discussed how his trans men support group
 would “compare notes about what we were doing” when
 providing advice. He was looking for information on
@@ -1089,13 +1127,14 @@ his decision. (He opted to untag photos so he wouldn’t
 get questions about why his Facebook account was so
 new.) Thus, his group was engaged in collaborative advice giving, perhaps leading to group members feeling
 less alone in their struggles.
-Support security workshops and existing support
-groups. Given how our results indicate the benefit of
+#### Support security workshops and existing support groups. 
+Given how our results indicate the benefit of
 support groups as a space to ask questions and share experiences, as well as provide emotional support, safety
 advice may be better discussed in a group setting. As
 Slupska et al. writes, “Cybersecurity is more effective
 when it is communal...Discuss[ing] online threats and
 mitigations with members of a community makes it easier and less intimidating to take action.”
+
 This can look like security researchers hosting community workshops, e.g., CryptoHarlem [3], Reconfigure
 Network, and PEN America [12]. It could also look
 like security researchers providing resources for existing
@@ -1103,6 +1142,7 @@ queer support groups in some fashion. These cybersecurity advocates need to have
 respect for user capabilities in order to establish trusting
 relationships and empower users to believe in their own
 abilities [54, 55].
+
 Research with other stigmatized groups have also
 shown the importance of online discussion forums and
 communities for developing and distributing risk mitigation strategies, such as sex workers [21]. For online
@@ -1118,6 +1158,7 @@ look like it is selling something. Future work should look
 at what degree of marketing content that credibility drops
 off, e.g., a social media site with poor reputation versus
 a blog with some advertisements.
+
 Also, some participants distrusted privacy instructions
 on platform sites, since they consider platforms to pri-
 oritize business interests over user harm. Therefore it is
@@ -1152,12 +1193,14 @@ another identity were prioritized over their queerness in
 the moment of the interview. These examples show how
 in different contexts, one axis of oppression might be
 more relevant than others, and threat modeling for someone should explore these priorities. We argue that differences are just as important to study and design for as generalities, since there is no universal technology user [35].
+
 These intersectional identities also affected what advice would work or participants could afford to adopt:
 P8 was not able to make their business Instagram profile private after being harassed due to potential loss of
 customers, and multiple participants did not trust reporting homophobic and transphobic posts to Facebook because they have seen such posts remain up. The power
 difference between the individual and adversary affects
 one’s sense of agency in controlling one’s safety. Making power imbalances explicit in threat modeling is important to understanding what mitigations an individual
 is capable of, and when structural changes are necessary.
+
 While this framework surfaces how the queer experience is not a monolith, it also reveals when harm mitigations are transferable to others (which Wang also mentions as a motivation to pursue inclusive security and privacy [106]). For example, Nova et al. recommends that
 online platforms design group-level blocking functionality, as people of the queer Hijra identity from Bangladesh
 are “significantly influenced by their group dynamics and
@@ -1176,11 +1219,13 @@ work because a) the problems folks face may involve
 other people (e.g., networked privacy [74]), and b) when
 institutions are the threat, individuals don’t have equal
 resources and power.
+
 Prior research notes that managing security and privacy can be a communal goal [81, 60, 107], and that because privacy is networked, one person’s disclosure decisions inevitably affect their entire social circle [75, 74].
 And as mentioned earlier, some of P2’s privacy behaviors
 around her being transgender is to protect her son. Advice can be formulated with a community in mind, such
 as Pen America’s online harassment guide for witnesses
 and allies [12].
+
 Individual or communal advice also has limits when
 threats are powerful institutions, such as corporations
 or governments, or culture (e.g., transphobia). The futility some of our participants experienced around online harms are clearer with this context, and moving responsibility of safety to those in power would better address certain threats. Research on problematic content in
@@ -1201,18 +1246,21 @@ were designed to be used before an incident (preventative) or after (provoked re
 as a concise checkbox list, particularly for those already
 familiar with security behaviors, while something communicated after an incident may require more tact and
 emotional support.
+
 For support groups, we raise the question of when
-”technical” experts are needed, and what kind of expertise is lacking. If experts are integrated into a group, how
+"technical" experts are needed, and what kind of expertise is lacking. If experts are integrated into a group, how
 do you train an expert to ensure they are suited for their
 outsider role? Future research can explore collaborating with online support groups to understand how advice gets adopted, as online support groups have been
 known to provide advice and emotional support for specific communities [15, 76, 18]. Finally, it remains an
 open question whether seeing conflicting advice lowers
 users’ trust in an advice source.
+
 While we used threat modeling to help organize our
 results, we did not follow particular information-seeking
 theories. Health research has differently modeled seeking safety information related to risk, e.g., diseases or
 natural disasters [29]. Future advice research could incorporate theory outside security, e.g., the planned risk
 information seeking model [67].
+
 Finally, we ask when is it better to study a specific
 threat model or platform versus a specific identity when
 it comes to designing for harm mitigation or educating
@@ -1227,9 +1275,11 @@ contexts (non-U.S. cultures and nationalities [17, 81]).
 We provide a foundation for security researchers to think
 intersectionally when threat modeling and addressing
 harms when multiple identities play a role in risk.
+
 Our work faces limitations common to qualitative
 work: we cannot evaluate the popularity of a source or
 test statistical significance of identity factors on decisionmaking. We leave this to future work.
+
 We believe our general insights into traits of good advice is transferrable to other contexts [59], but future
 research is needed to understand when and where specific advice (e.g., “use a private account”) works best.
 Our work also focuses on queer folks generally, including both cisgender and transgender individuals. As noted
@@ -1243,6 +1293,7 @@ groups, whom they trusted and often shared threat models with, for help, in addi
 prior security advice work. Participants cited loss of
 business or joy of connecting with others as reasons to
 not adopt advice, in addition to inconvenience.
+
 Other aspects of identity like race and age played a
 role in what threats participants expected and looked to
 advice for. We recommend that advice favor specificity
