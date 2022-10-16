@@ -1196,326 +1196,326 @@ work was supported in part by a gift from Google.
 
 # References
 [1] Block together is shut down. https://blocktogether.
-org/. (Accessed on 10/08/2021).
+org/. (Accessed on 10/08/2021). <br>
 [2] Catholic school teacher reportedly fired after being outed as
 gay — teen vogue. https://www.teenvogue.com/story/
-catholic-school-teacher-reportedly-fired-afterouted-as-gay. (Accessed on 10/07/2021).
-[3] Cryptoharlem. https://www.cryptoharlem.com/. (Accessed on 09/16/2021).
+catholic-school-teacher-reportedly-fired-afterouted-as-gay. (Accessed on 10/07/2021). <br>
+[3] Cryptoharlem. https://www.cryptoharlem.com/. (Accessed on 09/16/2021). <br>
 [4] GRINDR HOLISTIC SECURITY GUIDE. Grindr
 4 Equality, https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf. (Accessed on
-02/07/2021).
+02/07/2021). <br>
 [5] Health Disparities Among LGBTQ Youth — Health Disparities — Adolescent and School Health — CDC. https:
 //www.cdc.gov/healthyyouth/disparities/healthdisparities-among-lgbtq-youth.htm. (Accessed on
-10/07/2021).
+10/07/2021). <br>
 [6] How to spot extortion scams on LGBTQ+ dating
 apps — FTC Consumer Information. FTC, https:
 //www.consumer.ftc.gov/blog/2021/09/how-spotextortion-scams-lgbtq-dating-apps. (Accessed on
-09/17/2021).
+09/17/2021). <br>
 [7] Movement Advancement Project — Gay/Trans Panic Defense Bans. https://www.lgbtmap.org/equality-maps/
-panic_defense_bans. (Accessed on 09/30/2021).
+panic_defense_bans. (Accessed on 09/30/2021). <br>
 [8] PROTECT YOUR SPACE AND WELL-BEING ON
 INSTAGRAM. The Trevor Project, https://www.
 thetrevorproject.org/wp-content/uploads/2019/
 06/IG-x-Trevor-Project_LGBTQ-Safety-Guide.pdf.
-(Accessed on 02/07/2021).
+(Accessed on 02/07/2021). <br>
 [9] Serving Our Youth: Findings from a National Survey
 of Service Providers Working with Lesbian, Gay, Bisexual, and Transgender Youth who are Homeless or
 At Risk of Becoming Homeless. Williams Institute,
-https://williamsinstitute.law.ucla.edu/wpcontent/uploads/Serving-Our-Youth-July2012.pdf. (Accessed on 10/07/2021).
+https://williamsinstitute.law.ucla.edu/wpcontent/uploads/Serving-Our-Youth-July2012.pdf. (Accessed on 10/07/2021). <br>
 [10] Surveillance self-defense — tips, tools and how-tos for safer online communications. Electronic Frontier Foundation, https:
-//ssd.eff.org/. (Accessed on 10/12/2021).
+//ssd.eff.org/. (Accessed on 10/12/2021).<br>
 [11] Words We’re Watching: ’Streisand effect’ — Merriam-Webster.
 https://www.merriam-webster.com/words-at-play/
 words-were-watching-streisand-effect-barbra.
-(Accessed on 10/02/2021).
+(Accessed on 10/02/2021). <br>
 [12] Writers at Risk - PEN America. https://pen.org/issue/
-writers-at-risk/. (Accessed on 09/16/2021).
+writers-at-risk/. (Accessed on 09/16/2021). <br>
 [13] Dismantling a Culture of Violence: Understanding AntiTransgender Violence and Ending the Crisis. https:
 //hrc-prod-requests.s3-us-west-2.amazonaws.com/
 files/assets/resources/Dismantling-a-Cultureof-Violence-010721.pdf, Dec 2020. (Accessed on
-10/07/2021).
+10/07/2021). <br>
 [14] Reconfigure: Feminist Action Research in Cybersecurity.
 Oxford Internet Institute, https://www.oii.ox.ac.uk/wpcontent/uploads/2021/01/Reconfigure-Report-v6-
-pages.pdf, Feb 2021.
+pages.pdf, Feb 2021. <br>
 [15] AMMARI, T., AND SCHOENEBECK, S. Understanding and supporting fathers and fatherhood on social media sites. In Proceedings of the 33rd annual ACM conference on human factors
-in computing systems (2015), pp. 1905–1914.
+in computing systems (2015), pp. 1905–1914. <br>
 [16] ANDERSON, M., VOGELS, E. A., AND TURNER, E. Online
 Dating: The Virtues and Downsides — Pew Research Center.
 https://www.pewresearch.org/internet/2020/02/
 06/the-virtues-and-downsides-of-online-dating/.
-(Accessed on 10/07/2021).
+(Accessed on 10/07/2021). <br>
 [17] ANDREASSEN, R. Social media surveillance, LGBTQ refugees
-and asylum. First Monday (2021).
+and asylum. First Monday (2021). <br>
 [18] BARAKAT, H., AND REDMILES, E. M. Community Under
 Surveillance: Impacts of Marginalization on an Online Labor
-Forum. In 16th International AAAI Conference on Web and Social Media (2021).
+Forum. In 16th International AAAI Conference on Web and Social Media (2021). <br>
 [19] BARWULOR, C., MCDONALD, A., HARGITTAI, E., AND
 REDMILES, E. M. “Disadvantaged in the American-Dominated
 Internet”: Sex, Work, and Technology. In Proceedings of the
 2021 CHI Conference on Human Factors in Computing Systems
-(New York, NY, USA, 2021), CHI ’21, Association for Computing Machinery.
+(New York, NY, USA, 2021), CHI ’21, Association for Computing Machinery. <br>
 [20] BERDAN, K. An evaluation of online security guides
 for journalists. https://cltc.berkeley.edu/wpcontent/uploads/2021/01/Online_Security_Guides_
-for_Journalists.pdf.
+for_Journalists.pdf. <br>
 [21] BERNIER, T., SHAH, A., ROSS, L. E., LOGIE, C. H., SETO,
 E., ET AL. The use of information and communication technologies by sex workers to manage occupational health and
 safety: scoping review. Journal of medical internet research
-23, 6 (2021), e26085.
+23, 6 (2021), e26085. <br>
 [22] BILGE, S., AND COLLINS, P. H. Intersectionality. Cambridge,
-UK: Polity (2016).
+UK: Polity (2016). <br>
 [23] BLACKWELL, L., HARDY, J., AMMARI, T., VEINOT, T.,
 LAMPE, C., AND SCHOENEBECK, S. LGBT parents and social media: Advocacy, privacy, and disclosure during shifting
 social movements. In Proceedings of the 2016 CHI conference
-on human factors in computing systems (2016), pp. 610–622.
+on human factors in computing systems (2016), pp. 610–622. <br>
 [24] BLUE, V. The Smart Girl’s Guide to Privacy: Practical Tips for
-Staying Safe Online. No Starch Press.
+Staying Safe Online. No Starch Press. <br>
 [25] BRAUN, V., AND CLARKE, V. Using thematic analysis in psychology. Qualitative research in psychology 3, 2 (2006), 77–
-101.
-[26] BRAUN, V., AND CLARKE, V. Conceptual and design thinking
-for thematic analysis. Qualitative Psychology (2021).
+101. <br>
+[26] BRAUN, V., AND CLARKE, V. Conceptual and design thinking <br>
+for thematic analysis. Qualitative Psychology (2021). <br>
 [27] BURKETT, M. Sex (t) talk: A qualitative analysis of young
-adults’ negotiations of the pleasures and perils of sexting. Sexuality & Culture 19, 4 (2015), 835–863.
+adults’ negotiations of the pleasures and perils of sexting. Sexuality & Culture 19, 4 (2015), 835–863. <br>
 [28] CARRASCO, M., AND KERNE, A. Queer visibility: Supporting LGBT+ selective visibility on social media. In Proceedings
 of the 2018 CHI Conference on Human Factors in Computing
-Systems (2018), pp. 1–12.
+Systems (2018), pp. 1–12. <br>
 [29] CASE, D. O., AND GIVEN, L. M. Looking for information: A
 survey of research on information seeking, needs, and behavior.
-Emerald Group Publishing, 2016.
+Emerald Group Publishing, 2016. <br>
 [30] CHAI, S. Choosing an identity: A general model of preference
-and belief formation. University of Michigan Press, 2001.
+and belief formation. University of Michigan Press, 2001. <br>
 [31] CHEN, C., DELL, N., AND ROESNER, F. Computer security
 and privacy in the interactions between victim service providers
-and human trafficking survivors. In 28th USENIX Security Symposium (USENIX Security 19) (2019), pp. 89–104.
+and human trafficking survivors. In 28th USENIX Security Symposium (USENIX Security 19) (2019), pp. 89–104. <br>
 [32] CHEN, J., PAIK, M., AND MCCABE, K. Exploring internet security perceptions and practices in urban ghana. In 10th
 Symposium On Usable Privacy and Security (SOUPS) (2014),
-pp. 129–142.
+pp. 129–142. <br>
 [33] CITRON, D. K. Hate crimes in cyberspace. Harvard University
-Press, 2014.
+Press, 2014. <br>
 [34] COBB, C., AND KOHNO, T. How public is my private life? privacy in online dating. In Proceedings of the 26th International
-Conference on World Wide Web (2017), pp. 1231–1240.
-[35] COSTANZA-CHOCK, S. Design justice: Community-led practices to build the worlds we need. The MIT Press, 2020.
+Conference on World Wide Web (2017), pp. 1231–1240. <br>
+[35] COSTANZA-CHOCK, S. Design justice: Community-led practices to build the worlds we need. The MIT Press, 2020. <br>
 [36] CRENSHAW, K. Demarginalizing the intersection of race and
 sex: A black feminist critique of antidiscrimination doctrine,
 feminist theory and antiracist politics. u. Chi. Legal f. (1989),
-139.
+139. <br>
 [37] CRENSHAW, K. Mapping the margins: Intersectionality, identity politics, and violence against women of color. Stan. L. Rev.
-43 (1990), 1241.
+43 (1990), 1241. <br>
 [38] DEVITO, M. A., WALKER, A. M., AND BIRNHOLTZ, J. ’Too
 Gay for Facebook’ Presenting LGBTQ+ Identity Throughout
 the Personal Social Media Ecosystem. Proceedings of the ACM
-on Human-Computer Interaction 2, CSCW (2018), 1–23.
+on Human-Computer Interaction 2, CSCW (2018), 1–23. <br>
 [39] DOURISH, P., GRINTER, R. E., DE LA FLOR, J. D., AND
 JOSEPH, M. Security in the wild: user strategies for managing
-security as an everyday, practical problem. Personal and Ubiquitous Computing 8, 6 (2004), 391–401.
+security as an everyday, practical problem. Personal and Ubiquitous Computing 8, 6 (2004), 391–401. <br>
 [40] DROUIN, M., COUPE, M., AND TEMPLE, J. R. Is sexting
 good for your relationship? It depends. . . . Computers in Human
-Behavior 75 (2017), 749–756.
+Behavior 75 (2017), 749–756. <br>
 [41] DYM, B., AND FIESLER, C. Social norm vulnerability and
 its consequences for privacy and safety in an online community. Proceedings of the ACM on Human-Computer Interaction
-4, CSCW2 (2020), 1–24.
+4, CSCW2 (2020), 1–24. <br>
 [42] ELLIOT, P. Shattering illusions: Same-sex domestic violence.
-Journal of Gay & Lesbian Social Services 4, 1 (1996), 1–8.
+Journal of Gay & Lesbian Social Services 4, 1 (1996), 1–8. <br>
 [43] FAGAN, M., AND KHAN, M. M. H. Why do they do what they
 do?: A study of what motivates users to (not) follow computer
 security advice. In Twelfth Symposium on Usable Privacy and
-Security (SOUPS) (2016), pp. 59–75.
+Security (SOUPS) (2016), pp. 59–75. <br>
 [44] FENG, B. Testing an integrated model of advice giving in supportive interactions. Human Communication Research 35, 1
-(2009), 115–129.
+(2009), 115–129. <br>
 [45] FRIK, A., NURGALIEVA, L., BERND, J., LEE, J., SCHAUB,
 F., AND EGELMAN, S. Privacy and security threat models and
 mitigation strategies of older adults. In Fifteenth Symposium on
-Usable Privacy and Security (SOUPS) (2019), pp. 21–40.
+Usable Privacy and Security (SOUPS) (2019), pp. 21–40. <br>
 [46] GAY, L., NETWORK, S. E., ET AL. Out online: The experiences of lesbian, gay, bisexual and transgender youth on the
-internet. New York, NY (2013).
+internet. New York, NY (2013). <br>
 [47] GEENG, C. LGBTQ privacy concerns on social media. In Proceedings of the 2018 CHI Conference Workshops and Symposia
-on Human Factors in Computing Systems, ACM Press.
+on Human Factors in Computing Systems, ACM Press. <br>
 [48] GEENG, C., HUTSON, J., AND ROESNER, F. Usable sexurity: Studying people’s concerns and strategies when sexting. In
 Sixteenth Symposium on Usable Privacy and Security (SOUPS)
-(2020), pp. 127–144.
+(2020), pp. 127–144. <br>
 [49] GRAY, M. L. Negotiating identities/queering desires: Coming
 out online and the remediation of the coming-out story. Journal of Computer-Mediated Communication 14, 4 (2009), 1162–
-1189.
+1189. <br>
 [50] GRAY, M. L. Out in the Country. New York University Press,
-2009.
+2009. <br>
 [51] GUBEREK, T., MCDONALD, A., SIMIONI, S., MHAIDLI,
 A. H., TOYAMA, K., AND SCHAUB, F. Keeping a Low Profile?: Technology, Risk and Privacy among Undocumented Immigrants. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems - CHI ’18, ACM Press,
-pp. 1–15.
+pp. 1–15. <br>
 [52] HAIMSON, O. L., BRUBAKER, J. R., DOMBROWSKI, L., AND
 HAYES, G. R. Disclosure, Stress, and Support During Gender Transition on Facebook. In Proceedings of the 18th ACM
 Conference on Computer Supported Cooperative Work & Social
-Computing, ACM, pp. 1176–1190.
+Computing, ACM, pp. 1176–1190. <br>
 [53] HAIMSON, O. L., BRUBAKER, J. R., DOMBROWSKI, L., AND
 HAYES, G. R. Digital footprints and changing networks during online identity transitions. In Proceedings of the 2016 CHI
 Conference on Human Factors in Computing Systems (2016),
-pp. 2895–2907.
+pp. 2895–2907. <br>
 [54] HANEY, J. M., AND LUTTERS, W. G. Skills and characteristics
 of successful cybersecurity advocates. In Workshop Program
 at Symposium on Usable Privacy and Security (SOUPS) 2017
-(2017).
-[55] HANEY, J. M., AND LUTTERS, W. G. ”It’s Scary...It’s Confusing...It’s Dull”: How Cybersecurity Advocates Overcome Negative Perceptions of Security. In Fourteenth Symposium on Usable Privacy and Security (SOUPS) (2018), pp. 411–425.
+(2017). <br>
+[55] HANEY, J. M., AND LUTTERS, W. G. ”It’s Scary...It’s Confusing...It’s Dull”: How Cybersecurity Advocates Overcome Negative Perceptions of Security. In Fourteenth Symposium on Usable Privacy and Security (SOUPS) (2018), pp. 411–425. <br>
 [56] HARAWAY, D. Situated knowledges: The science question in
-feminism and the privilege of partial perspective. Feminist studies 14, 3 (1988), 575–599.
+feminism and the privilege of partial perspective. Feminist studies 14, 3 (1988), 575–599. <br>
 [57] HARGITTAI, E. Digital na(t)ives? Variation in internet skills
 and uses among members of the “net generation”. Sociological
-inquiry 80, 1 (2010), 92–113.
+inquiry 80, 1 (2010), 92–113. <br>
 [58] HARGITTAI, E., ET AL. Facebook privacy settings: Who cares?
-First Monday (2010).
+First Monday (2010). <br>
 [59] HATCH, J. A. Doing qualitative research in education settings.
-Suny Press, 2002.
+Suny Press, 2002. <br>
 [60] HAYES, J., KAUSHIK, S., PRICE, C. E., AND WANG, Y. Cooperative privacy and security: Learning from people with visual impairments and their allies. In Fifteenth Symposium on
-Usable Privacy and Security (SOUPS) (2019).
+Usable Privacy and Security (SOUPS) (2019). <br>
 [61] HERBENICK, D., BOWLING, J., FU, T.-C., DODGE, B.,
 GUERRA-REYES, L., AND SANDERS, S. Sexual diversity in
 the United States: Results from a nationally representative probability sample of adult women and men. PloS one 12, 7 (2017),
-e0181198.
+e0181198. <br>
 [62] HERLEY, C. So long, and no thanks for the externalities: The
 rational rejection of security advice by users. In Proceedings of
 the 2009 Workshop on New Security Paradigms Workshop (New
 York, NY, USA, 2009), NSPW ’09, Association for Computing
-Machinery, p. 133–144.
+Machinery, p. 133–144. <br>
 [63] HILL COLLINS, P. Black Feminist Thought in the Matrix of Domination. In Black Feminist Thought: Knowledge,
 Consciousness, and the Politics of Empowerment. Routledge,
-pp. 221–238.
+pp. 221–238. <br>
 [64] HILLIER, L., MITCHELL, K. J., AND YBARRA, M. L. The
 Internet as a safety net: Findings from a series of online focus groups with LGB and non-LGB young people in the United
-States. Journal of LGBT Youth 9, 3 (2012), 225–246.
+States. Journal of LGBT Youth 9, 3 (2012), 225–246. <br>
 [65] HOFFMANN, C. P., LUTZ, C., AND RANZINI, G. Privacy cynicism: A new approach to the privacy paradox. Cyberpsychology: Journal of Psychosocial Research on Cyberspace 10, 4
-(2016).
+(2016). <br>
 [66] ION, I., REEDER, R., AND CONSOLVO, S. “...No one can hack
 my mind”: Comparing Expert and Non-Expert Security Practices. In Eleventh Symposium On Usable Privacy and Security
-(SOUPS) (2015), pp. 327–346.
+(SOUPS) (2015), pp. 327–346. <br>
 [67] KAHLOR, L. Prism: A planned risk information seeking model.
-Health communication 25, 4 (2010), 345–356.
-[68] LENHART, A., YBARRA, M., AND PRICE-FEENEY, M. Nonconsensual image sharing: one in 25 Americans has been a victim of “revenge porn”. Data & Society Research Institute, 2016.
+Health communication 25, 4 (2010), 345–356. <br>
+[68] LENHART, A., YBARRA, M., AND PRICE-FEENEY, M. Nonconsensual image sharing: one in 25 Americans has been a victim of “revenge porn”. Data & Society Research Institute, 2016. <br>
 [69] LERNER, A., HE, H. Y., KAWAKAMI, A., ZEAMER, S. C.,
 AND HOYLE, R. Privacy and activism in the transgender community. In Proceedings of the 2020 CHI Conference on Human
-Factors in Computing Systems (2020), pp. 1–13.
+Factors in Computing Systems (2020), pp. 1–13. <br>
 [70] LIANG, C., HUTSON, J. A., AND KEYES, O. Surveillance,
-stigma & sociotechnical design for HIV. First Monday (2020).
-[71] LIPTAK, A. Civil rights law protects gay and transgender workers, Supreme Court rules. The New York Times 1 (2020).
+stigma & sociotechnical design for HIV. First Monday (2020). <br>
+[71] LIPTAK, A. Civil rights law protects gay and transgender workers, Supreme Court rules. The New York Times 1 (2020). <br>
 [72] LYONS, T., KRUSI ¨ , A., PIERRE, L., KERR, T., SMALL, W.,
 AND SHANNON, K. Negotiating violence in the context of
 transphobia and criminalization: The experiences of trans sex
 workers in Vancouver, Canada. Qualitative health research 27,
-2 (2017), 182–190.
+2 (2017), 182–190. <br>
 [73] MAHOWALD, L., GRUBERG, S., AND HALPIN, J. The State
 of the LGBTQ Community in 2020 - Center for American
 Progress. https://www.americanprogress.org/issues/
-lgbtq-rights/reports/2020/10/06/491052/statelgbtq-community-2020/#Ca=10, Oct 2020.
+lgbtq-rights/reports/2020/10/06/491052/statelgbtq-community-2020/#Ca=10, Oct 2020. <br>
 [74] MARWICK, A., FONTAINE, C., AND BOYD, D. “Nobody sees
 it, nobody gets mad”: Social media, privacy, and personal responsibility among low-SES youth. Social Media+ Society 3, 2
-(2017), 2056305117710455.
+(2017), 2056305117710455. <br>
 [75] MARWICK, A. E., AND BOYD, D. Networked privacy: How
-teenagers negotiate context in social media. New media & society 16, 7 (2014), 1051–1067.
+teenagers negotiate context in social media. New media & society 16, 7 (2014), 1051–1067. <br>
 [76] MCDONALD, A., BARWULOR, C., MAZUREK, M. L.,
 SCHAUB, F., AND REDMILES, E. M. ”It’s stressful having all
 these phones”: Investigating Sex Workers’ Safety Goals, Risks,
 and Practices Online. In 30th USENIX Security Symposium
-(USENIX Security 21) (2021).
+(USENIX Security 21) (2021). <br>
 [77] MCDONALD, A. M., AND CRANOR, L. F. The cost of reading
-privacy policies. Isjlp 4 (2008), 543.
+privacy policies. Isjlp 4 (2008), 543. <br>
 [78] MCDONALD, N., SCHOENEBECK, S., AND FORTE, A. Reliability and inter-rater reliability in qualitative research: Norms
 and guidelines for CSCW and HCI practice. Proceedings of the
-ACM on Human-Computer Interaction 3, CSCW (2019), 1–23.
+ACM on Human-Computer Interaction 3, CSCW (2019), 1–23. <br>
 [79] MCGREGOR, S. E., CHARTERS, P., HOLLIDAY, T., AND
 ROESNER, F. Investigating the computer security practices
 and needs of journalists. In 24th USENIX Security Symposium
-(USENIX Security 15) (2015), pp. 399–414.
+(USENIX Security 15) (2015), pp. 399–414. <br>
 [80] METZGER, M. J., FLANAGIN, A. J., AND MEDDERS, R. B.
 Social and heuristic approaches to credibility evaluation online.
-Journal of communication 60, 3 (2010), 413–439.
+Journal of communication 60, 3 (2010), 413–439. <br>
 [81] NOVA, F. F., DEVITO, M. A., SAHA, P., RASHID, K. S.,
 ROY TURZO, S., AFRIN, S., AND GUHA, S. ”Facebook Promotes More Harassment” Social Media Ecosystem, Skill and
 Marginalized Hijra Identity in Bangladesh. Proceedings of the
-ACM on Human-Computer Interaction 5, CSCW1 (2021), 1–35.
+ACM on Human-Computer Interaction 5, CSCW1 (2021), 1–35. <br>
 [82] OWENS, K., COBB, C., AND CRANOR, L. “You Gotta Watch
 What You Say”: Surveillance of Communication with Incarcerated People. In Proceedings of the 2021 CHI Conference on
-Human Factors in Computing Systems (2021), pp. 1–18.
+Human Factors in Computing Systems (2021), pp. 1–18. <br>
 [83] PIERCE, J., FOX, S., MERRILL, N., AND WONG, R. Differential vulnerabilities and a diversity of tactics: What toolkits teach
-us about cybersecurity. Proceedings of the ACM on HumanComputer Interaction 2, CSCW (2018), 1–24.
+us about cybersecurity. Proceedings of the ACM on HumanComputer Interaction 2, CSCW (2018), 1–24. <br>
 [84] PINTER, A. T., SCHEUERMAN, M. K., AND BRUBAKER, J. R.
 Entering Doors, Evading Traps: Benefits and Risks of Visibility
 During Transgender Coming Outs. Proceedings of the ACM on
-Human-Computer Interaction 4, CSCW3 (2021), 1–27.
+Human-Computer Interaction 4, CSCW3 (2021), 1–27. <br>
 [85] RADER, E., WASH, R., AND BROOKS, B. Stories as informal
 lessons about security. In Proceedings of the Eighth Symposium
 on Usable Privacy and Security (SOUPS) (New York, NY, USA,
-2012), Association for Computing Machinery.
+2012), Association for Computing Machinery. <br>
 [86] REDMILES, E. M., BODFORD, J., AND BLACKWELL, L. “I
 just want to feel safe”: A diary study of safety perceptions on
-social media. In Proceedings of the International AAAI Conference on Web and Social Media (2019), vol. 13, pp. 405–416.
+social media. In Proceedings of the International AAAI Conference on Web and Social Media (2019), vol. 13, pp. 405–416. <br>
 [87] REDMILES, E. M., KROSS, S., AND MAZUREK, M. L. How
 I learned to be secure: a census-representative survey of security advice sources and behavior. In Proceedings of the 2016
 ACM SIGSAC Conference on Computer and Communications
-Security (2016), pp. 666–677.
+Security (2016), pp. 666–677. <br>
 [88] REDMILES, E. M., MALONE, A. R., AND MAZUREK, M. L.
 I think they’re trying to tell me something: Advice sources and
-selection for digital security. In 2016 IEEE Symposium on Security and Privacy (SP) (2016), IEEE, pp. 272–288.
+selection for digital security. In 2016 IEEE Symposium on Security and Privacy (SP) (2016), IEEE, pp. 272–288. <br>
 [89] REDMILES, E. M., WARFORD, N., JAYANTI, A., KONERU,
 A., KROSS, S., MORALES, M., STEVENS, R., AND
 MAZUREK, M. L. A comprehensive quality evaluation of security and privacy advice on the web. In 29th USENIX Security
-Symposium (USENIX Security 20) (2020), pp. 89–108.
+Symposium (USENIX Security 20) (2020), pp. 89–108. <br>
 [90] REEDER, R. W., ION, I., AND CONSOLVO, S. 152 simple steps
 to stay safe online: Security advice for non-tech-savvy users.
-IEEE Security & Privacy 15, 5 (2017), 55–64.
+IEEE Security & Privacy 15, 5 (2017), 55–64. <br>
 [91] REICHEL, J., PECK, F., INABA, M., MOGES, B., CHAWLA,
 B. S., AND CHETTY, M. ’I have too much respect for my
 elders’: Understanding South African Mobile Users’ Perceptions of Privacy and Current Behaviors on Facebook and WhatsApp. In 29th USENIX Security Symposium (USENIX Security
-20) (2020), pp. 1949–1966.
+20) (2020), pp. 1949–1966. <br>
 [92] SCHEUERMAN, M. K., BRANHAM, S. M., AND HAMIDI, F.
 Safe spaces and safe places: Unpacking technology-mediated
 experiences of safety and harm with transgender people. Proceedings of the ACM on Human-Computer Interaction 2, CSCW
-(2018), 1–27.
+(2018), 1–27. <br>
 [93] SCHEUERMAN, M. K., JIANG, J. A., FIESLER, C., AND
 BRUBAKER, J. R. A Framework of Severity for Harmful Content Online. arXiv preprint arXiv:2108.04401 (2021).
 [94] SIMKO, L., LERNER, A., IBTASAM, S., ROESNER, F., AND
 KOHNO, T. Computer security and privacy for refugees in the
-United States. In 2018 IEEE Symposium on Security and Privacy (SP) (2018), IEEE, pp. 409–423.
+United States. In 2018 IEEE Symposium on Security and Privacy (SP) (2018), IEEE, pp. 409–423. <br>
 [95] SLUPSKA, J., DAWSON DUCKWORTH, S. D., MA, L., AND
 NEFF, G. Participatory threat modelling: Exploring paths to reconfigure cybersecurity. In Extended Abstracts of the 2021 CHI
 Conference on Human Factors in Computing Systems (2021),
-pp. 1–6.
+pp. 1–6. <br>
 [96] STASKO, E. C., AND GELLER, P. A. Reframing sexting as a positive relationship behavior. Drexel University,
 2015. https://www.apa.org/news/press/releases/
-2015/08/reframing-sexting.pdf.
+2015/08/reframing-sexting.pdf. <br>
 [97] SULLIVAN, N. A critical introduction to queer theory. NYU
-Press, 2003.
+Press, 2003. <br>
 [98] TAYLOR, P. A survey of LGBT Americans: Attitudes, experiences and values in changing times. Pew Research Center,
-2013.
+2013. <br>
 [99] TAYLOR, S. H., HUTSON, J. A., AND ALICEA, T. R. Social
 Consequences of Grindr Use: Extending the Internet-Enhanced
-Self-Disclosure Hypothesis. Association for Computing Machinery, New York, NY, USA, 2017, p. 6645–6657.
+Self-Disclosure Hypothesis. Association for Computing Machinery, New York, NY, USA, 2017, p. 6645–6657. <br>
 [100] THOMAS, K., AKHAWE, D., BAILEY, M., BONEH, D.,
 BURSZTEIN, E., CONSOLVO, S., DELL, N., DURUMERIC, Z.,
 KELLEY, P. G., KUMAR, D., MCCOY, D., MEIKLEJOHN, S.,
 RISTENPART, T., AND STRINGHINI, G. SoK: Hate, Harassment, and the Changing Landscape of Online Abuse. In IEEE
-Symposium on Security and Privacy (SP) (2021).
+Symposium on Security and Privacy (SP) (2021). <br>
 [101] TSENG, E., FREED, D., ENGEL, K., RISTENPART, T., AND
 DELL, N. A digital safety dilemma: Analysis of computermediated computer security interventions for intimate partner
 violence during covid-19. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (2021), pp. 1–
-17.
+17. <br>
 [102] TSENG, E., SABET, M., BELLINI, R., SODHI, H. K., RISTENPART, T., AND DELL, N. Care infrastructures for digital
 security and privacy in intimate partner violence. In Extended
 Abstracts of the 2022 CHI Conference on Human Factors in
-Computing Systems (2021).
-[103] WADE, K., BRUBAKER, J. R., AND FIESLER, C. Protest privacy recommendations: An analysis of digital surveillance circumvention advice during black lives matter protests. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (2021), pp. 1–6.
+Computing Systems (2021). <br>
+[103] WADE, K., BRUBAKER, J. R., AND FIESLER, C. Protest privacy recommendations: An analysis of digital surveillance circumvention advice during black lives matter protests. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (2021), pp. 1–6. <br>
 [104] WALKER, A. M., AND DEVITO, M. A. ”’More gay’ fits in
 better”: Intracommunity Power Dynamics and Harms in Online
 LGBTQ+ Spaces. In Proceedings of the 2020 CHI Conference
-on Human Factors in Computing Systems (2020), pp. 1–15.
+on Human Factors in Computing Systems (2020), pp. 1–15. <br>
 [105] WALKER, A. M., YAO, Y., GEENG, C., HOYLE, R., AND
 WISNIEWSKI, P. Moving beyond ’one size fits all’ research
-considerations for working with vulnerable populations. Interactions 26, 6 (2019), 34–39.
+considerations for working with vulnerable populations. Interactions 26, 6 (2019), 34–39. <br>
 [106] WANG, Y. The third wave? inclusive privacy and security.
 In Proceedings of the 2017 New Security Paradigms Workshop
 (New York, NY, USA, 2017), NSPW 2017, Association for
-Computing Machinery, p. 122–130.
+Computing Machinery, p. 122–130. <br>
 [107] WATSON, H., MOJU-IGBENE, E., KUMARI, A., AND DAS,
 S. “We hold each other accountable”: Unpacking how social
-groups approach cybersecurity and privacy together. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (2020), pp. 1–12.
+groups approach cybersecurity and privacy together. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (2020), pp. 1–12. <br>
 [108] ZENG, E., KOHNO, T., AND ROESNER, F. What Makes a
 “Bad” Ad? User Perceptions of Problematic Online Advertising. In Proceedings of the 2021 CHI Conference on Human
-Factors in Computing Systems (2021), pp. 1–24.
+Factors in Computing Systems (2021), pp. 1–24. <br>
 
 <section class="accordion">
   <input type="checkbox" name="collapse2" id="handle2">
