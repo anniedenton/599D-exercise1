@@ -2,7 +2,7 @@
 
 <style>
  /* put lists next to each other */
- ul { 
+ .list-next { 
  display: inline-block; 
  float:left;
  }
