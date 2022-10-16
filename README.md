@@ -1332,8 +1332,7 @@ on Human Factors in Computing Systems, ACM Press. <br>
 Sixteenth Symposium on Usable Privacy and Security (SOUPS)
 (2020), pp. 127–144. <br>
 [49] GRAY, M. L. Negotiating identities/queering desires: Coming
-out online and the remediation of the coming-out story. Journal of Computer-Mediated Communication 14, 4 (2009), 1162–
-1189. <br>
+out online and the remediation of the coming-out story. Journal of Computer-Mediated Communication 14, 4 (2009), 1162–1189. <br>
 [50] GRAY, M. L. Out in the Country. New York University Press,
 2009. <br>
 [51] GUBEREK, T., MCDONALD, A., SIMIONI, S., MHAIDLI,
@@ -1395,8 +1394,7 @@ stigma & sociotechnical design for HIV. First Monday (2020). <br>
 [72] LYONS, T., KRUSI ¨ , A., PIERRE, L., KERR, T., SMALL, W.,
 AND SHANNON, K. Negotiating violence in the context of
 transphobia and criminalization: The experiences of trans sex
-workers in Vancouver, Canada. Qualitative health research 27,
-2 (2017), 182–190. <br>
+workers in Vancouver, Canada. Qualitative health research 27, 2 (2017), 182–190. <br>
 [73] MAHOWALD, L., GRUBERG, S., AND HALPIN, J. The State
 of the LGBTQ Community in 2020 - Center for American
 Progress. https://www.americanprogress.org/issues/
@@ -1459,8 +1457,7 @@ to stay safe online: Security advice for non-tech-savvy users.
 IEEE Security & Privacy 15, 5 (2017), 55–64. <br>
 [91] REICHEL, J., PECK, F., INABA, M., MOGES, B., CHAWLA,
 B. S., AND CHETTY, M. ’I have too much respect for my
-elders’: Understanding South African Mobile Users’ Perceptions of Privacy and Current Behaviors on Facebook and WhatsApp. In 29th USENIX Security Symposium (USENIX Security
-20) (2020), pp. 1949–1966. <br>
+elders’: Understanding South African Mobile Users’ Perceptions of Privacy and Current Behaviors on Facebook and WhatsApp. In 29th USENIX Security Symposium (USENIX Security) (2020), pp. 1949–1966. <br>
 [92] SCHEUERMAN, M. K., BRANHAM, S. M., AND HAMIDI, F.
 Safe spaces and safe places: Unpacking technology-mediated
 experiences of safety and harm with transgender people. Proceedings of the ACM on Human-Computer Interaction 2, CSCW
@@ -1508,8 +1505,7 @@ considerations for working with vulnerable populations. Interactions 26, 6 (2019
 In Proceedings of the 2017 New Security Paradigms Workshop
 (New York, NY, USA, 2017), NSPW 2017, Association for
 Computing Machinery, p. 122–130. <br>
-[107] WATSON, H., MOJU-IGBENE, E., KUMARI, A., AND DAS,
-S. “We hold each other accountable”: Unpacking how social
+[107] WATSON, H., MOJU-IGBENE, E., KUMARI, A., AND DAS, S. “We hold each other accountable”: Unpacking how social
 groups approach cybersecurity and privacy together. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (2020), pp. 1–12. <br>
 [108] ZENG, E., KOHNO, T., AND ROESNER, F. What Makes a
 “Bad” Ad? User Perceptions of Problematic Online Advertising. In Proceedings of the 2021 CHI Conference on Human
