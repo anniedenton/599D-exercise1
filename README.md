@@ -175,8 +175,8 @@ understood as being shaped not by a single axis of social
 division, be it race or gender or class, but by many axes
 that work together and influence each other” [22].
 Our major findings include:
-1. Participants often turn to queer support groups for
-advice and emotional support, in addition to other
+1. Participants often turn to **queer support groups** for
+advice and **emotional support**, in addition to other
 sources like family or work. These support groups
 serve both to provide individual advice as well as
 to collectively combat community-level threats. In
@@ -184,9 +184,9 @@ one example, Participant 14 described her lesbian
 social media group blocking trolls together “like
 lesbians walking the perimeter” of their online community.
 2. In addition to thinking of time spent or convenience
-as a trade-off for adopting security advice, participants also lamented loss of business or joy of connecting with others as reasons to not adopt privacy
+as a trade-off for adopting security advice, participants also lamented **loss of business or joy of connecting with others** as reasons to not adopt privacy
 practices on social media.
-3. Interlocking facets of identity affect people’s
+3. **Interlocking facets of identity** affect people’s
 perception and adoption of advice, and participants sometimes prioritize non-queer identity related threats.
 
 Based on our results, we develop takeaways for better security, safety, and privacy advice, with conclusions likely applicable to other vulnerable or marginalized populations as well. For example, we observe that
