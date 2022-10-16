@@ -735,8 +735,16 @@ person harassing their lesbian Facebook Group.
 
 P8, P11, and P13 mentioned not knowing what language to use to search for certain safety-related information, which will be discussed more below in Section 4.2.1.
 ## 4.2 Barriers to Finding and Following Advice
-We detail difficulties participants encountered to finding security, safety, and privacy information, as listed
-in Table 3. While inconvenience was sometimes cited
+We detail difficulties participants encountered to finding security, safety, and privacy information:
+* No language for it
+* Solution not online
+* Advice would interfere with income
+* Advice would interfere with relationships
+* Distrust in source
+* Advice out-of-date
+* Sense of futility
+
+While inconvenience was sometimes cited
 as the reason that advice did not work (as in prior
 work [62, 88]), our participants faced additional tradeoffs as well.
 ### 4.2.1 No language for it
