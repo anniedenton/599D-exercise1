@@ -961,9 +961,10 @@ Examples of peer-to-peer harms included invalidating
 a specific identity (e.g., bisexuality [104] or non-binary)
 within a queer space. P5 mentioned that one time they
 disagreed in a Twitter thread about how to use pronouns.
-I got shouted down by another queer person....I
-try to stay away from people who are yelling at
-other queer people.
+> I got shouted down by another queer person....I
+> try to stay away from people who are yelling at
+> other queer people.
+
 Advice should specify if the threat model is potential
 harms from within a community itself or from outside.
 # 5 Discussion and Future Work
