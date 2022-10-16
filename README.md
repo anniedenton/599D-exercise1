@@ -2,12 +2,11 @@
 
 <style>
  /* put lists next to each other */
- ul { display: inline-block; }
- div {
-  display:inline-block;
-  float:left;
+ ul { 
+ display: inline-block; 
+ float:left;
+ }
 
-}
  
 /*
  CSS for the main interaction
@@ -1525,7 +1524,7 @@ Factors in Computing Systems (2021), pp. 1–24.
 
 <section class="accordion">
   <input type="checkbox" name="collapse2" id="handle2">
- <div>
+ 
   <h2 class="handle">
     <label for="handle2">Toggle Advice Probes and Sources</label>
   </h2>
@@ -1550,9 +1549,7 @@ Factors in Computing Systems (2021), pp. 1–24.
    <li> Use a VPN</li>
    </ul>
    </p>
- </div>
  
- <div>
     <p><strong>Sources</strong>
      <ul>
       <li> <a href="https://www.vpnmentor.com/blog/lgbtq-guideonline-safety/">LGBTQ guide to online safety</a></li>
@@ -1584,5 +1581,4 @@ Factors in Computing Systems (2021), pp. 1–24.
      </ul>
     </p>
   </div>
-  </div> 
 </section>
