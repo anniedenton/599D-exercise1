@@ -123,84 +123,6 @@
   <span class="tooltiptext">Tooltip text</span>
 </div>
 
-<section class="accordion">
-  <input type="checkbox" name="collapse" id="handle1" checked="checked">
-  <h2 class="handle">
-    <label for="handle1"> Click to toggle the full interview protocol </label>
-  </h2>
-  <div class="content">
-   <p><strong>Advice</strong>
-    <ol>
-<li>Have you ever looked for or gotten advice related to online safety, security, or privacy concerns? </li>
-     <ul>
-    <li> From where or from who did you learn to do this? </li>
-    <li> What were you specifically concerned about? </li>
-    <li> What was the advice? </li>
-    <li> Did you follow this advice? </li>
-    <li> If yes: How did you evaluate this method? E.g., how did you decide whether it would work for you? Did it work? Do you still do it? Have you changed this strategy over time? </li>
-    <li> If no: Why not? Have you adopted a different approach to this concern rather than what the advice suggested? </li>
-    <li> Do you have other approaches to this specific concern? </li>
-    <li> Any followup questions to establish threat model </li>
-     </ul>
-<li> If having trouble thinking of advice: Do you have any behaviors you’ve adopted because of online safety concerns? </li>
-     <ul>
-    <li> Where did you learn to do this? </li>
-     </ul>
-<li> Other prompts: dating, sexting </li>
-     <ul>
-    <li> Security, privacy </li>
-    <li> Related to queer identity, other identities </li>
- </ul>
-   
-<li> Have you ever provided advice related to online safety? </li>
-   <ul>
-    <li> Who did you provide this to, and how did they receive this advice? </li>
-    <li> Where did you learn this advice from? </li>
-    <li> Other prompts: dating, sexting </li>
-    <li> Security, privacy </li>
-    <li> Related to queer identity, other identities </li>
-    </ul>
-<li> Have you ever had difficulties trying to find online safety information? </li>
-    <ul>
-    <li> Have you had difficulties finding information that you felt connected with you and your life? </li>
-    </ul>
-<li> Are there behaviors you considered but didn’t adopt? </li>
-   <ul>
-    <li> Where did you learn about these behaviors? </li>
-    <li> What made you decide not to adopt it? </li>
-    </ul>
-<li> Have you ever used Google or another search engine to find online safety information? </li>
-<li> Have you ever used social media sites themselves to find or ask for online safety information? </li>
-<li> What online safety/security/privacy concerns do you have that you haven’t found advice or haven’t been addressed? </li>
-<li> If there’s free time: what do you think about x advice? From advice coding </li>
-   </ol>
-    <strong> General </strong>
- <ol>
-<li> Are there any particularly good or bad online safety advice sources you’ve come across? </li>
-  <ul>
-   <li> What made it good/bad? </li>
-  </ul>
-<li> How do you define online safety? What does online safety mean to you? </li>
-  <ul>
-   <li> Online privacy? </li>
-   <li> Online security? </li>
-  </ul>
-<li> What concerns do you prioritize the most? </li>
-<li> Is there anything else you would like to share? </li>
-   </ol>
-    <strong> Demographics </strong>
-You can say pass if you want to skip any of these questions. <br>
-  <ol>
-<li> Disability disclosure </li>
-<li> Kind of area you live in: rural/urban/suburban? </li>
-   <ul>
-   <li> How long have you lived there? Other places you’ve lived for a long time? </li>
-   </ul>
-   </ol>
- </p>
-   
-  </div>
-</section>
        
 
 Given stigma and threats surrounding being gay or transgender, LGBTQ+ folks often seek support and information on navigating identity and personal (digital and
@@ -398,7 +320,86 @@ changes ever failed to solve the problem?
 3. Have participants given online safety / security / privacy advice to others?
 4. What online advice have participants seen but decided was not for them?
 5. If people are unconcerned about online safety / security / privacy, what are they resigned to?
-The full interview protocol can be found in Appendix 9.1.
+
+<section class="accordion">
+  <input type="checkbox" name="collapse" id="handle1" checked="checked">
+  <h2 class="handle">
+    <label for="handle1"> Click to toggle the full interview protocol </label>
+  </h2>
+  <div class="content">
+   <p><strong>Advice</strong>
+    <ol>
+<li>Have you ever looked for or gotten advice related to online safety, security, or privacy concerns? </li>
+     <ul>
+    <li> From where or from who did you learn to do this? </li>
+    <li> What were you specifically concerned about? </li>
+    <li> What was the advice? </li>
+    <li> Did you follow this advice? </li>
+    <li> If yes: How did you evaluate this method? E.g., how did you decide whether it would work for you? Did it work? Do you still do it? Have you changed this strategy over time? </li>
+    <li> If no: Why not? Have you adopted a different approach to this concern rather than what the advice suggested? </li>
+    <li> Do you have other approaches to this specific concern? </li>
+    <li> Any followup questions to establish threat model </li>
+     </ul>
+<li> If having trouble thinking of advice: Do you have any behaviors you’ve adopted because of online safety concerns? </li>
+     <ul>
+    <li> Where did you learn to do this? </li>
+     </ul>
+<li> Other prompts: dating, sexting </li>
+     <ul>
+    <li> Security, privacy </li>
+    <li> Related to queer identity, other identities </li>
+ </ul>
+   
+<li> Have you ever provided advice related to online safety? </li>
+   <ul>
+    <li> Who did you provide this to, and how did they receive this advice? </li>
+    <li> Where did you learn this advice from? </li>
+    <li> Other prompts: dating, sexting </li>
+    <li> Security, privacy </li>
+    <li> Related to queer identity, other identities </li>
+    </ul>
+<li> Have you ever had difficulties trying to find online safety information? </li>
+    <ul>
+    <li> Have you had difficulties finding information that you felt connected with you and your life? </li>
+    </ul>
+<li> Are there behaviors you considered but didn’t adopt? </li>
+   <ul>
+    <li> Where did you learn about these behaviors? </li>
+    <li> What made you decide not to adopt it? </li>
+    </ul>
+<li> Have you ever used Google or another search engine to find online safety information? </li>
+<li> Have you ever used social media sites themselves to find or ask for online safety information? </li>
+<li> What online safety/security/privacy concerns do you have that you haven’t found advice or haven’t been addressed? </li>
+<li> If there’s free time: what do you think about x advice? From advice coding </li>
+   </ol>
+    <strong> General </strong>
+ <ol>
+<li> Are there any particularly good or bad online safety advice sources you’ve come across? </li>
+  <ul>
+   <li> What made it good/bad? </li>
+  </ul>
+<li> How do you define online safety? What does online safety mean to you? </li>
+  <ul>
+   <li> Online privacy? </li>
+   <li> Online security? </li>
+  </ul>
+<li> What concerns do you prioritize the most? </li>
+<li> Is there anything else you would like to share? </li>
+   </ol>
+    <strong> Demographics </strong>
+You can say pass if you want to skip any of these questions. <br>
+  <ol>
+<li> Disability disclosure </li>
+<li> Kind of area you live in: rural/urban/suburban? </li>
+   <ul>
+   <li> How long have you lived there? Other places you’ve lived for a long time? </li>
+   </ul>
+   </ol>
+ </p>
+   
+  </div>
+</section>
+
 ### Advice Prompts
 We also gathered queer safety advice
 available online as prompts for participants to think about
@@ -413,6 +414,68 @@ asked about the same advice, because it wasn’t always
 relevant to them. Some prompt examples include “use
 2-factor authentication” and “on a first date, don’t meet
 at home.”
+
+<section class="accordion">
+  <input type="checkbox" name="collapse2" id="handle2">
+ 
+  <h2 class="handle">
+    <label for="handle2">Click to toggle Advice Probes and Sources</label>
+  </h2>
+  <div class="content">
+    <p><strong>Example Advice Probes:</strong> 
+     <ul>
+   <li> Private Account </li>
+   <li> Selective Sharing </li>
+   <li> Block Users </li>
+   <li> Disengage from Conversations</li>
+   <li> Create New SM Reflecting True Gender</li>
+   <li> Update SM to Reflect True Gender</li>
+   <li> Delete, Untag Old Photos</li>
+   <li> Don’t Meet at Home</li>
+   <li> Tell a Friend Where You are Going</li>
+   <li> Use ”Ask for Angela” Type Code Words</li>
+   <li> Use Police Apps to Notify of Location</li>
+   <li> Background Check Date</li>
+   <li> Use Safe Dating Apps</li>
+   <li> Only Download Apps from Trusted Sources</li>
+   <li> Use Two-Factor Authentication (2FA)</li>
+   <li> Use a VPN</li>
+   </ul>
+   </p>
+ 
+    <p><strong>Sources</strong>
+     <ul>
+      <li> <a href="https://www.vpnmentor.com/blog/lgbtq-guideonline-safety/">LGBTQ guide to online safety</a></li>
+      <li> <a href="https://www.comparitech.com/blog/vpnprivacy/lgbtq-cyberbullying/">LGBTQ cyberbullying</a> </li>
+      <li> <a href="https://www.lgbttech.org/copy-of-online-safety">LGBT Tech - online safety</a></li>
+      <li> <a href="https://www.hopkinsmedicine.org/health/wellnessand-prevention/tips-for-parents-of-lgbtq-youth">Tips for parents of LGBTQ youth</a></li>
+      <li> <a href="https://www.thetrevorproject.org/2020/12/10/theimportance-of-safe-language-on-social-media">The importance of safe language on social media</a>/</li>
+      <li> <a href="https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf">Grindr holistic security guide</a></li>
+      <li> <a href="https://forge-forward.org/resource/safe-dating-tips/">Safe dating tips</a></li>
+      <li> <a href="https://staysafeonline.org/wpcontent/uploads/2017/09/What-LGBTCommunities-Should-Know-About-OnlineSafety.pdf">What LGBT communities should know about online safety</a></li>
+      <li> <a href="https://www.centeronhalsted.org/transsafedatingtips0909.pdf">Safety and trans dating</a></li>
+      <li> <a href="https://queer-voices.com/online-dating-safety-tipsfor-lgbtq/">Online dating safety tips for LGBTQ people</a></li>
+      <li> <a href="https://www.baltimorepolice.org/safeplace/safetytips">Safety tips</a></li>
+      <li> <a href="https://policies.tinder.com/safety/intl/en">Tinder safety policies</a></li>
+      <li> <a href="https://www.gayquation.com/safety.html">Gayquation - safety </a></li>
+      <li> <a href="https://nomadicboys.com/safety-gay-dating-apps/">Safety on gay dating apps</a></li>
+      <li> <a href="https://www.pride.com/lovesex/2019/3/24/3-easyways-stay-safe-while-using-dating-apps">Ways to stay safe while using dating apps</a></li>
+      <li> <a href="https://faze.ca/how-to-stay-safe-on-gay-datingwebsites/">How to stay safe on gay dating websites</a></li>
+      <li> <a href="https://avp.org/resources/safety-tips/">AVP safety tips</a></li>
+      <li> <a href="http://www.galop.org.uk/wpcontent/uploads/2016/11/Crime-Safety-and-HookUp-Apps.pdf">Safety and hookup apps</a></li>
+      <li> <a href="https://www.loveisrespect.org/resources/dating-inthe-closet/">Dating in the closet</a></li>
+      <li> <a href="https://www.thinkuknow.co.uk/professionals/ourviews/how-to-support-lgbt-young-people-to-staysafe-online/">How to support LGBT young people</a></li>
+      <li> <a href="https://www.legalreader.com/online-dating-scamshow-to-stay-safe-with-online-dating/">Online dating scams</a></li>
+      <li> <a href="https://www.cosmopolitan.com/uk/lovesex/relationships/a19603997/online-dating-safetytips/">Online dating safety tips</a></li>
+      <li> <a href="https://meanshappy.com/how-to-stay-safe-whenusing-online-dating/">How to stay safe when using online dating</a></li>
+      <li> <a href="https://socialcatfish.com/blog/lgbt-dating-apps/">LGBT dating apps</a></li>
+      <li> <a href="https://vpnoverview.com/privacy/apps/privacygrindr/">Grindr privacy policies</a></li>
+      <li> <a href="https://www.datingscout.com/tips/staying-safe-with-online-dating">Staying safe with online dating</a></li>
+     </ul>
+    </p>
+   </div>
+</section>
+
 ### Procedure
 Interviews were conducted remotely either
 by phone or by video conferencing program, depending
@@ -1505,64 +1568,3 @@ groups approach cybersecurity and privacy together. In Proceedings of the 2020 C
 [108] ZENG, E., KOHNO, T., AND ROESNER, F. What Makes a
 “Bad” Ad? User Perceptions of Problematic Online Advertising. In Proceedings of the 2021 CHI Conference on Human
 Factors in Computing Systems (2021), pp. 1–24. <br>
-
-<section class="accordion">
-  <input type="checkbox" name="collapse2" id="handle2">
- 
-  <h2 class="handle">
-    <label for="handle2">Click to toggle Advice Probes and Sources</label>
-  </h2>
-  <div class="content">
-    <p><strong>Example Advice Probes:</strong> 
-     <ul>
-   <li> Private Account </li>
-   <li> Selective Sharing </li>
-   <li> Block Users </li>
-   <li> Disengage from Conversations</li>
-   <li> Create New SM Reflecting True Gender</li>
-   <li> Update SM to Reflect True Gender</li>
-   <li> Delete, Untag Old Photos</li>
-   <li> Don’t Meet at Home</li>
-   <li> Tell a Friend Where You are Going</li>
-   <li> Use ”Ask for Angela” Type Code Words</li>
-   <li> Use Police Apps to Notify of Location</li>
-   <li> Background Check Date</li>
-   <li> Use Safe Dating Apps</li>
-   <li> Only Download Apps from Trusted Sources</li>
-   <li> Use Two-Factor Authentication (2FA)</li>
-   <li> Use a VPN</li>
-   </ul>
-   </p>
- 
-    <p><strong>Sources</strong>
-     <ul>
-      <li> <a href="https://www.vpnmentor.com/blog/lgbtq-guideonline-safety/">LGBTQ guide to online safety</a></li>
-      <li> <a href="https://www.comparitech.com/blog/vpnprivacy/lgbtq-cyberbullying/">LGBTQ cyberbullying</a> </li>
-      <li> <a href="https://www.lgbttech.org/copy-of-online-safety">LGBT Tech - online safety</a></li>
-      <li> <a href="https://www.hopkinsmedicine.org/health/wellnessand-prevention/tips-for-parents-of-lgbtq-youth">Tips for parents of LGBTQ youth</a></li>
-      <li> <a href="https://www.thetrevorproject.org/2020/12/10/theimportance-of-safe-language-on-social-media">The importance of safe language on social media</a>/</li>
-      <li> <a href="https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf">Grindr holistic security guide</a></li>
-      <li> <a href="https://forge-forward.org/resource/safe-dating-tips/">Safe dating tips</a></li>
-      <li> <a href="https://staysafeonline.org/wpcontent/uploads/2017/09/What-LGBTCommunities-Should-Know-About-OnlineSafety.pdf">What LGBT communities should know about online safety</a></li>
-      <li> <a href="https://www.centeronhalsted.org/transsafedatingtips0909.pdf">Safety and trans dating</a></li>
-      <li> <a href="https://queer-voices.com/online-dating-safety-tipsfor-lgbtq/">Online dating safety tips for LGBTQ people</a></li>
-      <li> <a href="https://www.baltimorepolice.org/safeplace/safetytips">Safety tips</a></li>
-      <li> <a href="https://policies.tinder.com/safety/intl/en">Tinder safety policies</a></li>
-      <li> <a href="https://www.gayquation.com/safety.html">Gayquation - safety </a></li>
-      <li> <a href="https://nomadicboys.com/safety-gay-dating-apps/">Safety on gay dating apps</a></li>
-      <li> <a href="https://www.pride.com/lovesex/2019/3/24/3-easyways-stay-safe-while-using-dating-apps">Ways to stay safe while using dating apps</a></li>
-      <li> <a href="https://faze.ca/how-to-stay-safe-on-gay-datingwebsites/">How to stay safe on gay dating websites</a></li>
-      <li> <a href="https://avp.org/resources/safety-tips/">AVP safety tips</a></li>
-      <li> <a href="http://www.galop.org.uk/wpcontent/uploads/2016/11/Crime-Safety-and-HookUp-Apps.pdf">Safety and hookup apps</a></li>
-      <li> <a href="https://www.loveisrespect.org/resources/dating-inthe-closet/">Dating in the closet</a></li>
-      <li> <a href="https://www.thinkuknow.co.uk/professionals/ourviews/how-to-support-lgbt-young-people-to-staysafe-online/">How to support LGBT young people</a></li>
-      <li> <a href="https://www.legalreader.com/online-dating-scamshow-to-stay-safe-with-online-dating/">Online dating scams</a></li>
-      <li> <a href="https://www.cosmopolitan.com/uk/lovesex/relationships/a19603997/online-dating-safetytips/">Online dating safety tips</a></li>
-      <li> <a href="https://meanshappy.com/how-to-stay-safe-whenusing-online-dating/">How to stay safe when using online dating</a></li>
-      <li> <a href="https://socialcatfish.com/blog/lgbt-dating-apps/">LGBT dating apps</a></li>
-      <li> <a href="https://vpnoverview.com/privacy/apps/privacygrindr/">Grindr privacy policies</a></li>
-      <li> <a href="https://www.datingscout.com/tips/staying-safe-with-online-dating">Staying safe with online dating</a></li>
-     </ul>
-    </p>
-   </div>
-</section>
