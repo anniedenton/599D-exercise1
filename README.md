@@ -124,7 +124,7 @@
 <section class="accordion">
   <input type="checkbox" name="collapse" id="handle1" checked="checked">
   <h2 class="handle">
-    <label for="handle1"> Click here to view the full interview protocol </label>
+    <label for="handle1"> Click to toggle the full interview protocol </label>
   </h2>
   <div class="content">
    <p><strong>Advice</strong>
