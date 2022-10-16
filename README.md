@@ -1269,8 +1269,7 @@ social movements. In Proceedings of the 2016 CHI conference
 on human factors in computing systems (2016), pp. 610–622. <br>
 [24] BLUE, V. The Smart Girl’s Guide to Privacy: Practical Tips for
 Staying Safe Online. No Starch Press. <br>
-[25] BRAUN, V., AND CLARKE, V. Using thematic analysis in psychology. Qualitative research in psychology 3, 2 (2006), 77–
-101. <br>
+[25] BRAUN, V., AND CLARKE, V. Using thematic analysis in psychology. Qualitative research in psychology 3, 2 (2006), 77–101. <br>
 [26] BRAUN, V., AND CLARKE, V. Conceptual and design thinking <br>
 for thematic analysis. Qualitative Psychology (2021). <br>
 [27] BURKETT, M. Sex (t) talk: A qualitative analysis of young
@@ -1333,8 +1332,7 @@ Sixteenth Symposium on Usable Privacy and Security (SOUPS)
 (2020), pp. 127–144. <br>
 [49] GRAY, M. L. Negotiating identities/queering desires: Coming
 out online and the remediation of the coming-out story. Journal of Computer-Mediated Communication 14, 4 (2009), 1162–1189. <br>
-[50] GRAY, M. L. Out in the Country. New York University Press,
-2009. <br>
+[50] GRAY, M. L. Out in the Country. New York University Press, 2009. <br>
 [51] GUBEREK, T., MCDONALD, A., SIMIONI, S., MHAIDLI,
 A. H., TOYAMA, K., AND SCHAUB, F. Keeping a Low Profile?: Technology, Risk and Privacy among Undocumented Immigrants. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems - CHI ’18, ACM Press,
 pp. 1–15. <br>
@@ -1472,12 +1470,10 @@ NEFF, G. Participatory threat modelling: Exploring paths to reconfigure cybersec
 Conference on Human Factors in Computing Systems (2021),
 pp. 1–6. <br>
 [96] STASKO, E. C., AND GELLER, P. A. Reframing sexting as a positive relationship behavior. Drexel University,
-2015. https://www.apa.org/news/press/releases/
-2015/08/reframing-sexting.pdf. <br>
+2015. https://www.apa.org/news/press/releases/2015/08/reframing-sexting.pdf. <br>
 [97] SULLIVAN, N. A critical introduction to queer theory. NYU
 Press, 2003. <br>
-[98] TAYLOR, P. A survey of LGBT Americans: Attitudes, experiences and values in changing times. Pew Research Center,
-2013. <br>
+[98] TAYLOR, P. A survey of LGBT Americans: Attitudes, experiences and values in changing times. Pew Research Center, 2013. <br>
 [99] TAYLOR, S. H., HUTSON, J. A., AND ALICEA, T. R. Social
 Consequences of Grindr Use: Extending the Internet-Enhanced
 Self-Disclosure Hypothesis. Association for Computing Machinery, New York, NY, USA, 2017, p. 6645–6657. <br>
