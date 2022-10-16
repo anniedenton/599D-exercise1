@@ -414,18 +414,9 @@ You can say pass if you want to skip any of these questions. <br>
 ### Advice Prompts
 We also gathered queer safety advice
 available online as prompts for participants to think about
-behaviors related to concerns they had (Appendix 9.2).
+behaviors related to concerns they had.
 These prompts were collated from ten pages of online
-search results for “lgbtq online safety advice”. Our goal
-wasn’t to systematically evaluate advice: instead it was
-to probe participants about what it would be like adopting
-behavior they had either never thought of or didn’t have
-in recent memory. Therefore, not all participants were
-asked about the same advice, because it wasn’t always
-relevant to them. Some prompt examples include “use
-2-factor authentication” and “on a first date, don’t meet
-at home.”
-
+search results for “lgbtq online safety advice”. 
 <section class="accordion">
   <input type="checkbox" name="collapse2" id="handle2">
  
@@ -486,6 +477,17 @@ at home.”
     </p>
    </div>
 </section>
+
+Our goal
+wasn’t to systematically evaluate advice: instead it was
+to probe participants about what it would be like adopting
+behavior they had either never thought of or didn’t have
+in recent memory. Therefore, not all participants were
+asked about the same advice, because it wasn’t always
+relevant to them. Some prompt examples include “use
+2-factor authentication” and “on a first date, don’t meet
+at home.”
+
 
 ### Procedure
 Interviews were conducted remotely either
