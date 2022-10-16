@@ -1514,50 +1514,63 @@ groups approach cybersecurity and privacy together. In Proceedings of the 2020 C
 [108] ZENG, E., KOHNO, T., AND ROESNER, F. What Makes a
 “Bad” Ad? User Perceptions of Problematic Online Advertising. In Proceedings of the 2021 CHI Conference on Human
 Factors in Computing Systems (2021), pp. 1–24.
-# 9 Appendix
-## 9.2 Advice Probes and Sources
-### 9.2.1 Example Advice Probes
-• Use Private Account
-• Selective Sharing
-• Block Users
-• Disengage from Conversations
-• Create New SM Reflecting True Gender
-• Update SM to Reflect True Gender
-• Delete, Untag Old Photos
-• Don’t Meet at Home
-• Tell a Friend Where You are Going
-• Use ”Ask for Angela” Type Code Words
-• Use Police Apps to Notify of Location
-• Background Check Date
-• Use Safe Dating Apps
-• Only Download Apps from Trusted Sources
-• Use Two-Factor Authentication (2FA)
-• Use a VPN
-### 9.2.2 Sources
-• https://www.thetrevorproject.org/wpcontent/uploads/2019/06/IG-x-TrevorProject LGBTQ-Safety-Guide.pdf
-• https://www.vpnmentor.com/blog/lgbtq-guideonline-safety/
-• https://www.comparitech.com/blog/vpnprivacy/lgbtq-cyberbullying/
-• https://www.lgbttech.org/copy-of-online-safety
-• https://www.hopkinsmedicine.org/health/wellnessand-prevention/tips-for-parents-of-lgbtq-youth
-• https://www.thetrevorproject.org/2020/12/10/theimportance-of-safe-language-on-social-media/
-• https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf
-• https://forge-forward.org/resource/safe-dating-tips/
-• https://staysafeonline.org/wpcontent/uploads/2017/09/What-LGBTCommunities-Should-Know-About-OnlineSafety.pdf
-• https://www.centeronhalsted.org/transsafedatingtips0909.pdf
-• https://queer-voices.com/online-dating-safety-tipsfor-lgbtq/
-• https://www.baltimorepolice.org/safeplace/safetytips
-• https://policies.tinder.com/safety/intl/en
-• https://www.gayquation.com/safety.html
-• https://nomadicboys.com/safety-gay-dating-apps/
-• https://www.pride.com/lovesex/2019/3/24/3-easyways-stay-safe-while-using-dating-apps
-• https://faze.ca/how-to-stay-safe-on-gay-datingwebsites/
-• https://avp.org/resources/safety-tips/
-• http://www.galop.org.uk/wpcontent/uploads/2016/11/Crime-Safety-and-HookUp-Apps.pdf
-• https://www.loveisrespect.org/resources/dating-inthe-closet/
-• https://www.thinkuknow.co.uk/professionals/ourviews/how-to-support-lgbt-young-people-to-staysafe-online/
-• https://www.legalreader.com/online-dating-scamshow-to-stay-safe-with-online-dating/
-• https://www.cosmopolitan.com/uk/lovesex/relationships/a19603997/online-dating-safetytips/
-• https://meanshappy.com/how-to-stay-safe-whenusing-online-dating/
-• https://socialcatfish.com/blog/lgbt-dating-apps/
-• https://vpnoverview.com/privacy/apps/privacygrindr/
-• [https://www.datingscout.com/tips/staying-s](https://www.datingscout.com/tips/staying-safe-with-online-dating)
+
+<section class="accordion">
+  <input type="checkbox" name="collapse2" id="handle2">
+  <h2 class="handle">
+    <label for="handle2">Toggle Advice Probes and Sources</label>
+  </h2>
+  <div class="content">
+    <p><strong>Example Advice Probes:</strong> 
+     <ul>
+   <li> Private Account </li>
+   <li> Selective Sharing </li>
+   <li> Block Users </li>
+   <li> Disengage from Conversations</li>
+   <li> Create New SM Reflecting True Gender</li>
+   <li> Update SM to Reflect True Gender</li>
+   <li> Delete, Untag Old Photos</li>
+   <li> Don’t Meet at Home</li>
+   <li> Tell a Friend Where You are Going</li>
+   <li> Use ”Ask for Angela” Type Code Words</li>
+   <li> Use Police Apps to Notify of Location</li>
+   <li> Background Check Date</li>
+   <li> Use Safe Dating Apps</li>
+   <li> Only Download Apps from Trusted Sources</li>
+   <li> Use Two-Factor Authentication (2FA)</li>
+   <li> Use a VPN</li>
+   </ul>
+   </p>
+    <p><strong>Sources</strong>
+     <ul>
+      <li>https://www.thetrevorproject.org/wpcontent/uploads/2019/06/IG-x-TrevorProject LGBTQ-Safety-Guide.pdf </li>
+      <li> https://www.vpnmentor.com/blog/lgbtq-guideonline-safety/</li>
+      <li> https://www.comparitech.com/blog/vpnprivacy/lgbtq-cyberbullying/</li>
+      <li> https://www.lgbttech.org/copy-of-online-safety</li>
+      <li> https://www.hopkinsmedicine.org/health/wellnessand-prevention/tips-for-parents-of-lgbtq-youth</li>
+      <li> https://www.thetrevorproject.org/2020/12/10/theimportance-of-safe-language-on-social-media/</li>
+      <li> https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf</li>
+      <li> https://forge-forward.org/resource/safe-dating-tips/</li>
+      <li> https://staysafeonline.org/wpcontent/uploads/2017/09/What-LGBTCommunities-Should-Know-About-OnlineSafety.pdf</li>
+      <li> https://www.centeronhalsted.org/transsafedatingtips0909.pdf</li>
+      <li> https://queer-voices.com/online-dating-safety-tipsfor-lgbtq/</li>
+      <li> https://www.baltimorepolice.org/safeplace/safetytips</li>
+      <li> https://policies.tinder.com/safety/intl/en</li>
+      <li> https://www.gayquation.com/safety.html</li>
+      <li> https://nomadicboys.com/safety-gay-dating-apps/</li>
+      <li> https://www.pride.com/lovesex/2019/3/24/3-easyways-stay-safe-while-using-dating-apps</li>
+      <li> https://faze.ca/how-to-stay-safe-on-gay-datingwebsites/</li>
+      <li> https://avp.org/resources/safety-tips/</li>
+      <li> http://www.galop.org.uk/wpcontent/uploads/2016/11/Crime-Safety-and-HookUp-Apps.pdf</li>
+      <li> https://www.loveisrespect.org/resources/dating-inthe-closet/</li>
+      <li> https://www.thinkuknow.co.uk/professionals/ourviews/how-to-support-lgbt-young-people-to-staysafe-online/</li>
+      <li> https://www.legalreader.com/online-dating-scamshow-to-stay-safe-with-online-dating/</li>
+      <li> https://www.cosmopolitan.com/uk/lovesex/relationships/a19603997/online-dating-safetytips/</li>
+      <li> https://meanshappy.com/how-to-stay-safe-whenusing-online-dating/</li>
+      <li> https://socialcatfish.com/blog/lgbt-dating-apps/</li>
+      <li> https://vpnoverview.com/privacy/apps/privacygrindr/</li>
+      <li> [https://www.datingscout.com/tips/staying-s](https://www.datingscout.com/tips/staying-safe-with-online-dating)</li>
+     </ul>
+    </p>
+  </div>
+</section>
