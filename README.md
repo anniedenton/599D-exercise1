@@ -1,11 +1,6 @@
 # “Like Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
 
 <style>
- /* put lists next to each other */
- .list-next { 
- display: inline-block; 
- float:left;
- }
 
  
 /*
@@ -1529,7 +1524,6 @@ Factors in Computing Systems (2021), pp. 1–24.
     <label for="handle2">Click to toggle Advice Probes and Sources</label>
   </h2>
   <div class="content">
-   <div class = "list-next">
     <p><strong>Example Advice Probes:</strong> 
      <ul>
    <li> Private Account </li>
@@ -1550,8 +1544,6 @@ Factors in Computing Systems (2021), pp. 1–24.
    <li> Use a VPN</li>
    </ul>
    </p>
-   </div>
-   <div class = "list-next">
  
     <p><strong>Sources</strong>
      <ul>
@@ -1584,5 +1576,4 @@ Factors in Computing Systems (2021), pp. 1–24.
      </ul>
     </p>
    </div>
-  </div>
 </section>
