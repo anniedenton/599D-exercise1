@@ -1569,7 +1569,7 @@ Factors in Computing Systems (2021), pp. 1–24.
       <li> https://meanshappy.com/how-to-stay-safe-whenusing-online-dating/</li>
       <li> https://socialcatfish.com/blog/lgbt-dating-apps/</li>
       <li> https://vpnoverview.com/privacy/apps/privacygrindr/</li>
-      <li> [https://www.datingscout.com/tips/staying-s](https://www.datingscout.com/tips/staying-safe-with-online-dating)</li>
+      <li> https://www.datingscout.com/tips/staying-safe-with-online-dating</li>
      </ul>
     </p>
   </div>
