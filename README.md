@@ -1469,8 +1469,7 @@ United States. In 2018 IEEE Symposium on Security and Privacy (SP) (2018), IEEE,
 NEFF, G. Participatory threat modelling: Exploring paths to reconfigure cybersecurity. In Extended Abstracts of the 2021 CHI
 Conference on Human Factors in Computing Systems (2021),
 pp. 1–6. <br>
-[96] STASKO, E. C., AND GELLER, P. A. Reframing sexting as a positive relationship behavior. Drexel University,
-2015. https://www.apa.org/news/press/releases/2015/08/reframing-sexting.pdf. <br>
+[96] STASKO, E. C., AND GELLER, P. A. Reframing sexting as a positive relationship behavior. Drexel University, 2015. https://www.apa.org/news/press/releases/2015/08/reframing-sexting.pdf. <br>
 [97] SULLIVAN, N. A critical introduction to queer theory. NYU
 Press, 2003. <br>
 [98] TAYLOR, P. A survey of LGBT Americans: Attitudes, experiences and values in changing times. Pew Research Center, 2013. <br>
