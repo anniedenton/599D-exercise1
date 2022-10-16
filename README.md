@@ -123,6 +123,10 @@
   <span class="tooltiptext">Tooltip text</span>
 </div>
 
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">I miss John Prine</span>
+</div>
+
 Christine Geeng and Mike Harris, *University of Washington*;
 
 Elissa Redmiles, *Max Planck Institute for Software Systems*;
