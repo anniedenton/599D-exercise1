@@ -142,12 +142,12 @@
      </ul>
 <li> If having trouble thinking of advice: Do you have any behaviors you’ve adopted because of online safety concerns? </li>
      <ul>
-    • Where did you learn to do this? </li>
+    <li> Where did you learn to do this? </li>
      </ul>
 <li> Other prompts: dating, sexting </li>
      <ul>
-    • Security, privacy </li>
-    • Related to queer identity, other identities </li>
+    <li> Security, privacy </li>
+    <li> Related to queer identity, other identities </li>
  </ul>
    
 <li> Have you ever provided advice related to online safety? </li>
@@ -173,16 +173,30 @@
 <li> If there’s free time: what do you think about x advice? From advice coding </li>
    </ol>
     <strong> General </strong>
- 
-Are there any particularly good or bad online safety advice sources you’ve come across? • What made it good/bad?
-How do you define online safety? What does online safety mean to you? • Online privacy? • Online security?
-What concerns do you prioritize the most?
-Is there anything else you would like to share?
+ <ol>
+<li> Are there any particularly good or bad online safety advice sources you’ve come across? </li>
+  <ul>
+   <li> What made it good/bad? </li>
+  </ul>
+<li> How do you define online safety? What does online safety mean to you? </li>
+  <ul>
+   <li> Online privacy? </li>
+   <li> Online security? </li>
+  </ul>
+<li> What concerns do you prioritize the most? </li>
+<li> Is there anything else you would like to share? </li>
+   </ol>
     <strong> Demographics </strong>
-You can say pass if you want to skip any of these questions.
-
-Disability disclosure
-Kind of area you live in: rural/urban/suburban? • How long have you lived there? Other places you’ve lived for a long time?</p>
+You can say pass if you want to skip any of these questions. <br>
+  <ol>
+<li> Disability disclosure </li>
+<li> Kind of area you live in: rural/urban/suburban? </li>
+   <ul>
+   <li> How long have you lived there? Other places you’ve lived for a long time? </li>
+   </ul>
+   </ol>
+ </p>
+   
   </div>
 </section>
        
