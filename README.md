@@ -958,7 +958,7 @@ address this. Our participants did react to threats from
 their immediate social environment, e.g., cyberbullying,
 which Hoffman et al. notes is where fatalism is least
 strong. We discuss the necessity of moving responsibility of safety from vulnerable individuals to powerful
-institutions in [Section 5.2.2](#5.2.2-limitations-of-security-advice-as-personal-responsibility).
+institutions in [Section 5.2.2](#522-limitations-of-security-advice-as-personal-responsibility).
 ## 4.3 Identity
 While most participants mentioned safety concerns related to their sexual orientation or gender, they also
 had overlapping and non-overlapping concerns related
