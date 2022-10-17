@@ -517,12 +517,12 @@ race, disability, and economic and educational status. We report participant dem
 Participants sometimes answered more than one option (e.g., race):
 
 <p float="left">
-  <img src="Race.png" width="40%" />
-  <img src="Education.png" width="40%" /> 
+  <img src="Race.png" width="99%" />
+  <img src="Education.png" width="99%" /> 
  </p>
  <p float="left">
-  <img src="Income.png" width="50%" />
-  <img src="Age.png" width="50%" />
+  <img src="Income.png" width="99%" />
+  <img src="Age.png" width="99%" />
 </p>
 
 <!-- 
