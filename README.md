@@ -507,10 +507,10 @@ race, disability, and economic and educational status. We report participant dem
 Participants sometimes answered more than one option (e.g., race):
 
 <p float="left">
-  <img src="Race.png" width="99%" />
-  <img src="Education.png" width="99%" /> 
-  <img src="Income.png" width="99%" />
-  <img src="Age.png" width="99%" />
+  <img src="Race.png" alt="1 participant was Native American, 1 was Latino, 2 were Asian, 4 were Black, 9 were white." width="99%" />
+  <img src="Education.png" alt="5 participants had a graduate degree, 5 had a bachelor's degree, 2 had an associate's degree, 5 had some college credit and no degree" width="99%" /> 
+  <img src="Income.png" alt="2 participants had a household income of $100,001 or more, 1 had $60,001 to 80,000, 2 had $40,001 to 60,000, 4 had $20,001 to 40,000, 3 had under $20,000" width="99%" />
+  <img src="Age.png" alt="2 participants were 65-74 years old, 2 were 45-54, 3 were 35-44, 4 were 24-34, and 3 were 18-24." width="99%" />
 </p>
 
 <!-- 
