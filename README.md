@@ -516,25 +516,26 @@ compensation and sending the research output (e.g., the
 paper) to participants after publication. Our study was
 approved by the University of Washington IRB.
 ## 3.2 Participants
-We report participant demographics in aggregate for our set of 14 participants for participant anonymity.
+We recruited 14 queer participants diverse across age,
+race, disability, and economic and educational status. We report participant demographics in aggregate for our set of 14 participants for participant anonymity.
 Participants sometimes answered more than one option (e.g., race):
 
-| Race     | Number of participants |
+| Race     | Participants |
 | ----------- | ----------- |
-| White      | 9     |
-| Black  | 4        |
-| Asian  | 2       |
-| Latino  | 1       |
-| Native American  | 1       |
+| White        9 | 9     |
+| Black          4| 4        |
+| Asian              2| 2       |
+| Latino          1| 1       |
+| Native American  1| 1       |
 
-| Highest level of school    | Number of participants |
+| Highest level of school    | Participants |
 | ----------- | ----------- |
 | Some college credit, no degree      | 5   |
 | Associate degree  | 2        |
 | Bachelor’s degree  |5       |
 | Master’s or other graduate degree  | 5      |
 
-| Houshold income   | Number of participants |
+| Houshold income   | Participants |
 | ----------- | ----------- |
 | Under $20,000      | 3   |
 | 20,001–40,000       | 4
@@ -542,7 +543,7 @@ Participants sometimes answered more than one option (e.g., race):
 | 60,001–80,000  | 1       |
 | $100,001 or over  | 2      |
 
-| Age   | Number of participants |
+| Age   | Participants |
 | ----------- | ----------- |
 | 18-24 years old     | 3  |
 | 25-34 years old  | 4        |
@@ -550,11 +551,10 @@ Participants sometimes answered more than one option (e.g., race):
 | 45-54 years old  | 2      |
 | 65-74 years old  | 2      |
 
-We recruited 14 queer participants diverse across age,
-race, disability, and economic and educational status (Table 1). We determined saturation at 14 participants after no new higher-level themes emerged from the data
+We determined saturation at 14 participants after no new higher-level themes emerged from the data
 and at which point we no longer needed to refine themes
 after subsequent interviews. Their self-reported gender
-and sexuality are in Table 2:
+and sexuality are below:
 | Participant | Gender | Orientation |
 | :-----------: | :-----------: | :-------: |
 | 1 |non-binary | bi |
