@@ -657,7 +657,7 @@ for social media
 privacy questions because they have a computer security
 job, even though it is unrelated to social media. Rather
 than purposely turning to a loved one, 
-<div span="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></span> 
+<span class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></span> 
 learned privacy
 advice from her partner incidentally. He brought up in
 casual conversation,
