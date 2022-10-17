@@ -939,7 +939,9 @@ a trans or gay panic defense, where someone can excuse
 assault or murder by blaming the victim’s gender identity
 or sexual orientation for the assailant’s actions [7].
 
-At the same time, P2, who is in her 50s, transitioned
+At the same time, 
+<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>
+, who is in her 50s, transitioned
 and made a lot of life changes in the past couple years,
 and so will “swing for the fences":
 > ...I’m just gonna try to
@@ -1047,7 +1049,8 @@ go viral once which led to some exposure to harassers.
 > of inevitable that some shitty people will see it
 > and want to be shitty at you.
 
-P2 gave up trying to report harassers on Facebook, because:
+<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>
+gave up trying to report harassers on Facebook, because:
 > It seems like people can catch a ban for something, just for calling someone a bigot for example. But if you actually try to report a transphobic comment, they’re > not going to care.
 
 She instead only blocks people on Facebook (whereas
