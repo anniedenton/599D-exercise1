@@ -1261,8 +1261,10 @@ can be recommended generally.
 ### 5.2.2 Limitations of security advice as personal responsibility
 While improving security advice for queer individuals is
 important, advice as a solution for harms is limited because it places an overwhelming responsibility on an individual [74, 95]. Individual behaviors will not always
-work because a) the problems folks face may involve
-other people (e.g., networked privacy [74]), and b) when
+work because <br>
+a) the problems folks face may involve
+other people (e.g., networked privacy [74]) <br>
+b) when
 institutions are the threat, individuals don’t have equal
 resources and power.
 
