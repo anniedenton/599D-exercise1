@@ -648,7 +648,7 @@ casual conversation,
 > continue using it.
 
 On the other hand, 
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual / queer</span></span> 
+<span class="tooltip">P11<span class="tooltiptext">cis male, gay</span></span> 
 for example,
 asked a friend with a shared threat model—rather than
 specific technical expertise—for advice:
@@ -659,7 +659,7 @@ specific technical expertise—for advice:
 #### Queer community
 Other participants specifically asked
 those with whom they shared their queer identity for advice, either because they felt—like 
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+<span class="tooltip">P11<span class="tooltiptext">cis male, gay</span></span> 
 with his female
 friend—that they had a shared identity-based harm or because they had a queer-specific concern. They turned either to their informal queer friend groups or formal queer
 support groups. For example, at a get-together with
@@ -808,7 +808,7 @@ person harassing their lesbian Facebook Group.
 
 <span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
 ,
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span>
+<span class="tooltip">P11<span class="tooltiptext">cis male, gay</span></span>
 , and 
 <span class="tooltip">P13<span class="tooltiptext">transgender, queer</span></span>
 mentioned not knowing what language to use to search for certain safety-related information.
@@ -828,7 +828,7 @@ work [62, 88]), our participants faced additional tradeoffs as well.
 ### 4.2.1 No language for it
 <span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
 and 
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+<span class="tooltip">P11<span class="tooltiptext">cis male, gay</span></span> 
 both stated they did not know how to phrase
 their safety questions to search online, with P8 saying
 that after having someone duplicate their Instagram account to scam others, 
@@ -846,7 +846,7 @@ We note that
 <span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
 is in their 40s and started using the
 Internet in the 90s, 
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+<span class="tooltip">P11<span class="tooltiptext">cis male, gay</span></span> 
 is in his 20s, and 
 <span class="tooltip">P13<span class="tooltiptext">transgender, queer</span></span> 
 is in his 60s.
@@ -985,7 +985,7 @@ Instagram account got duplicated:
 Some participants turned to platforms themselves for
 information on how to manage their privacy or safety.
 But they did not always trust that the platform would prioritize user interests over their own. 
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+<span class="tooltip">P11<span class="tooltiptext">cis male, gay</span></span> 
 stated about
 Reddit,
 
@@ -1164,7 +1164,7 @@ risks moving through the world, as described above.
 stated, “I’m a white person, so I’ve never been afraid of
 being a white person on the Internet.”
 
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span>
+<span class="tooltip">P11<span class="tooltiptext">cis male, gay</span></span>
 was concerned about dating for both his Asian
 friend and himself, due to the risk of being stereotyped
 as submissive and someone aggressive attempting to take
@@ -1195,7 +1195,7 @@ in a gay neighborhood. He stated,
 <span class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></span>
 (who is autistic) also did not like the advice,
 citing previous incidents of police acting violently towards queer and/or autistic individuals. 
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+<span class="tooltip">P11<span class="tooltiptext">cis male, gay</span></span> 
 stated it
 could be useful to someone to give them a sense of security, but he would never call the police on a date. 
 <span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span>
