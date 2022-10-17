@@ -1,10 +1,6 @@
 # “Like Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
 
 <style>
- div
-{
-    display:inline;
-}
 /*
  CSS for the main interaction
 */
@@ -121,9 +117,9 @@
 }
 </style>
 
-<div class="tooltip">Hover over me
+<span class="tooltip">Hover over me
   <span class="tooltiptext">Tooltip text</span>
-</div>
+</span>
 
 <div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div>
 <div class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></div>
