@@ -1,9 +1,9 @@
-# “ike Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
+# “Like Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
 
 <style>
  div
 {
-    display: inline-block;
+    display:inline;
 }
 /*
  CSS for the main interaction
