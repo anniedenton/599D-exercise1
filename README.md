@@ -249,7 +249,7 @@ workers [76], and other vocations or identities face other
 specific threats. Given that our paper is focused on advice for queer folks, not threat models, we leave the full
 spectrum of financial, physical, relational, and emotional
 harms [93] for different threat models largely to other
-work. But we also touch on the importance of these overlapping identities in Section 2.2.
+work.
 ## 2.2 Intersectional Identities
 To understand the complexity of why queer folks adopt
 or reject advice, and their threat models, we use the
