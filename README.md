@@ -842,8 +842,14 @@ said
 he was not aware that safety advice specifically for queer
 folks is something that could be found on the Internet.
 
-We note that P8 is in their 40s and started using the
-Internet in the 90s, P11 is in his 20s, and P13 is in his 60s.
+We note that
+<span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
+is in their 40s and started using the
+Internet in the 90s, 
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+is in his 20s, and 
+<span class="tooltip">P13<span class="tooltiptext">transgender, queer</span></span> 
+is in his 60s.
 Youth and being introduced to the Internet at a young age
 do not necessarily translate to broad Internet expertise
 and skills [57].
