@@ -127,11 +127,7 @@
   <span class="tooltiptext">I miss John Prine</span>
 </div>
 
-Christine Geeng and Mike Harris, *University of Washington*;
-
-Elissa Redmiles, *Max Planck Institute for Software Systems*;
-
-Franziska Roesner, *University of Washington*
+Christine Geeng, Mike Harris, Elissa Redmiles, Franziska Roesner
 
 # Abstract
 Given stigma and threats surrounding being gay or transgender, LGBTQ+ folks often seek support and information on navigating identity and personal (digital and
