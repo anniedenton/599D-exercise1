@@ -646,7 +646,9 @@ our participants turned to friends and family for safety
 advice. Some people like P14 mentioned turning to
 someone in their life who knows tech-related things, in
 her case her son, who works in IT, for a question on Facebook bans. P1’s friends turned to 
-<div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div> 
+<span class="tooltip">P1
+  <span class="tooltiptext">non-binary, bi</span>
+</span> 
 for social media
 privacy questions because they have a computer security
 job, even though it is unrelated to social media. Rather
