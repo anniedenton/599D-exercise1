@@ -1475,54 +1475,44 @@ r/gaysian for their help in recruiting participants. This
 work was supported in part by a gift from Google.
 
 # References
-[1] Block together is shut down. https://blocktogether.
-org/. (Accessed on 10/08/2021). <br>
+[1] Block together is shut down. [https://blocktogether.org/](https://blocktogether.org/). (Accessed on 10/08/2021). <br>
 [2] Catholic school teacher reportedly fired after being outed as
-gay — teen vogue. https://www.teenvogue.com/story/
-catholic-school-teacher-reportedly-fired-afterouted-as-gay. (Accessed on 10/07/2021). <br>
-[3] Cryptoharlem. https://www.cryptoharlem.com/. (Accessed on 09/16/2021). <br>
+gay — teen vogue. [https://www.teenvogue.com/story/catholic-school-teacher-reportedly-fired-afterouted-as-gay](https://www.teenvogue.com/story/catholic-school-teacher-reportedly-fired-afterouted-as-gay). (Accessed on 10/07/2021). <br>
+[3] Cryptoharlem. [https://www.cryptoharlem.com/](https://www.cryptoharlem.com/). (Accessed on 09/16/2021). <br>
 [4] GRINDR HOLISTIC SECURITY GUIDE. Grindr
-4 Equality, https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf. (Accessed on
+4 Equality, [https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf](https://www.grindr.com/g4e/G4EHolisticSecurityGuide-English.pdf). (Accessed on
 02/07/2021). <br>
-[5] Health Disparities Among LGBTQ Youth — Health Disparities — Adolescent and School Health — CDC. https:
-//www.cdc.gov/healthyyouth/disparities/healthdisparities-among-lgbtq-youth.htm. (Accessed on
+[5] Health Disparities Among LGBTQ Youth — Health Disparities — Adolescent and School Health — CDC. [https://www.cdc.gov/healthyyouth/disparities/healthdisparities-among-lgbtq-youth.htm](https://www.cdc.gov/healthyyouth/disparities/healthdisparities-among-lgbtq-youth.htm). (Accessed on
 10/07/2021). <br>
 [6] How to spot extortion scams on LGBTQ+ dating
-apps — FTC Consumer Information. FTC, https:
-//www.consumer.ftc.gov/blog/2021/09/how-spotextortion-scams-lgbtq-dating-apps. (Accessed on
+apps — FTC Consumer Information. FTC, [https://www.consumer.ftc.gov/blog/2021/09/how-spotextortion-scams-lgbtq-dating-apps](https://www.consumer.ftc.gov/blog/2021/09/how-spotextortion-scams-lgbtq-dating-apps). (Accessed on
 09/17/2021). <br>
 [7] Movement Advancement Project — Gay/Trans Panic Defense Bans. https://www.lgbtmap.org/equality-maps/
 panic_defense_bans. (Accessed on 09/30/2021). <br>
 [8] PROTECT YOUR SPACE AND WELL-BEING ON
-INSTAGRAM. The Trevor Project, https://www.
-thetrevorproject.org/wp-content/uploads/2019/
-06/IG-x-Trevor-Project_LGBTQ-Safety-Guide.pdf.
+INSTAGRAM. The Trevor Project, [https://www.thetrevorproject.org/wp-content/uploads/2019/06/IG-x-Trevor-Project_LGBTQ-Safety-Guide.pdf](https://www.thetrevorproject.org/wp-content/uploads/2019/06/IG-x-Trevor-Project_LGBTQ-Safety-Guide.pdf).
 (Accessed on 02/07/2021). <br>
 [9] Serving Our Youth: Findings from a National Survey
 of Service Providers Working with Lesbian, Gay, Bisexual, and Transgender Youth who are Homeless or
 At Risk of Becoming Homeless. Williams Institute,
-https://williamsinstitute.law.ucla.edu/wpcontent/uploads/Serving-Our-Youth-July2012.pdf. (Accessed on 10/07/2021). <br>
+[https://williamsinstitute.law.ucla.edu/wpcontent/uploads/Serving-Our-Youth-July2012.pdf](https://williamsinstitute.law.ucla.edu/wpcontent/uploads/Serving-Our-Youth-July2012.pdf). (Accessed on 10/07/2021). <br>
 [10] Surveillance self-defense — tips, tools and how-tos for safer online communications. Electronic Frontier Foundation, https:
 //ssd.eff.org/. (Accessed on 10/12/2021).<br>
 [11] Words We’re Watching: ’Streisand effect’ — Merriam-Webster.
-https://www.merriam-webster.com/words-at-play/
-words-were-watching-streisand-effect-barbra.
+[https://www.merriam-webster.com/words-at-play/words-were-watching-streisand-effect-barbra](https://www.merriam-webster.com/words-at-play/words-were-watching-streisand-effect-barbra).
 (Accessed on 10/02/2021). <br>
-[12] Writers at Risk - PEN America. https://pen.org/issue/
-writers-at-risk/. (Accessed on 09/16/2021). <br>
+[12] Writers at Risk - PEN America. [https://pen.org/issue/writers-at-risk/](https://pen.org/issue/writers-at-risk/). (Accessed on 09/16/2021). <br>
 [13] Dismantling a Culture of Violence: Understanding AntiTransgender Violence and Ending the Crisis. https:
 //hrc-prod-requests.s3-us-west-2.amazonaws.com/
 files/assets/resources/Dismantling-a-Cultureof-Violence-010721.pdf, Dec 2020. (Accessed on
 10/07/2021). <br>
 [14] Reconfigure: Feminist Action Research in Cybersecurity.
-Oxford Internet Institute, https://www.oii.ox.ac.uk/wpcontent/uploads/2021/01/Reconfigure-Report-v6-
-pages.pdf, Feb 2021. <br>
+Oxford Internet Institute, [https://www.oii.ox.ac.uk/wpcontent/uploads/2021/01/Reconfigure-Report-v6-pages.pdf](https://www.oii.ox.ac.uk/wpcontent/uploads/2021/01/Reconfigure-Report-v6-pages.pdf), Feb 2021. <br>
 [15] AMMARI, T., AND SCHOENEBECK, S. Understanding and supporting fathers and fatherhood on social media sites. In Proceedings of the 33rd annual ACM conference on human factors
 in computing systems (2015), pp. 1905–1914. <br>
 [16] ANDERSON, M., VOGELS, E. A., AND TURNER, E. Online
 Dating: The Virtues and Downsides — Pew Research Center.
-https://www.pewresearch.org/internet/2020/02/
-06/the-virtues-and-downsides-of-online-dating/.
+[https://www.pewresearch.org/internet/2020/02/06/the-virtues-and-downsides-of-online-dating/](https://www.pewresearch.org/internet/2020/02/06/the-virtues-and-downsides-of-online-dating/).
 (Accessed on 10/07/2021). <br>
 [17] ANDREASSEN, R. Social media surveillance, LGBTQ refugees
 and asylum. First Monday (2021). <br>
@@ -1535,8 +1525,7 @@ Internet”: Sex, Work, and Technology. In Proceedings of the
 2021 CHI Conference on Human Factors in Computing Systems
 (New York, NY, USA, 2021), CHI ’21, Association for Computing Machinery. <br>
 [20] BERDAN, K. An evaluation of online security guides
-for journalists. https://cltc.berkeley.edu/wpcontent/uploads/2021/01/Online_Security_Guides_
-for_Journalists.pdf. <br>
+for journalists. [https://cltc.berkeley.edu/wpcontent/uploads/2021/01/Online_Security_Guides_for_Journalists.pdf](https://cltc.berkeley.edu/wpcontent/uploads/2021/01/Online_Security_Guides_for_Journalists.pdf). <br>
 [21] BERNIER, T., SHAH, A., ROSS, L. E., LOGIE, C. H., SETO,
 E., ET AL. The use of information and communication technologies by sex workers to manage occupational health and
 safety: scoping review. Journal of medical internet research
@@ -1675,7 +1664,7 @@ transphobia and criminalization: The experiences of trans sex
 workers in Vancouver, Canada. Qualitative health research 27, 2 (2017), 182–190. <br>
 [73] MAHOWALD, L., GRUBERG, S., AND HALPIN, J. The State
 of the LGBTQ Community in 2020 - Center for American
-Progress. https://www.americanprogress.org/issues/
+Progress. [https://www.americanprogress.org/issues/](https://www.americanprogress.org/issues/)
 lgbtq-rights/reports/2020/10/06/491052/statelgbtq-community-2020/#Ca=10, Oct 2020. <br>
 [74] MARWICK, A., FONTAINE, C., AND BOYD, D. “Nobody sees
 it, nobody gets mad”: Social media, privacy, and personal responsibility among low-SES youth. Social Media+ Society 3, 2
