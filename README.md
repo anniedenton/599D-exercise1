@@ -857,7 +857,7 @@ and skills [57].
 Some of our participants did bring safety knowledge
 from one platform to another, but this tended to be analogous experiences of learning to block users on, for example, MySpace and transferring that knowledge to Facebook (<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>)
 , or knowledge of Telnet and SMTP’s lack of
-encryption to leading to skepticism of contemporary Internet traffic (<span class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></span>).
+encryption to leading to skepticism of contemporary Internet traffic (<span class="tooltip">P10<span class="tooltiptext">male, homosexual, queer</span></span>).
 ### 4.2.2 Solution could not be found online
 There were a few questions participants had that they
 could not find answers to. <span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span> was not sure how a troll’s
@@ -898,7 +898,7 @@ private after a friend had their social media account duplicated. Eventually, he
 , who had their Instagram business account duplicated by a scammer, also did not like the advice to make
 their account private because doing so would harm their
 business. 
-<span class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></span>
+<span class="tooltip">P10<span class="tooltiptext">male, homosexual, queer</span></span>
 mentioned giving advice to a friend who
 is an event promoter, who was trying to deal with unsolicited messages on his promoter social media page.
 While P10 suggested to make a separate personal page,
@@ -1183,7 +1183,7 @@ Race also impacted opinions on advice related to the police. When asked whether
 they found the advice of having a police app (an app
 that will instantly dial the police with the user’s location)
 handy during a date, 
-<span class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></span>
+<span class="tooltip">P10<span class="tooltiptext">male, homosexual, queer</span></span>
 (biracial, Black and white) said
 he would never use it because he’s been racially profiled
 in a gay neighborhood. He stated,
