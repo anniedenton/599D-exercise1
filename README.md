@@ -647,7 +647,7 @@ advice. Some people like P14 mentioned turning to
 someone in their life who knows tech-related things, in
 her case her son, who works in IT, for a question on Facebook bans. P1’s friends turned to 
 <span class="tooltip">P1
-  <span class="tooltiptext">non-binary, bi</span>
+  <span class="tooltiptext">BI, nonbinary</span>
 </span> 
 for social media
 privacy questions because they have a computer security
