@@ -314,7 +314,7 @@ can be very different [97]. Security advice exists specifically for women [24], 
 protesters [103] to name a few examples. The Reconfigure Network organized security community workshops
 and found that contrary to popular cybersecurity narratives that users are uninterested in security, their participants demonstrated care and thoughtfulness in both their own and communal privacy practices, and their practices
 are shaped by privilege and oppression [14]. We follow
-Reconfigure’s epistemological approach ([feminist standpoint theory]([https://iep.utm.edu/fem-stan/])) of looking to users as experts in their own
+Reconfigure’s epistemological approach [feminist standpoint theory](https://iep.utm.edu/fem-stan/) of looking to users as experts in their own
 lives, rather than relying on threat models and advice developed by traditional security experts.
 # 3 Methodology
 To answer our research questions, we conducted semi-structured qualitative interviews with queer individuals
@@ -574,7 +574,7 @@ experiences, not counts of how often a theme occurred,
 and because we double-coded and reached consensus on
 nearly all transcripts [78].
 ## 3.4 Author Positionality
-Our work is undergirded by [feminist standpoint theory]([https://iep.utm.edu/fem-stan/]),
+Our work is undergirded by [feminist standpoint theory](https://iep.utm.edu/fem-stan/),
 which calls for an understanding that social knowledge
 and experiences are situated in a specific context [56, 95].
 Therefore, we emphasize that the narrative of our results
