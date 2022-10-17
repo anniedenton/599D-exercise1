@@ -849,8 +849,8 @@ do not necessarily translate to broad Internet expertise
 and skills [57].
 
 Some of our participants did bring safety knowledge
-from one platform to another, but this tended to be analogous experiences of learning to block users on, for example, MySpace and transferring that knowledge to Facebook (
-<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>), or knowledge of Telnet and SMTP’s lack of
+from one platform to another, but this tended to be analogous experiences of learning to block users on, for example, MySpace and transferring that knowledge to Facebook (<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>)
+, or knowledge of Telnet and SMTP’s lack of
 encryption to leading to skepticism of contemporary Internet traffic (<span class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></span>).
 ### 4.2.2 Solution could not be found online
 There were a few questions participants had that they
