@@ -1,8 +1,6 @@
 # “Like Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
 
 <style>
-
- 
 /*
  CSS for the main interaction
 */
@@ -123,9 +121,21 @@
   <span class="tooltiptext">Tooltip text</span>
 </div>
 
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">I miss John Prine</span>
-</div>
+<div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div>
+<div class="tooltip">P2<span class="tooltiptext">woman of trans expierence, bi</span></div>
+<div class="tooltip">P3<span class="tooltiptext">female, pansexual</span></div>
+<div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div>
+<div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div>
+<div class="tooltip">P6<span class="tooltiptext">trans girl, mostly sapphic</span></div>
+<div class="tooltip">P7<span class="tooltiptext">gender non-conforming, queer</span></div>
+<div class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></div>
+<div class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></div>
+<div class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></div>
+<div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div>
+<div class="tooltip">P12<span class="tooltiptext">cis male, gay</span></div>
+<div class="tooltip">P12<span class="tooltiptext">female, lesbian</span></div>
+<div class="tooltip">P13<span class="tooltiptext">transgender, queer</span></div>
+<div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div>
 
 *Christine Geeng, Mike Harris, Elissa Redmiles, Franziska Roesner*
 
