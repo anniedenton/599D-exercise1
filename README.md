@@ -122,7 +122,7 @@
 </div>
 
 <div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div>
-<div class="tooltip">P2<span class="tooltiptext">woman of trans expierence, bi</span></div>
+<div class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></div>
 <div class="tooltip">P3<span class="tooltiptext">female, pansexual</span></div>
 <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div>
 <div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div>
@@ -645,7 +645,9 @@ Echoing previous work [85, 88],
 our participants turned to friends and family for safety
 advice. Some people like P14 mentioned turning to
 someone in their life who knows tech-related things, in
-her case her son, who works in IT, for a question on Facebook bans. P1’s friends turned to <div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div> for social media
+her case her son, who works in IT, for a question on Facebook bans. P1’s friends turned to 
+<div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div> 
+for social media
 privacy questions because they have a computer security
 job, even though it is unrelated to social media. Rather
 than purposely turning to a loved one, <div class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></div> learned privacy
