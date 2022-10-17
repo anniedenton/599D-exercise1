@@ -643,16 +643,22 @@ they either learned something accidentally or they intentionally looked for advi
 #### Friends and family.
 Echoing previous work [85, 88],
 our participants turned to friends and family for safety
-advice. Some people like P14 mentioned turning to
+advice. Some people like 
+<span class="tooltip">P14
+  <span class="tooltiptext">female, lesbian</span>
+</span>
+mentioned turning to
 someone in their life who knows tech-related things, in
 her case her son, who works in IT, for a question on Facebook bans. P1’s friends turned to 
 <span class="tooltip">P1
-  <span class="tooltiptext">BI, nonbinary</span>
+  <span class="tooltiptext">non-binary, bi</span>
 </span> 
 for social media
 privacy questions because they have a computer security
 job, even though it is unrelated to social media. Rather
-than purposely turning to a loved one, <div class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></div> learned privacy
+than purposely turning to a loved one, 
+<div span="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></span> 
+learned privacy
 advice from her partner incidentally. He brought up in
 casual conversation,
 
@@ -661,7 +667,9 @@ casual conversation,
 > But it is a very fun dumb app, so I am going to
 > continue using it.
 
-On the other hand, <div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div> for example,
+On the other hand, 
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+for example,
 asked a friend with a shared threat model—rather than
 specific technical expertise—for advice:
 
@@ -670,19 +678,27 @@ specific technical expertise—for advice:
 
 #### Queer community
 Other participants specifically asked
-those with whom they shared their queer identity for advice, either because they felt—like <div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div> with his female
+those with whom they shared their queer identity for advice, either because they felt—like 
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+with his female
 friend—that they had a shared identity-based harm or because they had a queer-specific concern. They turned either to their informal queer friend groups or formal queer
 support groups. For example, at a get-together with
-queer friends, <div class="tooltip">P13<span class="tooltiptext">transgender, queer</span></div> gave advice to a friend who wanted
+queer friends, 
+<span class="tooltip">P13<span class="tooltiptext">transgender, queer</span></span> 
+gave advice to a friend who wanted
 to put their “full authentic self” online. Other attendees
 at the get-together also shared their differing opinions
 on whether to be more private or public online, creating
 what P13 described as “kind of a round [table] barbecue.”
 
-When <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div> found a coworker on Grindr
+When 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span> 
+found a coworker on Grindr
 and realized they were accidentally outed to each other,
 and became concerned his workplace would find out, he
-turned to his trans men support group to hear their experiences and advice on what to do next. As <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div> puts it, 
+turned to his trans men support group to hear their experiences and advice on what to do next. As 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span> 
+puts it, 
 > “It wasn’t like we had a leader, but we all just sort of compared notes about what we were doing.” 
 
 Having a group
@@ -690,11 +706,16 @@ of people to talk to let participants hear about different
 experiences so they could make an informed decision on
 what to do next.
 
-For <div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div> and <div class="tooltip">P12<span class="tooltiptext">female, lesbian</span></div>, their Facebook lesbian or LGBTQ+
+For 
+<span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span>
+and 
+<span class="tooltip">P12<span class="tooltiptext">female, lesbian</span></span>
+, their Facebook lesbian or LGBTQ+
 support groups experienced harassment themselves, and
 they would turn to in-group members for help.
 
-<div class="tooltip">P6<span class="tooltiptext">trans girl, mostly sapphic</span></div> incidentally came across privacy advice from her
+<span class="tooltip">P6<span class="tooltiptext">trans girl, mostly sapphic</span></span>
+incidentally came across privacy advice from her
 queer community, rather than purposely seeking out advice. P6 frequents Twitter and follows other trans and
 autistic people, some who are very security and privacy
 conscious. She learned about how to change what gender
