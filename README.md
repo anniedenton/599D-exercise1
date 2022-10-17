@@ -520,6 +520,14 @@ We recruited 14 queer participants diverse across age,
 race, disability, and economic and educational status. We report participant demographics in aggregate for our set of 14 participants for participant anonymity.
 Participants sometimes answered more than one option (e.g., race):
 
+<p float="left">
+  <img src="/Race.png" width="100" />
+  <img src="/Education.png" width="100" /> 
+  <img src="/Income.png" width="100" />
+  <img src="/Age.png" width="100" />
+</p>
+
+<!-- 
 | Race     | Participants |
 | ----------- | ----------- |
 | White        9 | 9     |
@@ -549,7 +557,7 @@ Participants sometimes answered more than one option (e.g., race):
 | 25-34 years old  | 4        |
 | 35-44 years old  | 3      |
 | 45-54 years old  | 2      |
-| 65-74 years old  | 2      |
+| 65-74 years old  | 2      | -->
 
 We determined saturation at 14 participants after no new higher-level themes emerged from the data
 and at which point we no longer needed to refine themes
