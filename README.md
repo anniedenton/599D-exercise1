@@ -1664,8 +1664,7 @@ transphobia and criminalization: The experiences of trans sex
 workers in Vancouver, Canada. Qualitative health research 27, 2 (2017), 182–190. <br>
 [73] MAHOWALD, L., GRUBERG, S., AND HALPIN, J. The State
 of the LGBTQ Community in 2020 - Center for American
-Progress. [https://www.americanprogress.org/issues/](https://www.americanprogress.org/issues/)
-lgbtq-rights/reports/2020/10/06/491052/statelgbtq-community-2020/#Ca=10, Oct 2020. <br>
+Progress. [https://www.americanprogress.org/issues/lgbtq-rights/reports/2020/10/06/491052/statelgbtq-community-2020/#Ca=10](https://www.americanprogress.org/issues/lgbtq-rights/reports/2020/10/06/491052/statelgbtq-community-2020/#Ca=10), Oct 2020. <br>
 [74] MARWICK, A., FONTAINE, C., AND BOYD, D. “Nobody sees
 it, nobody gets mad”: Social media, privacy, and personal responsibility among low-SES youth. Social Media+ Society 3, 2
 (2017), 2056305117710455. <br>
