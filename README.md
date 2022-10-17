@@ -132,7 +132,6 @@
 <div class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></div>
 <div class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></div>
 <div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div>
-<div class="tooltip">P12<span class="tooltiptext">cis male, gay</span></div>
 <div class="tooltip">P12<span class="tooltiptext">female, lesbian</span></div>
 <div class="tooltip">P13<span class="tooltiptext">transgender, queer</span></div>
 <div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div>
@@ -725,7 +724,8 @@ it on her Twitter feed.
 Getting advice sometimes came with emotional support,
 which was more common when people sought advice
 from their trusted community. And it may be especially
-important right after a harmful event. For example, <div class="tooltip">P12<span class="tooltiptext">cis male, gay</span></div>
+important right after a harmful event. For example, 
+<span class="tooltip">P12<span class="tooltiptext">female, lesbian</span></span>
 turned to her queer cousin after getting cyberbullied for
 posting LGBTQ+ related topics on social media. She described reaching out to her queer cousin as,
 > really beneficial. Yeah, I took [the advice] into
@@ -733,13 +733,16 @@ posting LGBTQ+ related topics on social media. She described reaching out to her
 > really cared about me and that really accepted
 > me for who I was.
 
-<div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div> also took physical privacy advice from his queer
+<div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div> 
+also took physical privacy advice from his queer
 community on Tumblr, which previously helped him
 process and validate his coming out experience with his
 family. Emotional support helped build trust and gave
 P14 a place to turn to for future concerns.
 
-When <div class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></div> provided advice to an older woman who was
+When 
+<span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
+provided advice to an older woman who was
 worried about sharing a Zoom link publicly, they also
 worked to calm her fears. P8 said,
 > I got this whole Boomer crew that are like,
@@ -758,7 +761,9 @@ for these participants. P8 stressed the comforting aspect:
 > are.
 
 ### 4.1.2 Learned through vocation or school
-For P7, online security was often discussed not just in
+For 
+<span class="tooltip">P7<span class="tooltiptext">gender non-conforming, queer</span></span>
+, online security was often discussed not just in
 her home, but also at school or work:
 
 > We literally have to watch like these presentations every year on ’this is why you need to
@@ -770,21 +775,26 @@ Redmiles et al. also noted the workplace as a source
 of digital security advice “in the form of newsletters, IT
 emails, or required trainings” [88].
 
-<div class="tooltip">P7<span class="tooltiptext">gender non-conforming, queer</span></div> learned to change their passwords at least once a
+<span class="tooltip">P7<span class="tooltiptext">gender non-conforming, queer</span></span> 
+learned to change their passwords at least once a
 year, something they continue to do today, from their
 high school media technology class. They received a
 hard drive to save their art and was told to “put your
 personal password on there to protect it because it’s no
 one else’s fault if any of your stuff gets erased.” This
 notion of personal responsibility and concern over art
-theft, which happened to their friends and almost happened to them, cemented this security behavior. <div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div>, a
+theft, which happened to their friends and almost happened to them, cemented this security behavior. 
+<span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span>
+, a
 former teacher, taught her students about how sharing on
 social media isn’t always private: “
 > If you wouldn’t want
 > a potential employer to see it in 10 years, you shouldn’t
 > be writing it now.” 
 
-And <div class="tooltip">P6<span class="tooltiptext">trans girl, mostly sapphic</span></div> learned about cat-fishing
+And 
+<span class="tooltip">P6<span class="tooltiptext">trans girl, mostly sapphic</span></span> 
+learned about cat-fishing
 (someone being deceptive in their online dating profile)
 through a film at her autistic education program.
 ### 4.1.3 Searching the web or platform settings
@@ -792,22 +802,35 @@ For questions about specific settings, actions, or programs, where the participa
 what they were looking for, some participants turned to
 an Internet search engine.
 
-For example, <div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div> did extensive research on what VPN
+For example, 
+<span class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></span> 
+did extensive research on what VPN
 to use based on their requirement that it not sell their data
 to third parties. And for advice on dating security and
-privacy for young women, <div class="tooltip">P3<span class="tooltiptext">female, pansexual</span></div> turned to a YouTube channel run by someone who was previously in an abusive
+privacy for young women, 
+<span class="tooltip">P3<span class="tooltiptext">female, pansexual</span></span>
+turned to a YouTube channel run by someone who was previously in an abusive
 relationship.
 
-<div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div> was looking for how to change a specific Facebook
+<span class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></span>
+was looking for how to change a specific Facebook
 setting, but only found outdated information that did not
-apply to their Android phone. <div class="tooltip">P12<span class="tooltiptext">cis male, gay</span></div> looked up how to
-block someone on Facebook, and someone directed <div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div>
+apply to their Android phone. 
+<span class="tooltip">P12<span class="tooltiptext">cis male, gay</span></span>
+looked up how to
+block someone on Facebook, and someone directed 
+<span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span>
 to search Facebook’s website for how to block someone,
 but P14 did not find the site information as helpful as
 instructions from her friend, who had to block the same
 person harassing their lesbian Facebook Group.
 
-<div class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></div>, <div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div>, and <div class="tooltip">P13<span class="tooltiptext">transgender, queer</span></div> mentioned not knowing what language to use to search for certain safety-related information.
+<span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
+,
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span>
+, and 
+<span class="tooltip">P13<span class="tooltiptext">transgender, queer</span></span>
+mentioned not knowing what language to use to search for certain safety-related information.
 ## 4.2 Barriers to Finding and Following Advice
 We detail difficulties participants encountered to finding security, safety, and privacy information:
 * No language for it
@@ -822,14 +845,19 @@ While inconvenience was sometimes cited
 as the reason that advice did not work (as in prior
 work [62, 88]), our participants faced additional tradeoffs as well.
 ### 4.2.1 No language for it
-<div class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></div> and <div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div> both stated they did not know how to phrase
+<span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
+and 
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+both stated they did not know how to phrase
 their safety questions to search online, with P8 saying
 that after having someone duplicate their Instagram account to scam others, 
 > “I wouldn’t know how to even begin formulating the questions. I’m not even sure what my
 > question would be.” 
 
 During the interview, they said they
-might search “How do I protect myself?” And <div class="tooltip">P13<span class="tooltiptext">transgender, queer</span></div> said
+might search “How do I protect myself?” And 
+<span class="tooltip">P13<span class="tooltiptext">transgender, queer</span></span> 
+said
 he was not aware that safety advice specifically for queer
 folks is something that could be found on the Internet.
 
@@ -840,17 +868,22 @@ do not necessarily translate to broad Internet expertise
 and skills [57].
 
 Some of our participants did bring safety knowledge
-from one platform to another, but this tended to be analogous experiences of learning to block users on, for example, MySpace and transferring that knowledge to Facebook (<div class="tooltip">P2<span class="tooltiptext">woman of trans expierence, bi</span></div>), or knowledge of Telnet and SMTP’s lack of
-encryption to leading to skepticism of contemporary Internet traffic (<div class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></div>).
+from one platform to another, but this tended to be analogous experiences of learning to block users on, for example, MySpace and transferring that knowledge to Facebook (
+<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>), or knowledge of Telnet and SMTP’s lack of
+encryption to leading to skepticism of contemporary Internet traffic (<span class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></span>).
 ### 4.2.2 Solution could not be found online
 There were a few questions participants had that they
-could not find answers to. <div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div> was not sure how a troll’s
+could not find answers to. <span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span> was not sure how a troll’s
 account was still able to harass her on Facebook after she
-blocked the account. <div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div> could not find any authoritative
+blocked the account. 
+<span class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></span>
+could not find any authoritative
 source on whether “don’t let children talk to adults on
 the Internet” is reasonable advice (P5 disagreed with this
 advice because they thought then only predators would
-talk with children online). <div class="tooltip">P3<span class="tooltiptext">female, pansexual</span></div> tried to learn how to block
+talk with children online). 
+<span class="tooltip">P3<span class="tooltiptext">female, pansexual</span></span> 
+tried to learn how to block
 plastic-surgery related tags which triggered her anxiety
 on TikTok, but found the app does not have that functionality. And finally, <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div> could not find a way to force
 people to untag his pre-transition photos.
@@ -861,7 +894,9 @@ goals and/or other parts of their identities: for example,
 participants who also relied on social media for work and
 income.
 
-For example, <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div>, a writer, made his Facebook account
+For example, 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span>
+, a writer, made his Facebook account
 private after a friend had their social media account duplicated. Eventually, he made his account public again:
 > [A friend would say] ’It’s such a great post, I
 > want to share it,’ and I’m a writer, and so I’d
@@ -870,9 +905,12 @@ private after a friend had their social media account duplicated. Eventually, he
 > not that I’m trying to get exposure on my personal profiles, but I’d like to get my name out
 > there and that was counter-intuitive.
 
-<div class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></div>, who had their Instagram business account duplicated by a scammer, also did not like the advice to make
+<span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
+, who had their Instagram business account duplicated by a scammer, also did not like the advice to make
 their account private because doing so would harm their
-business. <div class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></div> mentioned giving advice to a friend who
+business. 
+<span class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></span>
+mentioned giving advice to a friend who
 is an event promoter, who was trying to deal with unsolicited messages on his promoter social media page.
 While P10 suggested to make a separate personal page,
 his friend did not take this advice, which P10 mused
@@ -893,17 +931,21 @@ well as in decision-making in general [30]. Participants
 who were concerned about harassment on social media
 or threats from online dating considered the trade-off of
 using more cautious safety behaviors versus missing potential connection with others.
-
-<div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div>, although she had experienced trolls harassing her
+<span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span>
+, although she had experienced trolls harassing her
 on Facebook, did not like the idea of making her account
 private because having a public account allowed her to
 meet new people: 
 > “It was good to be open to new people in a safe way.”
 
 Other participants also considered romantic and sexual
-connections in their decisions. <div class="tooltip">P3<span class="tooltiptext">female, pansexual</span></div> stated that while she
+connections in their decisions. 
+<span class="tooltip">P3<span class="tooltiptext">female, pansexual</span></span> 
+stated that while she
 found “don’t show your face in sexts” to be reasonable
-advice, she did not follow it for “vanity reasons”. <div class="tooltip">P2<span class="tooltiptext">woman of trans expierence, bi</span></div> is concerned about being vulnerable to
+advice, she did not follow it for “vanity reasons”. 
+<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>
+is concerned about being vulnerable to
 a trans or gay panic defense, where someone can excuse
 assault or murder by blaming the victim’s gender identity
 or sexual orientation for the assailant’s actions [7].
@@ -935,20 +977,25 @@ source or did not trust the advice they saw there. Reasons included that they di
 (echoing [88]), or they didn’t trust the source given how
 the source’s interests differed from their users.
 
-For example, <div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div>, when looking for a VPN that did not
+For example, 
+<span class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></span>
+, when looking for a VPN that did not
 sell data to third-parties, searched the web for guides that
 were not trying to market VPNs to them. They ended
 up relying on a guide created by what they considered a
 reputable source, like Wired or Technology Review.
 
-<div class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></div> expressed a similar sentiment when explaining why
+<span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
+expressed a similar sentiment when explaining why
 they did not search the Internet for what to do after their
 Instagram account got duplicated: 
 > “I think I’m also fearful that I’d be sold something. I have that experience, and I didn’t buy anything and nothing bad happened.”
 
 Some participants turned to platforms themselves for
 information on how to manage their privacy or safety.
-But they did not always trust that the platform would prioritize user interests over their own. <div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div> stated about
+But they did not always trust that the platform would prioritize user interests over their own. 
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+stated about
 Reddit,
 
 > ...there’s some mistrust that I have with some of these platforms where I’m like...do they actually want anonymity? Or do they actually
@@ -958,17 +1005,23 @@ Reddit,
 
 ### 4.2.6 Advice becoming out-of-date
 Some participants had difficulty using the Internet to find
-up-to-date security information. <div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div> tried to find how to
+up-to-date security information. 
+<span class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></span>
+tried to find how to
 change a Facebook privacy setting, but could not find
 updated advice that worked for their new version of Android OS. When searching for how to make his Facebook
-more secure, <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div> found it helpful that the guide he found
+more secure, 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span>
+found it helpful that the guide he found
 had additional user comments
 > saying like this is outdated. They don’t do
 > this anymore. Or, that’s not how that technology works, like almost fact checking the people and saying, you know, this little thing you
 > said was inaccurate or...yes thank you so much,
 > you’ve helped me.
 
-As <div class="tooltip">P3<span class="tooltiptext">female, pansexual</span></div> and Reeder et al. noted, technology constantly
+As 
+<span class="tooltip">P3<span class="tooltiptext">female, pansexual</span></span>
+and Reeder et al. noted, technology constantly
 changes, so solutions and threats can also change [90].
 ### 4.2.7 Sense of futility in adopting behaviors
 Finally, a general barrier we observed to adopting advice
@@ -978,13 +1031,19 @@ about.
 
 For example, after their friend got doxxed, <div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div> (both
 of them activists) searched for privacy-enhancing behaviors, while their friend thought, “Well, it’s all out there
-now. There’s not much I can do”. <div class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></div> was also concerned
+now. There’s not much I can do”. 
+<span class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></span>
+was also concerned
 about having worse backlash if she tries to take action,
 like asking a site to take down her personally identifiable information, citing the “Streisand effect”: “the phenomenon whereby the attempt to suppress something
 only brings more attention or notoriety to it.” [11]. This
 discouraged her from looking for recourse.
 
-Referencing their identities, <div class="tooltip">P2<span class="tooltiptext">woman of trans expierence, bi</span></div> and <div class="tooltip">P6<span class="tooltiptext">trans girl, mostly sapphic</span></div> both expressed
+Referencing their identities, 
+<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>
+and 
+<span class="tooltip">P6<span class="tooltiptext">trans girl, mostly sapphic</span></span> 
+both expressed
 an acceptance that their engaging in social media or online dating is always going to come with some threat of
 transphobic people, even with their mitigating behaviors.
 P6, who never uses the word TERF (trans-exclusionary
@@ -1002,7 +1061,9 @@ P2 gave up trying to report harassers on Facebook, because:
 
 She instead only blocks people on Facebook (whereas
 on Twitter she will both block people and report people
-for transphobia). Similarly, <div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div> distrusted Facebook for
+for transphobia). Similarly, 
+<span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span>
+distrusted Facebook for
 banning her for using a term for underwear, but not banning a poster for homophobic content. This compounded
 with her distrust when she had blocked a homophobic
 harasser, but the harasser came back. She blamed Facebook for blocking not working (whether harasser made a
@@ -1035,7 +1096,9 @@ changes one’s gender presentation to match one’s internal sense of identity.
 can lead to both stress and support [52], and can result in
 shifting threat models and security needs.
 
-For <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div>, who didn’t want to publicly transition on Facebook during early 2010s, the process led him to search
+For 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span>
+, who didn’t want to publicly transition on Facebook during early 2010s, the process led him to search
 how to force people to untag him from old pre-transition
 photos.
 > There was either no information or there was
@@ -1048,13 +1111,16 @@ photos.
 This reflects prior work indicating that transitioning
 users either try to remove old photos or change visibility of those photos on Facebook [53].
 
-<div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div> also experienced this difficulty of trying to get
+<span class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></span>
+also experienced this difficulty of trying to get
 others to untag their old photos. For <div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div>,
 transitioning and getting top surgery led to them getting
 less unsolicited messages, as they no longer presented or
 were perceived as femme.
 ### Parental Responsibility. 
-After <div class="tooltip">P2<span class="tooltiptext">woman of trans expierence, bi</span></div> transitioned, she took
+After 
+<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>
+transitioned, she took
 certain actions to protect her son from transphobic harm,
 reflecting other queer parents considering their children’s
 privacy [23]. She doesn’t bring up her son’s name online
@@ -1071,11 +1137,13 @@ because:
 > hurt because of me.
 
 ### Age. 
-<div class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></div> (45-54) also discussed getting unsolicited sexual messages and accepting that risk as part
+<span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span>
+(45-54) also discussed getting unsolicited sexual messages and accepting that risk as part
 of navigating the world while feminine-presenting. She
 added though, “the older I get the more invisible I am.”
 
-For <div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div> (65-74), aging was an accumulation of stressful discrimination, because of her mobility impairment,
+For <span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span>
+(65-74), aging was an accumulation of stressful discrimination, because of her mobility impairment,
 religion, and sexuality. She did not want to take the time
 to learn how to make her church’s page private after receiving homophobic harassment because, 
 > “When you get
@@ -1087,17 +1155,21 @@ to learn how to make her church’s page private after receiving homophobic hara
 Women are more likely to receive online sexual
 harassment and stalking than men [100]. We previously
 detailed how some of our participants, when interpreted
-as femme, received unsolicited messages. And <div class="tooltip">P3<span class="tooltiptext">female, pansexual</span></div>, a cis
+as femme, received unsolicited messages. And 
+<span class="tooltip">P3<span class="tooltiptext">female, pansexual</span></span>
+, a cis
 woman, stated she found it harder to find dating safety
 advice for queer women than for gay men. Future research should study the quantity and quality of advice
 that is available to queer sub-communities.
 ### Race. 
 Race also affected how people felt about their
-risks moving through the world, as described above. <div class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></div>
+risks moving through the world, as described above. 
+<span class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></span>
 stated, “I’m a white person, so I’ve never been afraid of
 being a white person on the Internet.”
 
-<div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div> was concerned about dating for both his Asian
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span>
+was concerned about dating for both his Asian
 friend and himself, due to the risk of being stereotyped
 as submissive and someone aggressive attempting to take
 advantage of them.
@@ -1114,7 +1186,9 @@ affect how he perceives online dating advice:
 Race also impacted opinions on advice related to the police. When asked whether
 they found the advice of having a police app (an app
 that will instantly dial the police with the user’s location)
-handy during a date, <div class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></div> (biracial, Black and white) said
+handy during a date, 
+<span class="tooltip">P10<span class="tooltiptext">non-binary, queer</span></span>
+(biracial, Black and white) said
 he would never use it because he’s been racially profiled
 in a gay neighborhood. He stated,
 > “The police start questioning me about where
@@ -1122,11 +1196,18 @@ in a gay neighborhood. He stated,
 > [gay neighborhood], that’s supposed to be my
 > community.”
 
-<div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div> (who is autistic) also did not like the advice,
-citing previous incidents of police acting violently towards queer and/or autistic individuals. <div class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></div> stated it
-could be useful to someone to give them a sense of security, but he would never call the police on a date. <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div> didn’t trust the police to show up and doing anything, because they ignored his friend getting beat up by
+<span class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></span>
+(who is autistic) also did not like the advice,
+citing previous incidents of police acting violently towards queer and/or autistic individuals. 
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+stated it
+could be useful to someone to give them a sense of security, but he would never call the police on a date. 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span>
+didn’t trust the police to show up and doing anything, because they ignored his friend getting beat up by
 a hook-up since the friend and hook-up were both men.
-He said he trusts friends more, similar to <div class="tooltip">P2<span class="tooltiptext">woman of trans expierence, bi</span></div. Different
+He said he trusts friends more, similar to 
+<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>
+. Different
 aspects of their identities affected participant’s relationship with the state and with the utility of the police app
 advice.
 ### Harms within queer communities. 
@@ -1138,7 +1219,9 @@ that transgender folks can experience harm online from
 both outsiders and insiders of a queer community [92].
 Examples of peer-to-peer harms included invalidating
 a specific identity (e.g., bisexuality [104] or non-binary)
-within a queer space. <div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div> mentioned that one time they
+within a queer space. 
+<span class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></span>
+mentioned that one time they
 disagreed in a Twitter thread about how to use pronouns.
 > I got shouted down by another queer person....I
 > try to stay away from people who are yelling at
@@ -1171,11 +1254,16 @@ factors change over time, so efforts to create fully consistent advice may find 
 #### Provide explanations. 
 To achieve specificity, documents should explain the reasoning behind advice, mirroring how in-person questions allow follow-up questions, for example. Providing reasoning can, however,
 conflict with another prior recommendation for the creation of security advice: concision. Our results suggest
-that concise advice may also not be ideal. <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div> and <div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div>
+that concise advice may also not be ideal. 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span>
+and 
+<span class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></span>
 both mentioned researching articles to find the advice
 they were looking for, and the detailed explanations of
 how technology could be used increased their trust in the
-article. And <div class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></div>, when prompted with the advice “Use
+article. And 
+<span class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></span>
+, when prompted with the advice “Use
 a private account,” asked for an explanation of why one
 should do that before she could say it was good advice or
 not. As Berdan writes about security advice for journalists, “good advice is rarely a punchy soundbite” [20].
@@ -1194,10 +1282,14 @@ which is necessary for clients facing intimate partner violence [102]. In commun
 of their lives is an important part of the security teaching/learning process [14]. While our work cannot discern
 whether or not participants were more likely to accept
 advice when it came with emotional support, several of
-our participants did seek it out, and <div class="tooltip">P12<span class="tooltiptext">female, lesbian</span></div> spoke positively
+our participants did seek it out, and 
+<span class="tooltip">P12<span class="tooltiptext">female, lesbian</span></span> 
+spoke positively
 when the friend she turned to after a cyber-bullying incident provided it.
 
-Further, <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div> discussed how his trans men support group
+Further, 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span>
+discussed how his trans men support group
 would “compare notes about what we were doing” when
 providing advice. He was looking for information on
 whether to delete his old account prior to his transition or
@@ -1274,7 +1366,8 @@ in different contexts, one axis of oppression might be
 more relevant than others, and threat modeling for someone should explore these priorities. We argue that differences are just as important to study and design for as generalities, since there is no universal technology user [35].
 
 These intersectional identities also affected what advice would work or participants could afford to adopt:
-<div class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></div> was not able to make their business Instagram profile private after being harassed due to potential loss of
+<span class="tooltip">P8<span class="tooltiptext">non-binary, queer</span></span> 
+was not able to make their business Instagram profile private after being harassed due to potential loss of
 customers, and multiple participants did not trust reporting homophobic and transphobic posts to Facebook because they have seen such posts remain up. The power
 difference between the individual and adversary affects
 one’s sense of agency in controlling one’s safety. Making power imbalances explicit in threat modeling is important to understanding what mitigations an individual
@@ -1284,7 +1377,9 @@ While this framework surfaces how the queer experience is not a monolith, it als
 online platforms design group-level blocking functionality, as people of the queer Hijra identity from Bangladesh
 are “significantly influenced by their group dynamics and
 largely dependent on the sharing of information within
-communities” [81]. <div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div> had difficulty learning to block
+communities” [81]. 
+<span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span>
+had difficulty learning to block
 a harasser in her elder lesbian Facebook group, and could
 benefit from this affordance. Reichel also notes that
 low-income South African mobile users rely on blocking rather than Facebook settings for privacy protection [91]. Future work could explore when similar effects of marginalization across different groups can lead
@@ -1302,7 +1397,9 @@ institutions are the threat, individuals don’t have equal
 resources and power.
 
 Prior research notes that managing security and privacy can be a communal goal [81, 60, 107], and that because privacy is networked, one person’s disclosure decisions inevitably affect their entire social circle [75, 74].
-And as mentioned earlier, some of <div class="tooltip">P2<span class="tooltiptext">woman of trans expierence, bi</span></div>’s privacy behaviors
+And as mentioned earlier, some of 
+<span class="tooltip">P2<span class="tooltiptext">woman of trans experience, bi</span></span>
+’s privacy behaviors
 around her being transgender is to protect her son. Advice can be formulated with a community in mind, such
 as Pen America’s online harassment guide for witnesses
 and allies [12].
