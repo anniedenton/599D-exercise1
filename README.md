@@ -733,7 +733,7 @@ posting LGBTQ+ related topics on social media. She described reaching out to her
 > really cared about me and that really accepted
 > me for who I was.
 
-<div class="tooltip">P14<span class="tooltiptext">female, lesbian</span></div> 
+<span class="tooltip">P14<span class="tooltiptext">female, lesbian</span></span> 
 also took physical privacy advice from his queer
 community on Tumblr, which previously helped him
 process and validate his coming out experience with his
