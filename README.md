@@ -744,7 +744,7 @@ but P14 did not find the site information as helpful as
 instructions from her friend, who had to block the same
 person harassing their lesbian Facebook Group.
 
-P8, P11, and P13 mentioned not knowing what language to use to search for certain safety-related information, which will be discussed more below in Section 4.2.1.
+P8, P11, and P13 mentioned not knowing what language to use to search for certain safety-related information.
 ## 4.2 Barriers to Finding and Following Advice
 We detail difficulties participants encountered to finding security, safety, and privacy information:
 * No language for it
