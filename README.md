@@ -885,7 +885,9 @@ talk with children online).
 <span class="tooltip">P3<span class="tooltiptext">female, pansexual</span></span> 
 tried to learn how to block
 plastic-surgery related tags which triggered her anxiety
-on TikTok, but found the app does not have that functionality. And finally, <div class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></div> could not find a way to force
+on TikTok, but found the app does not have that functionality. And finally, 
+<span class="tooltip">P4<span class="tooltiptext">transgender man, gay</span></span>
+could not find a way to force
 people to untag his pre-transition photos.
 ### 4.2.3 Advice would interfere with material livelihood
 As we discuss more below, people’s identities are multifaceted. As a result, identity-specific advice to be more
@@ -1029,7 +1031,9 @@ was a sense of futility, that any actions a person might
 take would not address the issue they were concerned
 about.
 
-For example, after their friend got doxxed, <div class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></div> (both
+For example, after their friend got doxxed, 
+<span class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></span>
+(both
 of them activists) searched for privacy-enhancing behaviors, while their friend thought, “Well, it’s all out there
 now. There’s not much I can do”. 
 <span class="tooltip">P9<span class="tooltiptext">cis woman, queer/bisexual</span></span>
@@ -1113,7 +1117,9 @@ users either try to remove old photos or change visibility of those photos on Fa
 
 <span class="tooltip">P1<span class="tooltiptext">non-binary, bi</span></span>
 also experienced this difficulty of trying to get
-others to untag their old photos. For <div class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></div>,
+others to untag their old photos. For 
+<span class="tooltip">P5<span class="tooltiptext">non-binary, demisexual</span></span>
+,
 transitioning and getting top surgery led to them getting
 less unsolicited messages, as they no longer presented or
 were perceived as femme.
