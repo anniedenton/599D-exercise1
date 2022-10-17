@@ -555,7 +555,8 @@ We determined saturation at 14 participants after no new higher-level themes eme
 and at which point we no longer needed to refine themes
 after subsequent interviews. Their self-reported gender
 and sexuality are below:
-<center>
+
+<div align="center">
 | Participant | Gender | Orientation |
 | :-----------: | :-----------: | :-------: |
 | 1 |non-binary | bi |
@@ -572,7 +573,8 @@ and sexuality are below:
 | 12 | female | lesbian |
 | 13 | transgender | queer |
 | 14 |female | lesbian |
-</center>
+</div>
+
 Participants were recruited
 through flyers around a major city in the U.S., as well
 as through postings in queer listservs and other online
