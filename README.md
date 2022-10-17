@@ -648,7 +648,7 @@ casual conversation,
 > continue using it.
 
 On the other hand, 
-<span class="tooltip">P11<span class="tooltiptext">male, homosexual/queer</span></span> 
+<span class="tooltip">P11<span class="tooltiptext">male, homosexual / queer</span></span> 
 for example,
 asked a friend with a shared threat model—rather than
 specific technical expertise—for advice:
