@@ -2,7 +2,7 @@
 
 <style>
 /*
- CSS for the main interaction
+ Collapsible source: https://codepen.io/markcaron/pen/RVvmaz
 */
 .accordion > input[type="checkbox"] {
   position: absolute;
@@ -134,6 +134,34 @@ general security and safety advice focus on specificity—
 why and how—over consistency, because advice cannot
 be one-size-fits-all. We also discuss the value of intersectionality as a framework for understanding vulnerability to harms in security research, since our participants’ overlapping identities affected their threat models
 and advice perception.
+
+<section class="accordion">
+  <input type="checkbox" name="collapse2" id="handle3">
+  <h2 class="handle">
+    <label for="handle3">If you're a provider or source of security advice, click here for key takeaways</label>
+  </h2>
+  <div class="content">
+    <p><strong>Reported challenginges in finding useful advice</strong> 
+     <ul>
+     <li>Distrust in advice source</li>
+    <li>Advice becoming out-of-date as technology changes</li>
+    <li>Sense of futility in adopting behaviors</li>
+    <li>Solution couldnʼt be found online/doesnʼt exist</li>
+    <li>No language for it</li> 
+    <li>Advice would interfere with relationships</li>
+    <li>Advice would interfere with income</li>
+   </ul>
+   </p>
+    <p><strong>Participants' other identities also affected how they navigate safety.</strong><br>Identities participants mentioned include: transitioning, activism, parenting, race, age, and neurodivergence. </p>
+   <p><strong>Takeaways for advice sources:</strong> 
+    <ol>
+    <li>Communal learning can be effective: discussing online threats and mitigations with other members of a community makes it easier and less intimidating to take action.</li>
+    <ol>Advice should be coupled with emotional support.</li>
+    <ol>Platform-provided documents should communicate credibility and include explanations.</li>
+   </ul>
+   </p>
+  </div>
+</section>
 
 # Introduction
 About 80% of American LGBTQ+ (an umbrella
