@@ -58,7 +58,7 @@
 }
 
 .accordion .handle label:before {
-  font-family: 'fontawesome';
+  font-family: 'Font Awesome 5 Free';
   content: "\f054";
   display: inline-block;
   margin-right: 10px;
