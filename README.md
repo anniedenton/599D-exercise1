@@ -1,6 +1,7 @@
 # “Like Lesbians Walking the Perimeter”: Experiences of U.S. LGBTQ+ Folks With Online Security, Safety, and Privacy Advice
 
 <style>
+ @import url("https://use.fontawesome.com/releases/v5.13.0/css/all.css")
 /*
  Collapsible source: https://codepen.io/markcaron/pen/RVvmaz
 */
