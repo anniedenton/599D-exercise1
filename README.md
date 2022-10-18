@@ -68,7 +68,7 @@
 }
 
 .accordion > input[type="checkbox"]:checked ~ .handle label:before {
-  font-family: FontAwesome;
+  font-family: "Font Awesome 5 Free";
   content: "\f078";
 }
 
