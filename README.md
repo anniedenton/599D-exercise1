@@ -68,12 +68,13 @@
 }
 
 .accordion > input[type="checkbox"]:checked ~ .handle label:before {
+  font-family: FontAwesome;
   content: "\f078";
 }
 
 
 /*
- Demo purposes only
+ sizing
 */
 *,
 *:before,
@@ -93,7 +94,7 @@
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  border-bottom: 1px dotted black; /* dots under the hoverable text */
 }
 
 /* Tooltip text */
@@ -106,7 +107,7 @@
   padding: 5px 0;
   border-radius: 6px;
  
-  /* Position the tooltip text - see examples below! */
+  /* Position the tooltip text */
   position: absolute;
   z-index: 1;
 }
