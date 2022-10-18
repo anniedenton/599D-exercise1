@@ -138,7 +138,7 @@ and advice perception.
 <section class="accordion">
   <input type="checkbox" name="collapse2" id="handle3">
   <h2 class="handle">
-    <label for="handle3">If you're a provider or source of security advice, click here for key takeaways</label>
+    <label for="handle3">If you're a provider of security advice, click here for key takeaways</label>
   </h2>
   <div class="content">
     <p><strong>Reported challenginges in finding useful advice</strong> 
@@ -156,9 +156,9 @@ and advice perception.
    <p><strong>Takeaways for advice sources:</strong> 
     <ol>
     <li>Communal learning can be effective: discussing online threats and mitigations with other members of a community makes it easier and less intimidating to take action.</li>
-    <ol>Advice should be coupled with emotional support.</li>
-    <ol>Platform-provided documents should communicate credibility and include explanations.</li>
-   </ul>
+    <li>Advice should be coupled with emotional support.</li>
+    <li>Platform-provided documents should communicate credibility and include explanations.</li>
+   </ol>
    </p>
   </div>
 </section>
