@@ -142,7 +142,7 @@ and advice perception.
     <label for="handle3">If you're a provider of security advice, click here for key takeaways</label>
   </h2>
   <div class="content">
-    <p><strong>Reported challenginges in finding useful advice</strong> 
+    <p><strong>Reported challenginges in finding useful advice:</strong> 
      <ul>
      <li>Distrust in advice source</li>
     <li>Advice becoming out-of-date as technology changes</li>
@@ -153,7 +153,7 @@ and advice perception.
     <li>Advice would interfere with income</li>
    </ul>
    </p>
-    <p><strong>Participants' other identities also affected how they navigate safety.</strong><br>Identities participants mentioned include: transitioning, activism, parenting, race, age, and neurodivergence. </p>
+    <p><strong>Participants' other identities affected how they navigate safety.</strong><br>Identities participants mentioned include: transitioning, activism, parenting, race, age, and neurodivergence. </p>
    <p><strong>Takeaways for advice sources:</strong> 
     <ol>
     <li>Communal learning can be effective: discussing online threats and mitigations with other members of a community makes it easier and less intimidating to take action.</li>
